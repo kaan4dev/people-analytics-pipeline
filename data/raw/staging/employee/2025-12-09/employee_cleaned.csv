@@ -1,0 +1,1471 @@
+employeeid,firstname,lastname,age,gender,maritalstatus,department,jobrole,monthlyincome,educationlevel,hiredate,employmentstatus,managerid,businesstravel,overtime
+1,Emp1,LN1,21,Male,Single,It,IT Support,6274,High School,2006-08-13,Terminated,,Travel_Frequently,Yes
+2,Emp2,LN2,23,Female,Single,Engineering,Data Engineer,12147,Master's,2006-12-06,Terminated,,Travel_Rarely,Yes
+3,Emp3,LN3,59,Male,Married,Marketing,Marketing Analyst,9454,PhD,2008-05-26,Active,,Travel_Frequently,Yes
+4,Emp4,LN4,44,Male,Divorced,Finance,Finance Manager,4758,PhD,2016-06-06,Terminated,,Travel_Frequently,No
+5,Emp5,LN5,43,Male,Married,Engineering,Data Engineer,5832,Master's,2018-09-21,Terminated,,Non-Travel,No
+6,Emp6,LN6,43,Male,Single,Engineering,Data Engineer,8608,PhD,2022-12-13,Active,,Non-Travel,No
+7,Emp7,LN7,49,Nonbinary,Single,R&D,Lab Technician,17444,Bachelor's,2019-09-07,Terminated,,Travel_Frequently,No
+8,Emp8,LN8,25,Male,Divorced,Finance,Accountant,5757,PhD,2020-01-19,Active,,Non-Travel,No
+9,Emp9,LN9,52,Female,Married,Operations,Logistics Coordinator,10739,PhD,2017-04-16,Terminated,,Travel_Frequently,Yes
+10,Emp10,LN10,59,Male,Divorced,Sales,Account Manager,15224,Associate's,2006-08-28,Leave of Absence,,Travel_Frequently,No
+11,Emp11,LN11,58,Female,Married,Sales,Account Manager,4688,PhD,2008-01-17,Active,128.0,Travel_Rarely,No
+12,Emp12,LN12,36,Female,Single,Human Resources,Recruiter,19978,High School,2022-06-22,Leave of Absence,28.0,Non-Travel,No
+13,Emp13,LN13,60,Female,Divorced,Sales,Sales Executive,16075,High School,2017-12-06,Leave of Absence,29.0,Travel_Rarely,No
+14,Emp14,LN14,54,Nonbinary,Divorced,R&D,Research Scientist,10625,Bachelor's,2012-09-21,Leave of Absence,88.0,Travel_Frequently,Yes
+15,Emp15,LN15,25,Male,Divorced,It,IT Support,8263,PhD,2009-05-01,Terminated,145.0,Travel_Rarely,No
+16,Emp16,LN16,49,Male,Married,Customer Success,Support Associate,18881,Master's,2018-02-13,Leave of Absence,80.0,Non-Travel,Yes
+17,Emp17,LN17,31,Female,Married,R&D,Principal Researcher,4148,Associate's,2021-06-04,Terminated,98.0,Travel_Frequently,No
+18,Emp18,LN18,22,Nonbinary,Single,Engineering,Software Engineer,10435,High School,2019-01-22,Active,89.0,Travel_Rarely,No
+19,Emp19,LN19,26,Female,Single,Marketing,Marketing Analyst,12970,Bachelor's,2012-07-16,Leave of Absence,127.0,Travel_Rarely,No
+20,Emp20,LN20,47,Male,Married,Engineering,Data Engineer,16751,High School,2019-01-05,Leave of Absence,84.0,Non-Travel,No
+21,Emp21,LN21,57,Female,Single,Engineering,Software Engineer,6833,High School,2009-06-07,Leave of Absence,112.0,Non-Travel,No
+22,Emp22,LN22,51,Female,Divorced,Sales,Account Manager,9625,PhD,2013-02-23,Active,108.0,Travel_Frequently,No
+23,Emp23,LN23,33,Nonbinary,Divorced,Marketing,Marketing Analyst,9508,Associate's,2011-05-30,Active,43.0,Travel_Frequently,Yes
+24,Emp24,LN24,31,Nonbinary,Single,R&D,Lab Technician,11149,High School,2005-07-05,Active,66.0,Travel_Frequently,Yes
+25,Emp25,LN25,41,Female,Divorced,R&D,Principal Researcher,7032,High School,2008-12-04,Terminated,40.0,Travel_Frequently,No
+26,Emp26,LN26,50,Nonbinary,Divorced,Sales,Account Manager,8024,PhD,2016-01-09,Terminated,105.0,Travel_Rarely,No
+27,Emp27,LN27,23,Nonbinary,Married,It,Systems Admin,18878,Master's,2018-09-16,Terminated,118.0,Travel_Frequently,No
+28,Emp28,LN28,25,Male,Married,R&D,Principal Researcher,15960,PhD,2010-05-19,Leave of Absence,58.0,Non-Travel,No
+29,Emp29,LN29,56,Nonbinary,Married,Customer Success,Customer Success Manager,8974,High School,2013-04-26,Leave of Absence,6.0,Travel_Rarely,Yes
+30,Emp30,LN30,26,Female,Married,Engineering,Data Engineer,10561,PhD,2021-06-24,Active,62.0,Travel_Rarely,Yes
+31,Emp31,LN31,39,Nonbinary,Divorced,Customer Success,Customer Success Manager,5238,Bachelor's,2022-01-24,Active,94.0,Travel_Rarely,No
+32,Emp32,LN32,55,Female,Single,Customer Success,Customer Success Manager,4467,Bachelor's,2008-01-02,Active,73.0,Non-Travel,No
+33,Emp33,LN33,30,Female,Divorced,Human Resources,Recruiter,11449,PhD,2009-05-30,Leave of Absence,25.0,Non-Travel,No
+34,Emp34,LN34,45,Male,Married,R&D,Principal Researcher,11965,PhD,2019-12-19,Leave of Absence,81.0,Travel_Rarely,Yes
+35,Emp35,LN35,32,Male,Single,Human Resources,HR Manager,6844,High School,2010-08-10,Leave of Absence,1.0,Travel_Frequently,No
+36,Emp36,LN36,60,Nonbinary,Divorced,Engineering,Software Engineer,16459,Bachelor's,2009-06-14,Terminated,40.0,Travel_Frequently,No
+37,Emp37,LN37,21,Male,Divorced,Finance,Finance Manager,8163,PhD,2008-12-09,Active,78.0,Travel_Frequently,Yes
+38,Emp38,LN38,53,Nonbinary,Divorced,Customer Success,Customer Success Manager,12557,High School,2014-02-06,Terminated,107.0,Travel_Frequently,No
+39,Emp39,LN39,32,Male,Married,Finance,Financial Analyst,9276,Master's,2017-09-25,Leave of Absence,86.0,Travel_Frequently,Yes
+40,Emp40,LN40,33,Female,Single,Engineering,DevOps Engineer,18542,High School,2009-02-14,Leave of Absence,17.0,Non-Travel,No
+41,Emp41,LN41,45,Nonbinary,Divorced,Finance,Finance Manager,5621,PhD,2013-03-31,Active,93.0,Travel_Rarely,No
+42,Emp42,LN42,27,Male,Single,Operations,Logistics Coordinator,16275,Associate's,2008-04-19,Active,110.0,Non-Travel,Yes
+43,Emp43,LN43,42,Nonbinary,Divorced,Human Resources,Recruiter,9097,Bachelor's,2010-11-15,Terminated,14.0,Travel_Frequently,No
+44,Emp44,LN44,55,Male,Divorced,R&D,Principal Researcher,10278,Bachelor's,2005-09-04,Active,92.0,Travel_Rarely,Yes
+45,Emp45,LN45,39,Male,Divorced,Engineering,Data Engineer,8544,Master's,2006-12-13,Active,91.0,Travel_Rarely,No
+46,Emp46,LN46,22,Female,Divorced,Finance,Finance Manager,19845,Associate's,2014-11-08,Leave of Absence,132.0,Travel_Frequently,No
+47,Emp47,LN47,37,Nonbinary,Divorced,Human Resources,Recruiter,13085,Bachelor's,2008-03-30,Leave of Absence,39.0,Travel_Frequently,No
+48,Emp48,LN48,32,Nonbinary,Single,Operations,Logistics Coordinator,16704,High School,2007-05-13,Terminated,63.0,Travel_Rarely,Yes
+49,Emp49,LN49,26,Nonbinary,Divorced,It,Network Engineer,16396,Master's,2006-02-27,Leave of Absence,15.0,Travel_Rarely,Yes
+50,Emp50,LN50,39,Nonbinary,Married,It,IT Support,12452,Bachelor's,2015-09-11,Leave of Absence,9.0,Travel_Frequently,No
+51,Emp51,LN51,31,Female,Divorced,Finance,Finance Manager,12821,Bachelor's,2015-02-25,Active,97.0,Travel_Rarely,No
+52,Emp52,LN52,22,Female,Married,Finance,Accountant,6256,Associate's,2022-02-14,Terminated,23.0,Non-Travel,Yes
+53,Emp53,LN53,57,Female,Divorced,Finance,Financial Analyst,6517,Associate's,2006-02-12,Active,44.0,Travel_Frequently,No
+54,Emp54,LN54,24,Male,Divorced,Engineering,DevOps Engineer,5487,Master's,2011-06-25,Active,12.0,Non-Travel,No
+55,Emp55,LN55,30,Male,Single,Operations,Logistics Coordinator,16864,Associate's,2005-12-08,Terminated,47.0,Non-Travel,Yes
+56,Emp56,LN56,37,Nonbinary,Married,Human Resources,Recruiter,4593,Associate's,2019-04-18,Leave of Absence,87.0,Travel_Rarely,No
+57,Emp57,LN57,41,Male,Married,It,Systems Admin,16759,Associate's,2018-09-01,Terminated,49.0,Non-Travel,Yes
+58,Emp58,LN58,48,Male,Single,Engineering,Data Engineer,19302,PhD,2020-06-27,Active,123.0,Travel_Rarely,No
+59,Emp59,LN59,31,Female,Married,Customer Success,Support Associate,5041,PhD,2008-02-01,Leave of Absence,111.0,Travel_Frequently,No
+60,Emp60,LN60,40,Male,Single,Engineering,Data Engineer,14363,High School,2020-06-20,Active,70.0,Travel_Rarely,No
+61,Emp61,LN61,58,Female,Divorced,R&D,Research Scientist,16008,Bachelor's,2008-06-16,Terminated,5.0,Travel_Rarely,No
+62,Emp62,LN62,38,Nonbinary,Divorced,Engineering,Software Engineer,14037,High School,2013-06-16,Leave of Absence,85.0,Non-Travel,No
+63,Emp63,LN63,54,Female,Single,Engineering,DevOps Engineer,15984,Master's,2005-12-11,Leave of Absence,80.0,Non-Travel,Yes
+64,Emp64,LN64,36,Male,Married,Operations,Operations Analyst,15061,Associate's,2007-05-04,Terminated,55.0,Travel_Frequently,No
+65,Emp65,LN65,35,Male,Divorced,Human Resources,HR Manager,17605,PhD,2012-04-08,Active,24.0,Non-Travel,Yes
+66,Emp66,LN66,28,Nonbinary,Married,R&D,Lab Technician,18271,PhD,2013-10-25,Active,34.0,Non-Travel,No
+67,Emp67,LN67,27,Nonbinary,Single,Engineering,Data Engineer,8177,High School,2020-10-14,Terminated,92.0,Travel_Frequently,No
+68,Emp68,LN68,29,Male,Married,Engineering,Software Engineer,12504,Master's,2005-10-28,Active,144.0,Travel_Rarely,Yes
+69,Emp69,LN69,56,Male,Divorced,Human Resources,HR Manager,17376,Associate's,2019-06-02,Terminated,7.0,Travel_Rarely,Yes
+70,Emp70,LN70,33,Female,Single,Engineering,Software Engineer,14518,Associate's,2006-08-02,Terminated,68.0,Travel_Frequently,No
+71,Emp71,LN71,26,Female,Married,Marketing,Brand Manager,18984,PhD,2018-12-25,Terminated,145.0,Non-Travel,No
+72,Emp72,LN72,57,Male,Single,Sales,Sales Representative,8509,PhD,2011-04-19,Leave of Absence,73.0,Travel_Rarely,Yes
+73,Emp73,LN73,28,Male,Divorced,Human Resources,HR Specialist,7789,High School,2008-01-07,Active,103.0,Travel_Rarely,Yes
+74,Emp74,LN74,37,Nonbinary,Single,Operations,Operations Analyst,10971,Associate's,2010-12-25,Leave of Absence,121.0,Non-Travel,No
+75,Emp75,LN75,29,Female,Married,Marketing,SEO Specialist,6809,PhD,2022-01-29,Leave of Absence,31.0,Travel_Frequently,Yes
+76,Emp76,LN76,55,Nonbinary,Married,Marketing,Brand Manager,10311,Master's,2014-01-02,Active,50.0,Travel_Frequently,No
+77,Emp77,LN77,33,Male,Married,R&D,Research Scientist,18370,Master's,2012-07-29,Terminated,103.0,Travel_Frequently,Yes
+78,Emp78,LN78,32,Female,Single,Finance,Accountant,14496,PhD,2007-10-14,Terminated,19.0,Travel_Rarely,Yes
+79,Emp79,LN79,58,Male,Single,Human Resources,HR Specialist,6799,PhD,2015-09-04,Terminated,109.0,Travel_Frequently,Yes
+80,Emp80,LN80,42,Female,Single,Marketing,SEO Specialist,18489,Master's,2006-08-15,Active,54.0,Non-Travel,Yes
+81,Emp81,LN81,60,Female,Married,Sales,Sales Representative,19708,Master's,2007-07-19,Leave of Absence,124.0,Travel_Rarely,Yes
+82,Emp82,LN82,23,Nonbinary,Married,R&D,Principal Researcher,7128,PhD,2021-07-30,Leave of Absence,129.0,Travel_Rarely,Yes
+83,Emp83,LN83,25,Male,Divorced,Finance,Finance Manager,15344,Bachelor's,2021-09-22,Terminated,40.0,Travel_Rarely,Yes
+84,Emp84,LN84,21,Female,Divorced,It,Systems Admin,19467,High School,2012-04-06,Active,20.0,Travel_Rarely,No
+85,Emp85,LN85,28,Female,Divorced,Finance,Finance Manager,11069,PhD,2005-09-21,Terminated,132.0,Travel_Rarely,Yes
+86,Emp86,LN86,34,Male,Divorced,Marketing,Brand Manager,6084,Master's,2008-05-03,Active,55.0,Travel_Frequently,No
+87,Emp87,LN87,58,Female,Single,Marketing,Marketing Analyst,10981,Bachelor's,2014-07-17,Terminated,105.0,Travel_Rarely,No
+88,Emp88,LN88,29,Nonbinary,Married,It,IT Support,9483,Associate's,2016-01-30,Active,34.0,Travel_Frequently,No
+89,Emp89,LN89,54,Male,Divorced,R&D,Principal Researcher,7515,Associate's,2019-05-22,Terminated,18.0,Travel_Frequently,No
+90,Emp90,LN90,58,Male,Married,Customer Success,Customer Success Manager,16709,Associate's,2005-12-24,Active,69.0,Travel_Rarely,Yes
+91,Emp91,LN91,28,Male,Single,Human Resources,HR Manager,10035,High School,2020-11-19,Leave of Absence,126.0,Non-Travel,Yes
+92,Emp92,LN92,51,Male,Divorced,Operations,Logistics Coordinator,16759,High School,2015-06-07,Terminated,10.0,Non-Travel,No
+93,Emp93,LN93,43,Nonbinary,Single,Operations,Logistics Coordinator,15824,Bachelor's,2016-01-26,Leave of Absence,44.0,Travel_Rarely,No
+94,Emp94,LN94,51,Nonbinary,Single,Operations,Logistics Coordinator,14272,Associate's,2020-11-26,Terminated,10.0,Travel_Frequently,Yes
+95,Emp95,LN95,21,Nonbinary,Divorced,Customer Success,Customer Success Manager,10408,Master's,2016-12-22,Terminated,47.0,Travel_Rarely,Yes
+96,Emp96,LN96,44,Male,Divorced,R&D,Lab Technician,19058,Bachelor's,2006-11-24,Leave of Absence,26.0,Non-Travel,No
+97,Emp97,LN97,41,Male,Single,Operations,Operations Analyst,16585,Bachelor's,2012-07-24,Leave of Absence,89.0,Travel_Rarely,No
+98,Emp98,LN98,45,Male,Married,Operations,Operations Analyst,8404,Master's,2014-11-29,Leave of Absence,92.0,Travel_Rarely,Yes
+99,Emp99,LN99,44,Male,Divorced,R&D,Lab Technician,18807,Bachelor's,2007-02-28,Terminated,37.0,Travel_Rarely,No
+100,Emp100,LN100,51,Male,Divorced,Marketing,SEO Specialist,7621,Master's,2007-04-30,Terminated,116.0,Travel_Rarely,No
+101,Emp101,LN101,40,Nonbinary,Married,Finance,Finance Manager,12183,PhD,2016-09-05,Leave of Absence,70.0,Travel_Frequently,No
+102,Emp102,LN102,48,Male,Divorced,It,IT Support,7352,Bachelor's,2011-07-18,Active,85.0,Travel_Rarely,No
+103,Emp103,LN103,60,Nonbinary,Divorced,R&D,Lab Technician,5099,Master's,2006-11-24,Active,107.0,Travel_Rarely,Yes
+104,Emp104,LN104,57,Female,Divorced,Engineering,Data Engineer,13069,High School,2014-10-02,Terminated,129.0,Travel_Rarely,Yes
+105,Emp105,LN105,44,Male,Married,Marketing,SEO Specialist,12338,PhD,2014-04-28,Leave of Absence,124.0,Travel_Frequently,No
+106,Emp106,LN106,23,Male,Single,R&D,Lab Technician,19172,PhD,2014-02-18,Active,54.0,Travel_Frequently,Yes
+107,Emp107,LN107,40,Female,Single,R&D,Principal Researcher,6245,PhD,2013-07-29,Leave of Absence,127.0,Travel_Rarely,No
+108,Emp108,LN108,32,Female,Divorced,Operations,Logistics Coordinator,7842,Master's,2014-04-16,Active,82.0,Travel_Frequently,Yes
+109,Emp109,LN109,24,Male,Divorced,Human Resources,Recruiter,6875,High School,2013-06-24,Active,68.0,Non-Travel,Yes
+110,Emp110,LN110,21,Male,Single,It,Network Engineer,10283,PhD,2016-04-28,Active,10.0,Travel_Frequently,Yes
+111,Emp111,LN111,21,Male,Divorced,Customer Success,Customer Success Manager,4905,High School,2009-07-21,Leave of Absence,67.0,Non-Travel,Yes
+112,Emp112,LN112,25,Male,Married,Marketing,SEO Specialist,5531,Bachelor's,2006-10-06,Terminated,2.0,Non-Travel,No
+113,Emp113,LN113,40,Female,Married,It,Network Engineer,19767,Master's,2010-10-25,Active,87.0,Travel_Frequently,No
+114,Emp114,LN114,44,Nonbinary,Married,Customer Success,Customer Success Manager,15958,Bachelor's,2016-06-05,Active,117.0,Travel_Frequently,No
+115,Emp115,LN115,43,Nonbinary,Divorced,Customer Success,Customer Success Manager,6725,Bachelor's,2007-04-26,Active,47.0,Travel_Frequently,Yes
+116,Emp116,LN116,52,Male,Divorced,Operations,Logistics Coordinator,4947,Bachelor's,2010-04-09,Active,43.0,Travel_Frequently,No
+117,Emp117,LN117,46,Nonbinary,Married,Customer Success,Support Associate,18197,High School,2006-10-02,Leave of Absence,114.0,Travel_Rarely,No
+118,Emp118,LN118,39,Female,Divorced,Sales,Sales Representative,5152,PhD,2020-05-04,Terminated,92.0,Travel_Frequently,Yes
+119,Emp119,LN119,43,Male,Divorced,Marketing,Marketing Analyst,9415,High School,2016-08-31,Terminated,135.0,Non-Travel,Yes
+120,Emp120,LN120,38,Nonbinary,Divorced,Marketing,Marketing Analyst,19462,Associate's,2013-11-23,Active,2.0,Travel_Rarely,No
+121,Emp121,LN121,47,Male,Married,Marketing,SEO Specialist,8658,PhD,2021-12-14,Leave of Absence,51.0,Travel_Frequently,No
+122,Emp122,LN122,56,Female,Divorced,Customer Success,Support Associate,4094,Associate's,2016-05-21,Leave of Absence,70.0,Non-Travel,Yes
+123,Emp123,LN123,23,Nonbinary,Divorced,It,Systems Admin,3971,Bachelor's,2012-12-13,Terminated,121.0,Non-Travel,Yes
+124,Emp124,LN124,29,Female,Single,Finance,Finance Manager,18608,Associate's,2020-09-25,Active,17.0,Travel_Frequently,Yes
+125,Emp125,LN125,56,Female,Divorced,Customer Success,Support Associate,16741,Bachelor's,2013-07-05,Active,3.0,Non-Travel,No
+126,Emp126,LN126,44,Nonbinary,Divorced,Human Resources,Recruiter,19697,Bachelor's,2014-09-10,Active,3.0,Travel_Rarely,No
+127,Emp127,LN127,49,Nonbinary,Married,R&D,Principal Researcher,11093,High School,2012-02-23,Leave of Absence,40.0,Non-Travel,No
+128,Emp128,LN128,20,Male,Divorced,R&D,Research Scientist,3727,PhD,2020-11-13,Leave of Absence,46.0,Travel_Rarely,No
+129,Emp129,LN129,31,Male,Married,Finance,Financial Analyst,3331,High School,2013-03-07,Terminated,99.0,Travel_Frequently,Yes
+130,Emp130,LN130,46,Nonbinary,Divorced,Finance,Finance Manager,4347,High School,2013-06-28,Terminated,115.0,Travel_Rarely,No
+131,Emp131,LN131,37,Nonbinary,Married,Finance,Finance Manager,6026,Master's,2008-10-26,Terminated,131.0,Travel_Frequently,Yes
+132,Emp132,LN132,60,Male,Married,R&D,Principal Researcher,18308,Associate's,2005-09-07,Terminated,79.0,Non-Travel,Yes
+133,Emp133,LN133,56,Male,Divorced,Engineering,Software Engineer,19834,PhD,2009-08-29,Leave of Absence,119.0,Travel_Frequently,No
+134,Emp134,LN134,45,Female,Married,It,Systems Admin,14074,Associate's,2020-07-03,Terminated,121.0,Travel_Rarely,Yes
+135,Emp135,LN135,43,Nonbinary,Divorced,Engineering,Data Engineer,5702,High School,2017-06-20,Leave of Absence,28.0,Travel_Rarely,Yes
+136,Emp136,LN136,58,Female,Single,Marketing,Brand Manager,11875,Associate's,2014-02-21,Leave of Absence,52.0,Non-Travel,No
+137,Emp137,LN137,41,Nonbinary,Single,Engineering,DevOps Engineer,16303,Associate's,2018-06-14,Leave of Absence,39.0,Non-Travel,No
+138,Emp138,LN138,38,Nonbinary,Divorced,Marketing,SEO Specialist,14762,Associate's,2008-11-08,Leave of Absence,115.0,Travel_Rarely,No
+139,Emp139,LN139,33,Male,Divorced,Customer Success,Customer Success Manager,16477,PhD,2011-10-25,Leave of Absence,142.0,Non-Travel,No
+140,Emp140,LN140,52,Female,Married,Sales,Sales Executive,4851,High School,2012-07-06,Terminated,58.0,Travel_Frequently,No
+141,Emp141,LN141,59,Female,Single,Sales,Account Manager,17871,PhD,2005-07-18,Active,16.0,Travel_Rarely,Yes
+142,Emp142,LN142,49,Female,Married,Sales,Sales Executive,16860,PhD,2020-12-20,Active,23.0,Travel_Rarely,Yes
+143,Emp143,LN143,49,Female,Divorced,Human Resources,HR Specialist,16560,Associate's,2009-07-05,Terminated,69.0,Travel_Frequently,No
+144,Emp144,LN144,22,Female,Single,Engineering,Data Engineer,8586,Bachelor's,2019-05-08,Leave of Absence,19.0,Non-Travel,Yes
+145,Emp145,LN145,21,Female,Single,Customer Success,Support Associate,15354,Associate's,2020-07-17,Active,2.0,Travel_Frequently,No
+146,Emp146,LN146,36,Female,Married,R&D,Lab Technician,8092,Bachelor's,2017-03-11,Active,89.0,Travel_Rarely,Yes
+147,Emp147,LN147,39,Female,Divorced,Operations,Logistics Coordinator,8695,Master's,2021-07-29,Terminated,20.0,Non-Travel,Yes
+148,Emp148,LN148,53,Female,Divorced,Finance,Finance Manager,5195,Associate's,2020-01-14,Terminated,24.0,Non-Travel,Yes
+149,Emp149,LN149,31,Nonbinary,Divorced,Customer Success,Customer Success Manager,12694,Master's,2013-09-10,Active,136.0,Travel_Rarely,No
+150,Emp150,LN150,38,Male,Divorced,Marketing,Brand Manager,13487,Master's,2016-08-23,Leave of Absence,144.0,Non-Travel,No
+151,Emp151,LN151,59,Male,Married,Marketing,Marketing Analyst,6730,Master's,2010-01-02,Active,140.0,Travel_Rarely,No
+152,Emp152,LN152,44,Nonbinary,Married,Marketing,SEO Specialist,18902,Master's,2013-11-16,Leave of Absence,37.0,Non-Travel,Yes
+153,Emp153,LN153,26,Female,Divorced,Human Resources,Recruiter,19259,High School,2009-06-08,Terminated,112.0,Travel_Frequently,Yes
+154,Emp154,LN154,60,Nonbinary,Married,Operations,Logistics Coordinator,19894,Associate's,2013-01-08,Active,9.0,Travel_Frequently,No
+155,Emp155,LN155,50,Male,Single,Customer Success,Customer Success Manager,9113,Associate's,2014-07-08,Terminated,124.0,Non-Travel,Yes
+156,Emp156,LN156,47,Nonbinary,Married,Marketing,Brand Manager,14850,PhD,2015-09-01,Active,83.0,Travel_Frequently,No
+157,Emp157,LN157,53,Female,Single,Operations,Logistics Coordinator,9989,Associate's,2008-11-20,Terminated,91.0,Travel_Rarely,Yes
+158,Emp158,LN158,40,Female,Married,Engineering,DevOps Engineer,5694,Master's,2021-11-27,Active,146.0,Travel_Rarely,Yes
+159,Emp159,LN159,51,Female,Divorced,Human Resources,Recruiter,10998,Associate's,2014-12-29,Terminated,66.0,Non-Travel,Yes
+160,Emp160,LN160,27,Male,Married,It,Network Engineer,15550,Bachelor's,2009-07-14,Active,88.0,Non-Travel,No
+161,Emp161,LN161,58,Male,Single,Customer Success,Support Associate,3361,Master's,2009-05-24,Leave of Absence,72.0,Travel_Frequently,Yes
+162,Emp162,LN162,42,Female,Divorced,It,Network Engineer,3358,High School,2013-03-15,Terminated,111.0,Travel_Rarely,Yes
+163,Emp163,LN163,45,Male,Married,Human Resources,Recruiter,7719,Bachelor's,2013-07-14,Active,3.0,Travel_Frequently,No
+164,Emp164,LN164,25,Male,Divorced,Finance,Finance Manager,8516,High School,2006-09-03,Terminated,32.0,Travel_Rarely,No
+165,Emp165,LN165,40,Male,Single,It,Network Engineer,11122,PhD,2015-01-07,Terminated,115.0,Travel_Frequently,Yes
+166,Emp166,LN166,47,Male,Single,Engineering,Data Engineer,4994,High School,2008-06-16,Active,38.0,Non-Travel,No
+167,Emp167,LN167,27,Female,Divorced,Customer Success,Support Associate,7872,Associate's,2020-12-13,Active,51.0,Travel_Frequently,Yes
+168,Emp168,LN168,25,Nonbinary,Divorced,Marketing,Brand Manager,19017,PhD,2008-11-17,Terminated,82.0,Travel_Frequently,Yes
+169,Emp169,LN169,35,Female,Married,Engineering,DevOps Engineer,4094,Master's,2011-11-26,Terminated,32.0,Travel_Rarely,No
+170,Emp170,LN170,23,Male,Married,Engineering,Data Engineer,10071,High School,2015-07-25,Terminated,106.0,Non-Travel,Yes
+171,Emp171,LN171,41,Male,Single,Operations,Logistics Coordinator,9131,Associate's,2018-12-10,Active,84.0,Non-Travel,No
+172,Emp172,LN172,34,Male,Divorced,Sales,Sales Representative,16173,Bachelor's,2014-11-17,Active,131.0,Travel_Frequently,Yes
+173,Emp173,LN173,37,Nonbinary,Married,Finance,Accountant,5224,Master's,2021-05-23,Active,111.0,Travel_Frequently,Yes
+174,Emp174,LN174,41,Nonbinary,Single,Engineering,DevOps Engineer,18888,Associate's,2010-12-17,Terminated,50.0,Travel_Rarely,No
+175,Emp175,LN175,40,Male,Divorced,Operations,Operations Analyst,12940,Bachelor's,2016-05-01,Leave of Absence,108.0,Non-Travel,No
+176,Emp176,LN176,51,Nonbinary,Single,Customer Success,Support Associate,11098,Bachelor's,2020-09-07,Active,60.0,Travel_Frequently,Yes
+177,Emp177,LN177,32,Nonbinary,Single,Engineering,Data Engineer,4815,Master's,2006-10-02,Leave of Absence,40.0,Travel_Rarely,Yes
+178,Emp178,LN178,39,Female,Married,Finance,Accountant,14353,Master's,2022-07-25,Active,114.0,Non-Travel,Yes
+179,Emp179,LN179,54,Nonbinary,Married,Finance,Finance Manager,4945,Master's,2021-05-07,Leave of Absence,4.0,Non-Travel,Yes
+180,Emp180,LN180,60,Nonbinary,Married,Marketing,SEO Specialist,18824,Master's,2014-01-28,Leave of Absence,63.0,Travel_Frequently,Yes
+181,Emp181,LN181,48,Nonbinary,Single,Customer Success,Support Associate,8916,Master's,2008-01-26,Leave of Absence,6.0,Travel_Frequently,No
+182,Emp182,LN182,23,Male,Divorced,Finance,Finance Manager,8930,Bachelor's,2006-04-08,Terminated,91.0,Non-Travel,No
+183,Emp183,LN183,20,Nonbinary,Divorced,Sales,Sales Executive,10019,High School,2021-12-06,Active,92.0,Non-Travel,Yes
+184,Emp184,LN184,55,Male,Single,Engineering,DevOps Engineer,14888,Associate's,2020-04-22,Leave of Absence,107.0,Travel_Rarely,Yes
+185,Emp185,LN185,22,Female,Divorced,Operations,Operations Analyst,15691,Bachelor's,2013-10-16,Leave of Absence,58.0,Travel_Frequently,Yes
+186,Emp186,LN186,51,Female,Divorced,Finance,Finance Manager,8444,Bachelor's,2006-09-23,Terminated,143.0,Non-Travel,Yes
+187,Emp187,LN187,60,Female,Divorced,Marketing,SEO Specialist,13233,Bachelor's,2010-09-09,Leave of Absence,145.0,Travel_Rarely,Yes
+188,Emp188,LN188,45,Female,Divorced,Human Resources,HR Specialist,3885,Bachelor's,2006-02-21,Terminated,117.0,Travel_Rarely,No
+189,Emp189,LN189,47,Male,Married,Customer Success,Customer Success Manager,17685,Associate's,2022-08-04,Terminated,41.0,Travel_Rarely,No
+190,Emp190,LN190,40,Male,Single,Marketing,SEO Specialist,13142,Bachelor's,2022-06-07,Active,118.0,Travel_Frequently,No
+191,Emp191,LN191,38,Female,Divorced,Engineering,Software Engineer,15211,High School,2019-01-15,Terminated,136.0,Travel_Frequently,No
+192,Emp192,LN192,23,Nonbinary,Divorced,Engineering,Software Engineer,18880,PhD,2013-07-12,Active,9.0,Travel_Frequently,Yes
+193,Emp193,LN193,46,Female,Married,Engineering,Software Engineer,16861,Bachelor's,2019-12-27,Terminated,2.0,Non-Travel,Yes
+194,Emp194,LN194,21,Male,Divorced,Human Resources,HR Manager,18598,Associate's,2016-04-01,Leave of Absence,39.0,Non-Travel,No
+195,Emp195,LN195,50,Nonbinary,Divorced,Customer Success,Customer Success Manager,15459,Master's,2009-05-28,Active,24.0,Non-Travel,Yes
+196,Emp196,LN196,46,Female,Single,Marketing,Marketing Analyst,7876,Associate's,2012-08-05,Leave of Absence,12.0,Travel_Frequently,Yes
+197,Emp197,LN197,38,Male,Married,Human Resources,HR Specialist,16035,Master's,2014-01-21,Leave of Absence,104.0,Travel_Frequently,Yes
+198,Emp198,LN198,31,Female,Single,Engineering,DevOps Engineer,7876,Master's,2012-10-04,Leave of Absence,7.0,Travel_Frequently,No
+199,Emp199,LN199,52,Male,Divorced,Operations,Logistics Coordinator,6771,Master's,2018-10-17,Terminated,93.0,Non-Travel,No
+200,Emp200,LN200,27,Nonbinary,Married,Operations,Operations Analyst,10217,Associate's,2012-12-11,Terminated,22.0,Travel_Frequently,Yes
+201,Emp201,LN201,23,Nonbinary,Single,Sales,Sales Executive,6515,PhD,2009-03-16,Terminated,63.0,Travel_Frequently,Yes
+202,Emp202,LN202,25,Female,Married,Marketing,SEO Specialist,16555,Bachelor's,2013-06-29,Leave of Absence,22.0,Non-Travel,Yes
+203,Emp203,LN203,27,Female,Single,It,Network Engineer,14724,Master's,2021-04-19,Leave of Absence,97.0,Travel_Rarely,Yes
+204,Emp204,LN204,35,Male,Divorced,Marketing,SEO Specialist,12775,Associate's,2016-02-13,Leave of Absence,129.0,Travel_Rarely,Yes
+205,Emp205,LN205,22,Male,Single,Human Resources,HR Manager,16207,Associate's,2007-10-26,Leave of Absence,128.0,Travel_Frequently,No
+206,Emp206,LN206,56,Male,Divorced,Human Resources,HR Specialist,12728,PhD,2008-11-29,Terminated,124.0,Non-Travel,Yes
+207,Emp207,LN207,34,Female,Single,Sales,Account Manager,8582,Bachelor's,2018-11-20,Active,79.0,Travel_Frequently,No
+208,Emp208,LN208,29,Nonbinary,Single,Sales,Account Manager,7569,Bachelor's,2022-10-21,Terminated,75.0,Travel_Rarely,Yes
+209,Emp209,LN209,29,Nonbinary,Divorced,It,Network Engineer,7292,Bachelor's,2011-11-14,Leave of Absence,86.0,Non-Travel,Yes
+210,Emp210,LN210,25,Nonbinary,Married,It,Network Engineer,17377,Associate's,2008-05-12,Terminated,117.0,Travel_Rarely,Yes
+211,Emp211,LN211,30,Nonbinary,Single,Finance,Financial Analyst,10194,Associate's,2007-08-12,Leave of Absence,40.0,Travel_Frequently,No
+212,Emp212,LN212,45,Male,Single,Marketing,Marketing Analyst,3105,Bachelor's,2015-01-05,Terminated,37.0,Travel_Rarely,No
+213,Emp213,LN213,31,Nonbinary,Single,Operations,Logistics Coordinator,14130,Master's,2016-07-17,Terminated,97.0,Travel_Frequently,No
+214,Emp214,LN214,29,Nonbinary,Single,Human Resources,HR Manager,14687,Bachelor's,2012-04-25,Terminated,72.0,Travel_Rarely,Yes
+215,Emp215,LN215,58,Nonbinary,Divorced,Sales,Sales Executive,19415,Bachelor's,2009-12-30,Leave of Absence,23.0,Non-Travel,No
+216,Emp216,LN216,56,Male,Married,R&D,Lab Technician,4019,Master's,2006-05-23,Leave of Absence,42.0,Travel_Rarely,Yes
+217,Emp217,LN217,32,Female,Divorced,Finance,Financial Analyst,10389,PhD,2011-03-22,Terminated,88.0,Travel_Frequently,No
+218,Emp218,LN218,23,Female,Married,Sales,Account Manager,18619,High School,2009-11-15,Active,57.0,Travel_Rarely,No
+219,Emp219,LN219,21,Male,Single,Sales,Sales Representative,17944,Master's,2005-03-06,Leave of Absence,134.0,Non-Travel,Yes
+220,Emp220,LN220,57,Nonbinary,Divorced,Sales,Sales Representative,5124,Master's,2006-11-07,Leave of Absence,120.0,Travel_Frequently,No
+221,Emp221,LN221,53,Male,Married,Sales,Sales Representative,3993,Associate's,2007-03-19,Active,43.0,Travel_Frequently,No
+222,Emp222,LN222,44,Nonbinary,Single,R&D,Principal Researcher,4579,PhD,2017-07-06,Leave of Absence,99.0,Travel_Rarely,Yes
+223,Emp223,LN223,27,Nonbinary,Single,Operations,Logistics Coordinator,8130,Master's,2011-07-02,Leave of Absence,58.0,Non-Travel,Yes
+224,Emp224,LN224,40,Female,Single,Customer Success,Support Associate,9470,PhD,2009-03-17,Terminated,72.0,Travel_Frequently,Yes
+225,Emp225,LN225,22,Male,Married,Marketing,SEO Specialist,5436,Bachelor's,2017-04-22,Leave of Absence,27.0,Non-Travel,Yes
+226,Emp226,LN226,38,Nonbinary,Married,Operations,Logistics Coordinator,14876,Bachelor's,2016-03-06,Leave of Absence,47.0,Travel_Frequently,No
+227,Emp227,LN227,31,Male,Divorced,Human Resources,HR Manager,9471,PhD,2019-12-08,Leave of Absence,106.0,Non-Travel,No
+228,Emp228,LN228,59,Nonbinary,Married,Operations,Operations Analyst,8618,High School,2020-08-16,Leave of Absence,100.0,Travel_Frequently,Yes
+229,Emp229,LN229,44,Male,Single,Finance,Financial Analyst,19599,PhD,2019-07-22,Leave of Absence,51.0,Travel_Rarely,Yes
+230,Emp230,LN230,41,Nonbinary,Married,Finance,Finance Manager,14997,Bachelor's,2011-05-15,Terminated,109.0,Travel_Frequently,Yes
+231,Emp231,LN231,36,Female,Married,Operations,Operations Analyst,13892,Bachelor's,2010-05-02,Terminated,24.0,Travel_Frequently,Yes
+232,Emp232,LN232,42,Nonbinary,Married,Marketing,Brand Manager,9458,Master's,2016-08-01,Active,21.0,Travel_Rarely,Yes
+233,Emp233,LN233,23,Female,Divorced,Finance,Finance Manager,18983,Associate's,2019-10-12,Terminated,66.0,Travel_Rarely,Yes
+234,Emp234,LN234,26,Nonbinary,Divorced,R&D,Principal Researcher,10242,Associate's,2022-02-04,Leave of Absence,4.0,Travel_Frequently,Yes
+235,Emp235,LN235,24,Nonbinary,Married,Sales,Sales Executive,19186,High School,2014-09-23,Leave of Absence,114.0,Travel_Rarely,No
+236,Emp236,LN236,23,Nonbinary,Divorced,It,Network Engineer,19932,Associate's,2020-11-01,Terminated,123.0,Non-Travel,Yes
+237,Emp237,LN237,31,Male,Married,Customer Success,Customer Success Manager,7362,Associate's,2010-04-23,Terminated,45.0,Non-Travel,No
+238,Emp238,LN238,30,Female,Single,R&D,Principal Researcher,18834,PhD,2015-03-27,Leave of Absence,98.0,Non-Travel,No
+239,Emp239,LN239,24,Female,Divorced,Marketing,Marketing Analyst,4671,High School,2021-02-24,Active,15.0,Travel_Rarely,No
+240,Emp240,LN240,22,Female,Divorced,Finance,Accountant,8071,PhD,2013-10-07,Terminated,137.0,Travel_Frequently,No
+241,Emp241,LN241,49,Female,Divorced,It,Systems Admin,10238,High School,2016-08-22,Active,137.0,Travel_Frequently,Yes
+242,Emp242,LN242,25,Male,Married,Sales,Account Manager,8423,Associate's,2006-05-30,Active,133.0,Non-Travel,Yes
+243,Emp243,LN243,48,Nonbinary,Divorced,Human Resources,HR Specialist,3590,PhD,2005-06-09,Terminated,46.0,Non-Travel,No
+244,Emp244,LN244,31,Nonbinary,Married,Sales,Sales Representative,19176,Associate's,2020-10-25,Terminated,54.0,Travel_Rarely,No
+245,Emp245,LN245,26,Male,Divorced,Sales,Sales Executive,14162,High School,2019-06-20,Leave of Absence,104.0,Travel_Frequently,Yes
+246,Emp246,LN246,28,Female,Single,Finance,Finance Manager,14736,Associate's,2017-06-25,Terminated,147.0,Travel_Rarely,No
+247,Emp247,LN247,60,Male,Divorced,Human Resources,HR Manager,9589,High School,2011-07-12,Active,38.0,Travel_Rarely,No
+248,Emp248,LN248,47,Female,Divorced,R&D,Lab Technician,11996,Bachelor's,2021-08-03,Terminated,102.0,Travel_Frequently,No
+249,Emp249,LN249,57,Nonbinary,Single,Sales,Sales Representative,8732,Bachelor's,2022-05-10,Active,75.0,Non-Travel,No
+250,Emp250,LN250,20,Male,Married,It,Network Engineer,12269,High School,2017-10-13,Leave of Absence,33.0,Non-Travel,No
+251,Emp251,LN251,54,Male,Divorced,Engineering,DevOps Engineer,7329,PhD,2017-08-30,Active,124.0,Travel_Frequently,No
+252,Emp252,LN252,41,Female,Divorced,Customer Success,Support Associate,7351,High School,2008-07-09,Leave of Absence,147.0,Travel_Frequently,Yes
+253,Emp253,LN253,53,Female,Single,Human Resources,Recruiter,14432,Bachelor's,2020-04-25,Active,32.0,Travel_Rarely,Yes
+254,Emp254,LN254,48,Female,Divorced,R&D,Principal Researcher,11584,High School,2019-10-17,Leave of Absence,2.0,Travel_Frequently,Yes
+255,Emp255,LN255,25,Male,Divorced,Sales,Sales Executive,4017,PhD,2017-09-17,Terminated,144.0,Travel_Frequently,Yes
+256,Emp256,LN256,26,Nonbinary,Single,Human Resources,HR Specialist,3298,Bachelor's,2009-05-08,Terminated,138.0,Travel_Frequently,Yes
+257,Emp257,LN257,46,Nonbinary,Single,Sales,Account Manager,10533,Master's,2017-01-25,Leave of Absence,6.0,Travel_Rarely,Yes
+258,Emp258,LN258,26,Nonbinary,Single,Sales,Sales Executive,14250,High School,2012-12-23,Active,134.0,Travel_Frequently,No
+259,Emp259,LN259,50,Nonbinary,Married,R&D,Research Scientist,15020,Associate's,2016-11-15,Leave of Absence,89.0,Travel_Frequently,No
+260,Emp260,LN260,60,Female,Single,Human Resources,HR Specialist,18622,Bachelor's,2013-03-12,Terminated,130.0,Non-Travel,Yes
+261,Emp261,LN261,41,Female,Single,It,IT Support,10595,PhD,2014-12-31,Active,112.0,Non-Travel,Yes
+262,Emp262,LN262,46,Female,Single,Operations,Logistics Coordinator,3970,Master's,2008-07-04,Active,28.0,Non-Travel,No
+263,Emp263,LN263,52,Female,Married,Finance,Financial Analyst,3666,PhD,2014-05-16,Active,139.0,Travel_Frequently,No
+264,Emp264,LN264,20,Nonbinary,Married,R&D,Principal Researcher,12238,Bachelor's,2017-06-15,Active,110.0,Travel_Frequently,Yes
+265,Emp265,LN265,54,Female,Married,Sales,Sales Executive,12413,Master's,2007-06-21,Active,145.0,Non-Travel,No
+266,Emp266,LN266,45,Male,Married,Marketing,Marketing Analyst,7374,Master's,2006-12-02,Leave of Absence,90.0,Travel_Rarely,No
+267,Emp267,LN267,45,Nonbinary,Married,Operations,Operations Analyst,19333,High School,2017-07-02,Terminated,116.0,Non-Travel,Yes
+268,Emp268,LN268,33,Female,Divorced,Finance,Finance Manager,11000,Bachelor's,2019-03-11,Active,84.0,Travel_Rarely,No
+269,Emp269,LN269,39,Nonbinary,Single,Finance,Financial Analyst,13398,Bachelor's,2017-12-01,Active,66.0,Non-Travel,Yes
+270,Emp270,LN270,23,Female,Single,Marketing,SEO Specialist,13578,PhD,2009-09-13,Active,10.0,Travel_Frequently,No
+271,Emp271,LN271,38,Nonbinary,Single,Sales,Sales Executive,6603,PhD,2022-04-21,Leave of Absence,26.0,Travel_Frequently,No
+272,Emp272,LN272,57,Male,Single,Operations,Operations Analyst,15067,Bachelor's,2018-12-01,Active,131.0,Non-Travel,Yes
+273,Emp273,LN273,28,Female,Single,Customer Success,Support Associate,19002,Bachelor's,2012-12-11,Leave of Absence,144.0,Travel_Frequently,No
+274,Emp274,LN274,44,Nonbinary,Divorced,Marketing,Brand Manager,9074,Master's,2016-01-01,Leave of Absence,116.0,Travel_Frequently,No
+275,Emp275,LN275,39,Male,Divorced,Marketing,SEO Specialist,19448,High School,2013-12-16,Terminated,65.0,Non-Travel,No
+276,Emp276,LN276,32,Nonbinary,Married,Human Resources,HR Specialist,16677,Bachelor's,2018-10-11,Active,147.0,Travel_Frequently,No
+277,Emp277,LN277,42,Female,Single,Marketing,Brand Manager,14648,Associate's,2016-03-31,Terminated,120.0,Non-Travel,Yes
+278,Emp278,LN278,46,Female,Divorced,Operations,Operations Analyst,6262,Master's,2005-03-20,Leave of Absence,113.0,Travel_Frequently,Yes
+279,Emp279,LN279,38,Nonbinary,Married,Operations,Logistics Coordinator,9934,High School,2005-11-22,Active,112.0,Travel_Frequently,Yes
+280,Emp280,LN280,29,Nonbinary,Single,Finance,Accountant,5502,Bachelor's,2005-08-31,Terminated,6.0,Non-Travel,No
+281,Emp281,LN281,24,Male,Single,Sales,Account Manager,7377,High School,2010-12-06,Active,101.0,Non-Travel,No
+282,Emp282,LN282,35,Nonbinary,Married,Marketing,SEO Specialist,11248,Master's,2006-09-19,Active,44.0,Travel_Frequently,No
+283,Emp283,LN283,58,Female,Married,Customer Success,Customer Success Manager,13455,High School,2021-03-07,Terminated,136.0,Non-Travel,No
+284,Emp284,LN284,45,Female,Single,It,Network Engineer,4989,Master's,2020-05-10,Terminated,34.0,Travel_Frequently,Yes
+285,Emp285,LN285,22,Male,Single,Marketing,Marketing Analyst,13073,Master's,2014-02-06,Active,76.0,Travel_Frequently,No
+286,Emp286,LN286,54,Nonbinary,Single,Human Resources,HR Manager,19438,Associate's,2008-05-16,Terminated,2.0,Travel_Frequently,No
+287,Emp287,LN287,48,Male,Divorced,Marketing,SEO Specialist,5300,Associate's,2007-10-11,Terminated,95.0,Travel_Frequently,No
+288,Emp288,LN288,60,Male,Single,Human Resources,HR Specialist,4581,PhD,2011-06-16,Active,124.0,Non-Travel,No
+289,Emp289,LN289,36,Female,Divorced,Finance,Accountant,9106,Bachelor's,2017-11-26,Leave of Absence,72.0,Travel_Rarely,No
+290,Emp290,LN290,53,Female,Single,Human Resources,Recruiter,9999,Associate's,2014-07-29,Leave of Absence,1.0,Travel_Rarely,No
+291,Emp291,LN291,59,Nonbinary,Divorced,Finance,Accountant,16898,Master's,2019-06-23,Leave of Absence,143.0,Travel_Rarely,No
+292,Emp292,LN292,27,Male,Married,Marketing,Brand Manager,16748,Master's,2017-11-08,Leave of Absence,129.0,Travel_Frequently,Yes
+293,Emp293,LN293,25,Nonbinary,Single,Sales,Account Manager,6756,Associate's,2014-03-06,Terminated,146.0,Travel_Rarely,No
+294,Emp294,LN294,37,Nonbinary,Divorced,Marketing,Marketing Analyst,8917,Associate's,2016-09-30,Active,14.0,Travel_Frequently,No
+295,Emp295,LN295,46,Female,Single,Operations,Logistics Coordinator,16563,Master's,2008-12-06,Active,21.0,Travel_Rarely,Yes
+296,Emp296,LN296,57,Male,Single,Customer Success,Customer Success Manager,8916,PhD,2016-04-02,Terminated,16.0,Travel_Rarely,No
+297,Emp297,LN297,28,Male,Single,Engineering,Software Engineer,16843,PhD,2016-02-07,Active,64.0,Travel_Frequently,No
+298,Emp298,LN298,27,Female,Divorced,Customer Success,Customer Success Manager,17267,Associate's,2021-05-03,Terminated,82.0,Travel_Frequently,Yes
+299,Emp299,LN299,23,Nonbinary,Divorced,It,Systems Admin,17970,High School,2021-01-26,Terminated,44.0,Travel_Rarely,Yes
+300,Emp300,LN300,60,Male,Single,Marketing,SEO Specialist,18536,Master's,2018-08-16,Terminated,13.0,Travel_Rarely,Yes
+301,Emp301,LN301,48,Nonbinary,Single,Marketing,Brand Manager,10715,Master's,2014-07-05,Leave of Absence,102.0,Travel_Frequently,No
+302,Emp302,LN302,26,Male,Divorced,Operations,Operations Analyst,6616,Associate's,2020-07-31,Leave of Absence,103.0,Travel_Rarely,Yes
+303,Emp303,LN303,54,Nonbinary,Married,Operations,Operations Analyst,15559,PhD,2019-01-23,Terminated,31.0,Travel_Frequently,Yes
+304,Emp304,LN304,49,Female,Single,Human Resources,HR Manager,6379,PhD,2022-01-01,Leave of Absence,78.0,Travel_Rarely,No
+305,Emp305,LN305,28,Female,Single,Customer Success,Support Associate,19767,PhD,2021-08-27,Terminated,133.0,Non-Travel,No
+306,Emp306,LN306,36,Female,Single,Sales,Sales Executive,10200,High School,2016-03-02,Terminated,6.0,Travel_Frequently,No
+307,Emp307,LN307,49,Male,Single,Finance,Accountant,15395,Bachelor's,2015-11-18,Leave of Absence,52.0,Travel_Rarely,Yes
+308,Emp308,LN308,44,Male,Single,Sales,Sales Representative,16416,Master's,2022-07-30,Active,131.0,Non-Travel,No
+309,Emp309,LN309,26,Nonbinary,Divorced,R&D,Principal Researcher,16162,Bachelor's,2022-12-29,Leave of Absence,115.0,Non-Travel,Yes
+310,Emp310,LN310,44,Nonbinary,Single,Finance,Finance Manager,9917,Associate's,2019-01-24,Active,139.0,Non-Travel,No
+311,Emp311,LN311,35,Female,Married,R&D,Principal Researcher,3380,Master's,2022-10-05,Leave of Absence,63.0,Non-Travel,Yes
+312,Emp312,LN312,60,Male,Married,Engineering,Data Engineer,15242,Master's,2006-09-07,Active,124.0,Non-Travel,Yes
+313,Emp313,LN313,26,Nonbinary,Single,Engineering,Data Engineer,9492,Associate's,2011-11-06,Active,70.0,Non-Travel,No
+314,Emp314,LN314,49,Male,Divorced,Engineering,Data Engineer,9711,High School,2009-01-22,Active,77.0,Travel_Frequently,No
+315,Emp315,LN315,36,Male,Single,Customer Success,Support Associate,16852,Bachelor's,2018-04-01,Leave of Absence,83.0,Non-Travel,No
+316,Emp316,LN316,39,Nonbinary,Married,Marketing,SEO Specialist,10127,Bachelor's,2015-10-18,Leave of Absence,53.0,Travel_Frequently,No
+317,Emp317,LN317,23,Male,Divorced,Human Resources,HR Specialist,6978,Bachelor's,2020-03-26,Leave of Absence,59.0,Travel_Rarely,Yes
+318,Emp318,LN318,39,Female,Married,Finance,Accountant,6775,High School,2011-04-07,Terminated,127.0,Travel_Rarely,No
+319,Emp319,LN319,24,Nonbinary,Single,Operations,Operations Analyst,15955,High School,2007-06-01,Terminated,19.0,Non-Travel,No
+320,Emp320,LN320,50,Male,Single,It,IT Support,5128,High School,2012-04-06,Active,50.0,Travel_Rarely,No
+321,Emp321,LN321,54,Nonbinary,Married,Finance,Finance Manager,16424,High School,2008-01-13,Leave of Absence,45.0,Non-Travel,No
+322,Emp322,LN322,21,Male,Married,R&D,Principal Researcher,16855,High School,2006-02-11,Leave of Absence,135.0,Non-Travel,No
+323,Emp323,LN323,27,Nonbinary,Married,Human Resources,HR Manager,11340,High School,2012-03-24,Active,128.0,Travel_Rarely,No
+324,Emp324,LN324,38,Male,Single,It,IT Support,18602,Master's,2018-06-19,Terminated,124.0,Non-Travel,Yes
+325,Emp325,LN325,59,Male,Single,Marketing,SEO Specialist,18904,PhD,2019-02-03,Active,93.0,Non-Travel,Yes
+326,Emp326,LN326,54,Female,Single,It,Network Engineer,9371,Bachelor's,2017-11-10,Leave of Absence,62.0,Travel_Frequently,Yes
+327,Emp327,LN327,49,Nonbinary,Divorced,Finance,Finance Manager,5181,Bachelor's,2006-10-21,Leave of Absence,77.0,Travel_Rarely,Yes
+328,Emp328,LN328,48,Nonbinary,Divorced,Finance,Finance Manager,11036,Master's,2010-12-14,Leave of Absence,147.0,Travel_Frequently,Yes
+329,Emp329,LN329,41,Nonbinary,Divorced,Customer Success,Support Associate,14313,High School,2005-09-28,Active,92.0,Travel_Rarely,No
+330,Emp330,LN330,39,Nonbinary,Divorced,R&D,Research Scientist,4349,Associate's,2009-12-13,Leave of Absence,75.0,Non-Travel,No
+331,Emp331,LN331,40,Male,Divorced,Customer Success,Customer Success Manager,14344,PhD,2015-09-30,Terminated,59.0,Travel_Rarely,Yes
+332,Emp332,LN332,41,Male,Married,Finance,Accountant,15255,PhD,2021-01-15,Terminated,43.0,Travel_Rarely,Yes
+333,Emp333,LN333,56,Male,Divorced,Operations,Operations Analyst,8644,PhD,2018-09-29,Terminated,38.0,Travel_Frequently,Yes
+334,Emp334,LN334,24,Nonbinary,Married,It,IT Support,10606,PhD,2012-11-13,Active,145.0,Non-Travel,No
+335,Emp335,LN335,38,Nonbinary,Divorced,Marketing,SEO Specialist,11189,High School,2016-09-25,Leave of Absence,15.0,Travel_Frequently,No
+336,Emp336,LN336,52,Female,Married,R&D,Research Scientist,3597,Associate's,2015-11-04,Active,111.0,Non-Travel,No
+337,Emp337,LN337,37,Female,Married,It,IT Support,12646,Master's,2019-08-14,Leave of Absence,80.0,Non-Travel,Yes
+338,Emp338,LN338,31,Female,Divorced,Marketing,Marketing Analyst,14837,High School,2015-06-08,Terminated,44.0,Travel_Rarely,Yes
+339,Emp339,LN339,57,Male,Divorced,Customer Success,Support Associate,13244,Bachelor's,2014-03-06,Active,31.0,Travel_Rarely,No
+340,Emp340,LN340,55,Male,Divorced,Marketing,Marketing Analyst,15456,Bachelor's,2021-06-21,Leave of Absence,114.0,Travel_Frequently,No
+341,Emp341,LN341,41,Nonbinary,Divorced,Human Resources,HR Specialist,12959,Associate's,2008-01-13,Terminated,3.0,Non-Travel,Yes
+342,Emp342,LN342,36,Male,Married,Marketing,Marketing Analyst,17504,PhD,2013-06-12,Terminated,109.0,Travel_Frequently,No
+343,Emp343,LN343,20,Male,Married,R&D,Principal Researcher,17297,Bachelor's,2014-04-08,Terminated,4.0,Non-Travel,Yes
+344,Emp344,LN344,21,Nonbinary,Divorced,Customer Success,Customer Success Manager,8330,Master's,2015-10-09,Active,10.0,Travel_Frequently,No
+345,Emp345,LN345,34,Male,Divorced,It,Network Engineer,8495,Associate's,2012-02-15,Terminated,49.0,Travel_Frequently,Yes
+346,Emp346,LN346,43,Female,Single,Finance,Financial Analyst,18718,Master's,2020-04-19,Active,50.0,Travel_Frequently,Yes
+347,Emp347,LN347,23,Nonbinary,Single,It,Network Engineer,8467,PhD,2016-02-19,Active,114.0,Travel_Rarely,No
+348,Emp348,LN348,21,Female,Single,Human Resources,HR Specialist,13319,High School,2005-12-28,Leave of Absence,5.0,Travel_Frequently,Yes
+349,Emp349,LN349,35,Nonbinary,Single,Engineering,DevOps Engineer,19021,High School,2016-08-23,Terminated,119.0,Non-Travel,No
+350,Emp350,LN350,35,Nonbinary,Single,Operations,Operations Analyst,19595,Bachelor's,2007-09-22,Active,19.0,Non-Travel,No
+351,Emp351,LN351,57,Nonbinary,Married,R&D,Principal Researcher,9930,Associate's,2010-07-02,Terminated,117.0,Travel_Rarely,No
+352,Emp352,LN352,38,Male,Single,Engineering,Data Engineer,14574,Associate's,2011-11-14,Terminated,39.0,Travel_Rarely,Yes
+353,Emp353,LN353,25,Female,Divorced,Customer Success,Support Associate,17286,Associate's,2006-11-06,Active,86.0,Non-Travel,Yes
+354,Emp354,LN354,35,Male,Married,Sales,Account Manager,4692,Master's,2009-11-16,Terminated,13.0,Travel_Rarely,No
+355,Emp355,LN355,23,Nonbinary,Married,Marketing,Brand Manager,16399,Associate's,2018-03-08,Leave of Absence,65.0,Travel_Frequently,No
+356,Emp356,LN356,60,Female,Divorced,R&D,Principal Researcher,6504,Associate's,2009-05-11,Terminated,34.0,Travel_Rarely,Yes
+357,Emp357,LN357,33,Female,Divorced,Engineering,Data Engineer,16185,Associate's,2009-12-08,Active,28.0,Travel_Frequently,No
+358,Emp358,LN358,52,Male,Married,Finance,Financial Analyst,5812,Associate's,2007-01-29,Active,72.0,Travel_Frequently,Yes
+359,Emp359,LN359,20,Male,Divorced,R&D,Research Scientist,9697,PhD,2016-10-03,Active,91.0,Travel_Frequently,Yes
+360,Emp360,LN360,49,Female,Single,Human Resources,HR Manager,16068,High School,2020-02-26,Active,146.0,Non-Travel,Yes
+361,Emp361,LN361,56,Female,Single,Sales,Sales Executive,5977,High School,2022-07-18,Active,29.0,Travel_Frequently,No
+362,Emp362,LN362,24,Female,Divorced,Operations,Operations Analyst,3730,Master's,2014-11-11,Terminated,87.0,Travel_Frequently,Yes
+363,Emp363,LN363,31,Female,Divorced,It,Systems Admin,16308,PhD,2019-12-07,Active,102.0,Non-Travel,Yes
+364,Emp364,LN364,47,Male,Married,Finance,Financial Analyst,18872,Bachelor's,2015-01-14,Terminated,99.0,Travel_Frequently,Yes
+365,Emp365,LN365,37,Female,Divorced,Human Resources,HR Specialist,5491,Master's,2022-06-16,Terminated,59.0,Non-Travel,No
+366,Emp366,LN366,33,Female,Single,Operations,Operations Analyst,9246,Associate's,2012-02-22,Active,33.0,Travel_Frequently,No
+367,Emp367,LN367,41,Female,Married,Sales,Account Manager,3869,High School,2011-08-11,Active,66.0,Travel_Frequently,No
+368,Emp368,LN368,30,Male,Single,Sales,Sales Representative,13345,PhD,2013-01-15,Terminated,78.0,Travel_Rarely,No
+369,Emp369,LN369,24,Male,Single,Human Resources,HR Manager,13358,PhD,2006-07-12,Leave of Absence,29.0,Travel_Frequently,Yes
+370,Emp370,LN370,47,Female,Married,Operations,Operations Analyst,9057,Master's,2016-08-16,Terminated,77.0,Travel_Rarely,Yes
+371,Emp371,LN371,57,Nonbinary,Divorced,Marketing,Brand Manager,5891,High School,2022-01-09,Terminated,144.0,Travel_Rarely,No
+372,Emp372,LN372,35,Male,Divorced,It,Systems Admin,8634,Master's,2019-10-30,Active,89.0,Travel_Rarely,No
+373,Emp373,LN373,42,Female,Single,R&D,Principal Researcher,7528,Bachelor's,2017-01-03,Terminated,127.0,Travel_Rarely,Yes
+374,Emp374,LN374,30,Female,Single,Sales,Sales Executive,5842,Bachelor's,2014-02-23,Leave of Absence,48.0,Travel_Rarely,Yes
+375,Emp375,LN375,29,Male,Divorced,Human Resources,HR Manager,7127,Associate's,2022-05-10,Active,109.0,Non-Travel,Yes
+376,Emp376,LN376,30,Female,Married,Customer Success,Customer Success Manager,17618,Master's,2014-02-19,Terminated,61.0,Travel_Rarely,Yes
+377,Emp377,LN377,54,Female,Married,Engineering,Data Engineer,10395,Master's,2011-09-08,Active,135.0,Travel_Frequently,No
+378,Emp378,LN378,46,Nonbinary,Divorced,Customer Success,Customer Success Manager,16080,Associate's,2010-08-09,Leave of Absence,97.0,Travel_Rarely,Yes
+379,Emp379,LN379,44,Nonbinary,Married,Human Resources,HR Specialist,17325,Bachelor's,2007-08-31,Terminated,105.0,Non-Travel,Yes
+380,Emp380,LN380,46,Male,Single,R&D,Lab Technician,4992,Associate's,2012-08-27,Leave of Absence,89.0,Non-Travel,No
+381,Emp381,LN381,25,Male,Single,It,IT Support,11259,Bachelor's,2006-12-12,Leave of Absence,93.0,Travel_Frequently,Yes
+382,Emp382,LN382,48,Nonbinary,Married,Human Resources,HR Specialist,9457,PhD,2016-02-05,Terminated,132.0,Travel_Frequently,Yes
+383,Emp383,LN383,51,Male,Divorced,It,IT Support,4101,Master's,2013-08-25,Terminated,51.0,Non-Travel,Yes
+384,Emp384,LN384,59,Female,Divorced,Human Resources,HR Specialist,7388,Master's,2012-05-09,Active,123.0,Travel_Frequently,No
+385,Emp385,LN385,27,Nonbinary,Married,Operations,Operations Analyst,3287,High School,2020-05-23,Leave of Absence,36.0,Travel_Rarely,No
+386,Emp386,LN386,44,Female,Single,Engineering,DevOps Engineer,16505,Bachelor's,2009-03-28,Terminated,99.0,Travel_Frequently,Yes
+387,Emp387,LN387,44,Nonbinary,Divorced,Customer Success,Customer Success Manager,17539,High School,2007-02-13,Terminated,28.0,Travel_Frequently,Yes
+388,Emp388,LN388,36,Nonbinary,Married,Sales,Sales Executive,4173,Associate's,2021-11-11,Active,100.0,Travel_Rarely,No
+389,Emp389,LN389,44,Male,Divorced,Operations,Logistics Coordinator,6111,PhD,2005-05-16,Leave of Absence,143.0,Travel_Rarely,Yes
+390,Emp390,LN390,44,Nonbinary,Divorced,Engineering,DevOps Engineer,13642,High School,2015-06-27,Leave of Absence,133.0,Non-Travel,No
+391,Emp391,LN391,42,Male,Married,R&D,Principal Researcher,18339,High School,2020-09-14,Active,1.0,Non-Travel,Yes
+392,Emp392,LN392,46,Female,Single,R&D,Research Scientist,12800,PhD,2016-06-30,Terminated,114.0,Travel_Frequently,No
+393,Emp393,LN393,58,Female,Married,Marketing,Marketing Analyst,6867,Bachelor's,2009-04-07,Leave of Absence,75.0,Non-Travel,No
+394,Emp394,LN394,58,Female,Single,Human Resources,Recruiter,7844,Master's,2017-09-11,Active,136.0,Travel_Rarely,No
+395,Emp395,LN395,27,Female,Married,Finance,Financial Analyst,10886,Master's,2018-10-17,Terminated,86.0,Travel_Frequently,Yes
+396,Emp396,LN396,52,Female,Single,It,Systems Admin,6528,PhD,2017-04-27,Active,16.0,Travel_Frequently,No
+397,Emp397,LN397,31,Male,Single,R&D,Principal Researcher,8025,Associate's,2006-02-13,Leave of Absence,33.0,Travel_Rarely,No
+398,Emp398,LN398,27,Female,Married,Customer Success,Support Associate,12738,PhD,2005-05-23,Active,52.0,Travel_Frequently,No
+399,Emp399,LN399,43,Male,Divorced,Human Resources,Recruiter,11841,Master's,2008-04-19,Active,69.0,Non-Travel,No
+400,Emp400,LN400,43,Female,Single,Customer Success,Customer Success Manager,8307,PhD,2019-08-13,Terminated,100.0,Travel_Rarely,Yes
+401,Emp401,LN401,26,Female,Single,Finance,Accountant,11768,PhD,2014-05-21,Leave of Absence,90.0,Travel_Rarely,No
+402,Emp402,LN402,57,Nonbinary,Single,R&D,Research Scientist,12451,Bachelor's,2017-04-03,Active,53.0,Travel_Frequently,No
+403,Emp403,LN403,51,Nonbinary,Married,Sales,Sales Executive,3648,PhD,2012-06-04,Leave of Absence,78.0,Travel_Rarely,No
+404,Emp404,LN404,48,Male,Single,Customer Success,Customer Success Manager,11331,PhD,2007-12-16,Terminated,116.0,Travel_Frequently,Yes
+405,Emp405,LN405,33,Nonbinary,Married,Sales,Account Manager,7421,Associate's,2015-12-12,Terminated,83.0,Travel_Frequently,No
+406,Emp406,LN406,59,Male,Married,Finance,Accountant,16563,High School,2007-07-23,Terminated,122.0,Travel_Frequently,No
+407,Emp407,LN407,22,Female,Divorced,Finance,Accountant,9953,High School,2016-12-17,Terminated,100.0,Non-Travel,No
+408,Emp408,LN408,41,Male,Divorced,Customer Success,Support Associate,7834,PhD,2007-09-11,Active,129.0,Travel_Rarely,No
+409,Emp409,LN409,58,Nonbinary,Married,Human Resources,Recruiter,15689,Bachelor's,2005-11-14,Leave of Absence,115.0,Travel_Rarely,Yes
+410,Emp410,LN410,39,Nonbinary,Single,Finance,Accountant,10944,High School,2011-07-18,Active,67.0,Travel_Rarely,No
+411,Emp411,LN411,34,Male,Divorced,Customer Success,Customer Success Manager,12068,Master's,2014-04-20,Leave of Absence,74.0,Travel_Rarely,Yes
+412,Emp412,LN412,43,Male,Single,It,Network Engineer,7760,Associate's,2016-03-29,Active,89.0,Travel_Rarely,Yes
+413,Emp413,LN413,22,Nonbinary,Divorced,Marketing,Marketing Analyst,13353,Associate's,2020-07-27,Active,101.0,Travel_Rarely,No
+414,Emp414,LN414,38,Nonbinary,Divorced,Sales,Sales Executive,9207,High School,2018-08-28,Terminated,75.0,Travel_Rarely,No
+415,Emp415,LN415,50,Male,Single,R&D,Lab Technician,12459,High School,2017-07-08,Active,64.0,Travel_Rarely,Yes
+416,Emp416,LN416,40,Male,Married,Operations,Logistics Coordinator,14384,Associate's,2021-09-23,Active,105.0,Travel_Rarely,Yes
+417,Emp417,LN417,50,Male,Married,Customer Success,Support Associate,19811,Master's,2014-05-26,Active,73.0,Travel_Rarely,No
+418,Emp418,LN418,24,Male,Single,Marketing,Marketing Analyst,18221,PhD,2011-03-10,Leave of Absence,58.0,Non-Travel,No
+419,Emp419,LN419,44,Nonbinary,Divorced,Finance,Accountant,11917,Bachelor's,2008-11-26,Active,118.0,Non-Travel,Yes
+420,Emp420,LN420,58,Nonbinary,Married,Operations,Logistics Coordinator,18777,Master's,2008-04-01,Terminated,85.0,Travel_Frequently,Yes
+421,Emp421,LN421,27,Male,Divorced,Engineering,DevOps Engineer,4481,Associate's,2012-01-12,Terminated,100.0,Travel_Rarely,No
+422,Emp422,LN422,39,Nonbinary,Married,It,Network Engineer,12657,PhD,2020-10-25,Leave of Absence,50.0,Travel_Frequently,Yes
+423,Emp423,LN423,60,Nonbinary,Divorced,Engineering,Data Engineer,4653,Bachelor's,2012-07-30,Terminated,93.0,Non-Travel,No
+424,Emp424,LN424,59,Nonbinary,Divorced,Marketing,Marketing Analyst,16264,High School,2005-06-09,Leave of Absence,51.0,Travel_Rarely,Yes
+425,Emp425,LN425,26,Female,Married,It,IT Support,7547,Associate's,2021-02-16,Leave of Absence,144.0,Non-Travel,No
+426,Emp426,LN426,60,Nonbinary,Single,Sales,Account Manager,5518,Bachelor's,2022-10-02,Leave of Absence,140.0,Travel_Rarely,Yes
+427,Emp427,LN427,50,Male,Divorced,Operations,Operations Analyst,18938,Master's,2006-07-29,Terminated,70.0,Travel_Frequently,No
+428,Emp428,LN428,56,Male,Single,Human Resources,Recruiter,18155,High School,2018-08-13,Terminated,84.0,Non-Travel,Yes
+429,Emp429,LN429,53,Nonbinary,Married,Customer Success,Customer Success Manager,18396,Master's,2008-07-12,Terminated,105.0,Travel_Rarely,No
+430,Emp430,LN430,33,Female,Single,Customer Success,Support Associate,5978,High School,2021-12-30,Terminated,146.0,Non-Travel,No
+431,Emp431,LN431,43,Nonbinary,Single,Engineering,Data Engineer,14834,Master's,2011-12-11,Leave of Absence,47.0,Non-Travel,No
+432,Emp432,LN432,58,Male,Married,Marketing,Marketing Analyst,8090,Associate's,2018-06-27,Leave of Absence,27.0,Travel_Rarely,No
+433,Emp433,LN433,47,Female,Single,Human Resources,HR Manager,11327,Bachelor's,2010-05-01,Terminated,98.0,Travel_Rarely,Yes
+434,Emp434,LN434,24,Male,Divorced,Finance,Accountant,18082,High School,2018-02-24,Leave of Absence,137.0,Travel_Rarely,Yes
+435,Emp435,LN435,31,Nonbinary,Divorced,Sales,Sales Representative,13196,High School,2014-12-15,Leave of Absence,119.0,Travel_Rarely,Yes
+436,Emp436,LN436,37,Male,Married,R&D,Lab Technician,11848,Bachelor's,2015-09-18,Active,43.0,Travel_Frequently,Yes
+437,Emp437,LN437,42,Nonbinary,Married,Operations,Logistics Coordinator,12340,Associate's,2009-01-12,Active,45.0,Travel_Rarely,Yes
+438,Emp438,LN438,51,Male,Single,R&D,Lab Technician,6969,Associate's,2022-09-14,Leave of Absence,16.0,Travel_Rarely,No
+439,Emp439,LN439,34,Male,Single,It,Systems Admin,10450,Master's,2007-05-17,Active,19.0,Travel_Rarely,No
+440,Emp440,LN440,50,Female,Single,Finance,Financial Analyst,3721,Master's,2006-09-16,Leave of Absence,26.0,Travel_Rarely,No
+441,Emp441,LN441,32,Female,Divorced,R&D,Research Scientist,14129,High School,2020-10-14,Leave of Absence,118.0,Travel_Frequently,Yes
+442,Emp442,LN442,35,Female,Divorced,Engineering,Software Engineer,17967,Master's,2005-08-11,Leave of Absence,61.0,Travel_Frequently,Yes
+443,Emp443,LN443,28,Nonbinary,Single,Engineering,Data Engineer,4787,High School,2017-05-13,Terminated,41.0,Travel_Frequently,No
+444,Emp444,LN444,26,Nonbinary,Single,Sales,Account Manager,17853,Bachelor's,2013-12-13,Active,56.0,Travel_Rarely,Yes
+445,Emp445,LN445,38,Nonbinary,Single,Sales,Account Manager,15326,Associate's,2021-02-08,Terminated,76.0,Non-Travel,No
+446,Emp446,LN446,42,Female,Divorced,Human Resources,Recruiter,18718,Master's,2008-01-30,Active,120.0,Travel_Rarely,No
+447,Emp447,LN447,26,Female,Married,Human Resources,Recruiter,5890,Bachelor's,2010-12-23,Active,42.0,Travel_Frequently,Yes
+448,Emp448,LN448,40,Female,Divorced,Engineering,Data Engineer,17204,Master's,2010-12-23,Leave of Absence,125.0,Travel_Frequently,No
+449,Emp449,LN449,47,Female,Single,Finance,Financial Analyst,18235,High School,2011-08-30,Leave of Absence,28.0,Travel_Frequently,Yes
+450,Emp450,LN450,57,Male,Divorced,Marketing,SEO Specialist,12848,High School,2016-02-28,Active,113.0,Travel_Frequently,Yes
+451,Emp451,LN451,35,Male,Single,Finance,Finance Manager,16743,High School,2007-11-18,Leave of Absence,112.0,Travel_Frequently,No
+452,Emp452,LN452,41,Male,Single,Finance,Financial Analyst,18666,Master's,2020-06-08,Terminated,85.0,Travel_Frequently,Yes
+453,Emp453,LN453,59,Nonbinary,Single,Operations,Operations Analyst,7835,Bachelor's,2009-06-24,Leave of Absence,47.0,Travel_Rarely,Yes
+454,Emp454,LN454,20,Female,Single,Customer Success,Customer Success Manager,19794,Master's,2014-12-04,Terminated,125.0,Travel_Frequently,Yes
+455,Emp455,LN455,26,Male,Married,Marketing,Brand Manager,13924,PhD,2015-07-29,Active,37.0,Travel_Frequently,No
+456,Emp456,LN456,28,Female,Married,Marketing,Marketing Analyst,10557,Master's,2010-06-16,Terminated,53.0,Travel_Rarely,Yes
+457,Emp457,LN457,28,Nonbinary,Single,R&D,Lab Technician,12294,Master's,2019-10-01,Active,43.0,Non-Travel,Yes
+458,Emp458,LN458,40,Male,Single,Engineering,DevOps Engineer,10266,PhD,2005-03-08,Terminated,35.0,Non-Travel,Yes
+459,Emp459,LN459,49,Male,Divorced,Finance,Financial Analyst,6059,Master's,2018-04-03,Terminated,60.0,Non-Travel,Yes
+460,Emp460,LN460,58,Nonbinary,Married,Engineering,Software Engineer,7190,High School,2013-10-26,Terminated,93.0,Non-Travel,Yes
+461,Emp461,LN461,46,Male,Divorced,Engineering,DevOps Engineer,12329,Bachelor's,2007-05-18,Leave of Absence,112.0,Non-Travel,No
+462,Emp462,LN462,40,Male,Divorced,Customer Success,Support Associate,15437,Associate's,2010-06-09,Leave of Absence,86.0,Travel_Frequently,Yes
+463,Emp463,LN463,49,Male,Divorced,Human Resources,HR Specialist,14837,PhD,2008-07-31,Active,114.0,Non-Travel,No
+464,Emp464,LN464,56,Male,Divorced,Sales,Sales Representative,3714,Bachelor's,2010-03-20,Terminated,137.0,Travel_Frequently,Yes
+465,Emp465,LN465,58,Nonbinary,Married,Engineering,DevOps Engineer,18859,Associate's,2005-09-12,Active,88.0,Non-Travel,No
+466,Emp466,LN466,46,Nonbinary,Single,Finance,Accountant,14640,Bachelor's,2020-04-21,Terminated,132.0,Travel_Rarely,No
+467,Emp467,LN467,51,Male,Married,Customer Success,Support Associate,17095,Master's,2021-08-25,Terminated,74.0,Non-Travel,Yes
+468,Emp468,LN468,34,Female,Single,R&D,Research Scientist,13182,High School,2006-08-11,Active,116.0,Travel_Frequently,No
+469,Emp469,LN469,37,Nonbinary,Single,Operations,Logistics Coordinator,17376,Bachelor's,2012-02-23,Leave of Absence,91.0,Non-Travel,No
+470,Emp470,LN470,25,Female,Married,Marketing,Brand Manager,10608,Master's,2021-02-13,Active,122.0,Non-Travel,No
+471,Emp471,LN471,23,Nonbinary,Married,Sales,Account Manager,14985,Bachelor's,2015-03-13,Terminated,106.0,Non-Travel,No
+472,Emp472,LN472,45,Nonbinary,Single,Marketing,Marketing Analyst,4828,PhD,2006-01-18,Active,80.0,Travel_Rarely,Yes
+473,Emp473,LN473,39,Female,Single,R&D,Lab Technician,10907,High School,2021-03-10,Leave of Absence,49.0,Travel_Rarely,No
+474,Emp474,LN474,57,Female,Single,Operations,Operations Analyst,19888,Bachelor's,2017-06-25,Active,144.0,Travel_Frequently,No
+475,Emp475,LN475,20,Nonbinary,Single,Customer Success,Customer Success Manager,9993,Associate's,2009-03-01,Terminated,80.0,Travel_Rarely,No
+476,Emp476,LN476,44,Female,Divorced,R&D,Research Scientist,12606,Bachelor's,2008-05-17,Active,129.0,Travel_Rarely,Yes
+477,Emp477,LN477,29,Male,Single,Engineering,Software Engineer,14294,Master's,2019-02-27,Terminated,71.0,Travel_Frequently,Yes
+478,Emp478,LN478,28,Female,Married,It,Systems Admin,5202,Master's,2009-06-06,Terminated,104.0,Non-Travel,No
+479,Emp479,LN479,55,Male,Married,R&D,Research Scientist,6200,High School,2007-04-01,Active,46.0,Travel_Frequently,No
+480,Emp480,LN480,58,Female,Married,R&D,Research Scientist,15261,Master's,2018-12-11,Leave of Absence,22.0,Non-Travel,No
+481,Emp481,LN481,44,Male,Single,Engineering,Software Engineer,11680,Bachelor's,2017-06-24,Active,17.0,Travel_Rarely,No
+482,Emp482,LN482,56,Nonbinary,Divorced,Customer Success,Support Associate,6291,Master's,2011-02-22,Terminated,30.0,Travel_Rarely,Yes
+483,Emp483,LN483,55,Nonbinary,Married,Marketing,Brand Manager,16706,High School,2010-08-10,Leave of Absence,140.0,Non-Travel,No
+484,Emp484,LN484,31,Male,Single,Operations,Operations Analyst,10375,Bachelor's,2018-01-10,Active,53.0,Travel_Rarely,No
+485,Emp485,LN485,37,Nonbinary,Divorced,Customer Success,Customer Success Manager,8305,Master's,2021-08-05,Terminated,12.0,Travel_Rarely,Yes
+486,Emp486,LN486,35,Male,Divorced,Engineering,DevOps Engineer,4473,Associate's,2022-04-05,Leave of Absence,131.0,Travel_Rarely,Yes
+487,Emp487,LN487,55,Nonbinary,Divorced,Customer Success,Customer Success Manager,13331,PhD,2010-04-12,Terminated,76.0,Non-Travel,Yes
+488,Emp488,LN488,34,Female,Single,Sales,Sales Executive,10396,PhD,2015-08-20,Leave of Absence,47.0,Travel_Rarely,Yes
+489,Emp489,LN489,35,Female,Married,Finance,Finance Manager,5298,High School,2018-08-03,Terminated,86.0,Travel_Rarely,No
+490,Emp490,LN490,31,Female,Divorced,Operations,Logistics Coordinator,13536,High School,2022-03-03,Terminated,58.0,Travel_Rarely,No
+491,Emp491,LN491,43,Nonbinary,Married,Sales,Account Manager,6654,Bachelor's,2021-05-07,Active,105.0,Non-Travel,No
+492,Emp492,LN492,41,Female,Divorced,Marketing,Marketing Analyst,19783,Bachelor's,2007-09-10,Active,36.0,Travel_Rarely,No
+493,Emp493,LN493,27,Male,Single,Marketing,SEO Specialist,4148,Bachelor's,2016-08-08,Terminated,121.0,Travel_Rarely,Yes
+494,Emp494,LN494,41,Male,Divorced,Sales,Account Manager,5454,Master's,2005-11-17,Active,19.0,Non-Travel,No
+495,Emp495,LN495,50,Male,Single,R&D,Principal Researcher,11953,High School,2008-02-29,Terminated,144.0,Travel_Frequently,No
+496,Emp496,LN496,39,Male,Divorced,Operations,Logistics Coordinator,9065,Associate's,2009-04-18,Terminated,80.0,Travel_Rarely,Yes
+497,Emp497,LN497,30,Female,Married,R&D,Lab Technician,18210,High School,2014-05-01,Leave of Absence,31.0,Non-Travel,Yes
+498,Emp498,LN498,35,Female,Divorced,Human Resources,HR Manager,12566,Master's,2020-04-26,Active,55.0,Travel_Rarely,Yes
+499,Emp499,LN499,25,Nonbinary,Married,Sales,Sales Executive,19561,Bachelor's,2019-11-29,Leave of Absence,100.0,Travel_Frequently,Yes
+500,Emp500,LN500,51,Nonbinary,Single,R&D,Principal Researcher,3293,Bachelor's,2006-06-30,Terminated,22.0,Travel_Frequently,No
+501,Emp501,LN501,29,Male,Single,It,Systems Admin,14094,Master's,2006-03-01,Active,8.0,Non-Travel,Yes
+502,Emp502,LN502,38,Male,Married,Finance,Finance Manager,5619,Associate's,2017-09-06,Terminated,124.0,Travel_Frequently,No
+503,Emp503,LN503,54,Nonbinary,Married,Marketing,Brand Manager,7456,High School,2009-12-17,Leave of Absence,98.0,Non-Travel,Yes
+504,Emp504,LN504,49,Male,Divorced,Marketing,Marketing Analyst,10962,Master's,2010-08-04,Active,70.0,Non-Travel,No
+505,Emp505,LN505,27,Nonbinary,Divorced,Customer Success,Customer Success Manager,8618,Associate's,2007-04-27,Active,76.0,Travel_Rarely,Yes
+506,Emp506,LN506,25,Nonbinary,Divorced,Operations,Operations Analyst,12829,Master's,2021-11-13,Leave of Absence,17.0,Travel_Rarely,Yes
+507,Emp507,LN507,60,Nonbinary,Single,Marketing,Brand Manager,4236,Master's,2007-06-17,Active,143.0,Non-Travel,No
+508,Emp508,LN508,32,Nonbinary,Married,Marketing,Brand Manager,14859,Bachelor's,2020-06-20,Terminated,90.0,Non-Travel,No
+509,Emp509,LN509,26,Male,Married,Operations,Logistics Coordinator,12186,Bachelor's,2005-02-23,Active,71.0,Travel_Rarely,Yes
+510,Emp510,LN510,39,Female,Single,Finance,Financial Analyst,18090,Bachelor's,2006-12-26,Terminated,133.0,Travel_Rarely,Yes
+511,Emp511,LN511,34,Male,Single,Engineering,Software Engineer,12621,High School,2016-07-16,Terminated,90.0,Non-Travel,No
+512,Emp512,LN512,37,Female,Married,It,Network Engineer,12568,Associate's,2015-08-20,Terminated,34.0,Travel_Rarely,Yes
+513,Emp513,LN513,55,Male,Divorced,Engineering,Data Engineer,11237,Master's,2021-07-15,Active,48.0,Travel_Frequently,Yes
+514,Emp514,LN514,36,Nonbinary,Married,Marketing,Brand Manager,14281,High School,2019-04-15,Active,41.0,Travel_Frequently,Yes
+515,Emp515,LN515,53,Male,Single,Engineering,Data Engineer,17784,Bachelor's,2021-12-24,Leave of Absence,103.0,Travel_Frequently,Yes
+516,Emp516,LN516,36,Nonbinary,Single,Sales,Sales Representative,17063,PhD,2011-08-10,Active,32.0,Travel_Frequently,No
+517,Emp517,LN517,48,Male,Divorced,Sales,Sales Executive,16088,High School,2014-12-25,Active,125.0,Non-Travel,Yes
+518,Emp518,LN518,43,Male,Single,Operations,Operations Analyst,19408,Associate's,2016-06-20,Terminated,115.0,Travel_Rarely,Yes
+519,Emp519,LN519,34,Male,Married,Customer Success,Customer Success Manager,9560,PhD,2021-07-29,Terminated,147.0,Travel_Frequently,Yes
+520,Emp520,LN520,54,Nonbinary,Married,Sales,Account Manager,12088,High School,2019-04-15,Leave of Absence,12.0,Travel_Frequently,No
+521,Emp521,LN521,51,Female,Single,R&D,Research Scientist,12748,PhD,2018-07-03,Active,23.0,Travel_Frequently,Yes
+522,Emp522,LN522,39,Male,Married,R&D,Principal Researcher,6741,Master's,2013-05-20,Leave of Absence,119.0,Non-Travel,No
+523,Emp523,LN523,36,Female,Married,Human Resources,HR Manager,4432,Bachelor's,2011-08-02,Active,4.0,Non-Travel,No
+524,Emp524,LN524,49,Nonbinary,Divorced,Marketing,SEO Specialist,3303,PhD,2022-01-27,Leave of Absence,97.0,Non-Travel,Yes
+525,Emp525,LN525,37,Female,Married,Marketing,Marketing Analyst,19603,High School,2008-01-21,Terminated,63.0,Travel_Rarely,Yes
+526,Emp526,LN526,49,Nonbinary,Married,Human Resources,HR Specialist,9850,Bachelor's,2009-12-17,Active,28.0,Travel_Frequently,No
+527,Emp527,LN527,43,Male,Single,Human Resources,Recruiter,6604,Associate's,2009-05-16,Terminated,36.0,Travel_Frequently,Yes
+528,Emp528,LN528,37,Female,Married,Finance,Accountant,7947,PhD,2006-07-19,Active,88.0,Travel_Rarely,Yes
+529,Emp529,LN529,49,Female,Divorced,R&D,Lab Technician,12201,High School,2008-10-15,Leave of Absence,132.0,Travel_Rarely,Yes
+530,Emp530,LN530,30,Male,Single,Marketing,Marketing Analyst,14511,Associate's,2009-11-09,Leave of Absence,6.0,Non-Travel,No
+531,Emp531,LN531,32,Female,Single,Engineering,DevOps Engineer,5759,Master's,2009-11-09,Active,103.0,Travel_Rarely,No
+532,Emp532,LN532,53,Male,Single,R&D,Research Scientist,10108,PhD,2008-09-15,Terminated,115.0,Non-Travel,No
+533,Emp533,LN533,48,Male,Married,R&D,Principal Researcher,19819,PhD,2012-08-15,Leave of Absence,1.0,Travel_Frequently,No
+534,Emp534,LN534,46,Nonbinary,Married,Customer Success,Customer Success Manager,3985,Bachelor's,2009-02-16,Active,128.0,Non-Travel,Yes
+535,Emp535,LN535,21,Nonbinary,Single,It,IT Support,6028,Master's,2013-06-08,Terminated,73.0,Travel_Frequently,Yes
+536,Emp536,LN536,45,Male,Married,Customer Success,Customer Success Manager,13701,Associate's,2019-12-29,Terminated,11.0,Travel_Rarely,Yes
+537,Emp537,LN537,27,Male,Single,Engineering,Data Engineer,9774,High School,2010-05-30,Leave of Absence,67.0,Travel_Frequently,Yes
+538,Emp538,LN538,47,Female,Divorced,Marketing,Marketing Analyst,10132,Bachelor's,2014-05-19,Leave of Absence,84.0,Travel_Frequently,Yes
+539,Emp539,LN539,25,Nonbinary,Married,It,IT Support,4600,High School,2015-02-08,Active,134.0,Travel_Rarely,No
+540,Emp540,LN540,30,Male,Married,It,Network Engineer,9965,High School,2006-07-07,Active,52.0,Travel_Frequently,Yes
+541,Emp541,LN541,45,Nonbinary,Divorced,Operations,Logistics Coordinator,12147,PhD,2011-12-31,Leave of Absence,92.0,Travel_Frequently,Yes
+542,Emp542,LN542,53,Female,Divorced,R&D,Principal Researcher,5716,PhD,2014-03-27,Terminated,128.0,Non-Travel,No
+543,Emp543,LN543,20,Male,Divorced,R&D,Research Scientist,11309,Master's,2012-12-04,Leave of Absence,47.0,Travel_Rarely,No
+544,Emp544,LN544,28,Female,Single,R&D,Lab Technician,17442,Associate's,2021-06-02,Leave of Absence,88.0,Travel_Frequently,No
+545,Emp545,LN545,34,Female,Divorced,Finance,Accountant,10023,Associate's,2007-12-23,Leave of Absence,25.0,Travel_Frequently,No
+546,Emp546,LN546,34,Female,Married,Human Resources,HR Manager,18048,High School,2014-02-02,Leave of Absence,103.0,Travel_Rarely,Yes
+547,Emp547,LN547,53,Female,Married,It,Systems Admin,9406,Master's,2011-02-04,Active,14.0,Non-Travel,No
+548,Emp548,LN548,48,Nonbinary,Married,It,Network Engineer,4517,High School,2014-08-11,Leave of Absence,10.0,Travel_Rarely,Yes
+549,Emp549,LN549,24,Nonbinary,Married,Sales,Sales Executive,7704,Associate's,2010-09-14,Terminated,137.0,Travel_Rarely,No
+550,Emp550,LN550,29,Female,Married,Marketing,Brand Manager,12807,Bachelor's,2010-01-20,Terminated,72.0,Non-Travel,No
+551,Emp551,LN551,40,Male,Married,Operations,Logistics Coordinator,5249,Associate's,2008-07-14,Leave of Absence,119.0,Non-Travel,No
+552,Emp552,LN552,33,Nonbinary,Divorced,Finance,Accountant,19375,Bachelor's,2010-08-09,Leave of Absence,10.0,Travel_Frequently,Yes
+553,Emp553,LN553,50,Female,Single,Finance,Financial Analyst,15171,High School,2015-03-24,Terminated,75.0,Travel_Rarely,Yes
+554,Emp554,LN554,56,Nonbinary,Divorced,Human Resources,HR Specialist,10516,High School,2019-10-29,Leave of Absence,98.0,Travel_Frequently,No
+555,Emp555,LN555,60,Nonbinary,Single,Operations,Operations Analyst,4353,Associate's,2009-07-16,Leave of Absence,44.0,Travel_Frequently,No
+556,Emp556,LN556,40,Female,Divorced,Human Resources,Recruiter,18096,Associate's,2006-03-14,Leave of Absence,131.0,Non-Travel,No
+557,Emp557,LN557,45,Male,Married,R&D,Principal Researcher,14262,Master's,2020-04-23,Leave of Absence,22.0,Travel_Frequently,Yes
+558,Emp558,LN558,30,Female,Divorced,Marketing,SEO Specialist,4581,Master's,2006-05-03,Terminated,138.0,Travel_Frequently,Yes
+559,Emp559,LN559,26,Nonbinary,Married,Customer Success,Support Associate,11982,Master's,2019-12-21,Terminated,67.0,Travel_Frequently,Yes
+560,Emp560,LN560,47,Nonbinary,Divorced,R&D,Lab Technician,8452,High School,2022-09-27,Leave of Absence,133.0,Travel_Rarely,Yes
+561,Emp561,LN561,40,Male,Divorced,Engineering,Software Engineer,17932,Master's,2011-09-04,Active,6.0,Travel_Rarely,Yes
+562,Emp562,LN562,43,Female,Single,Sales,Sales Representative,19715,Associate's,2019-09-21,Active,17.0,Travel_Frequently,No
+563,Emp563,LN563,47,Female,Divorced,Human Resources,Recruiter,11241,PhD,2018-09-16,Leave of Absence,23.0,Travel_Frequently,No
+564,Emp564,LN564,52,Male,Single,Engineering,Software Engineer,17708,PhD,2018-10-18,Leave of Absence,135.0,Travel_Rarely,No
+565,Emp565,LN565,28,Female,Married,Sales,Sales Executive,5251,Master's,2018-04-05,Active,59.0,Travel_Rarely,Yes
+566,Emp566,LN566,47,Male,Single,Human Resources,HR Manager,16764,PhD,2019-12-28,Leave of Absence,14.0,Non-Travel,Yes
+567,Emp567,LN567,56,Male,Divorced,Engineering,DevOps Engineer,10762,High School,2005-10-15,Terminated,49.0,Travel_Frequently,Yes
+568,Emp568,LN568,22,Female,Divorced,Customer Success,Support Associate,19062,PhD,2015-06-20,Terminated,32.0,Non-Travel,No
+569,Emp569,LN569,55,Female,Married,It,Systems Admin,12080,Master's,2015-06-22,Active,85.0,Travel_Rarely,No
+570,Emp570,LN570,42,Nonbinary,Divorced,Human Resources,HR Manager,6965,PhD,2019-04-02,Leave of Absence,12.0,Travel_Frequently,Yes
+571,Emp571,LN571,35,Male,Single,Operations,Logistics Coordinator,5469,High School,2006-08-21,Leave of Absence,17.0,Travel_Frequently,No
+572,Emp572,LN572,22,Male,Divorced,Customer Success,Customer Success Manager,7326,Associate's,2011-09-21,Active,44.0,Non-Travel,Yes
+573,Emp573,LN573,22,Female,Married,Sales,Sales Representative,14741,High School,2006-06-17,Leave of Absence,100.0,Non-Travel,Yes
+574,Emp574,LN574,53,Male,Married,Human Resources,HR Manager,10154,High School,2013-07-01,Active,18.0,Non-Travel,Yes
+575,Emp575,LN575,38,Nonbinary,Married,Marketing,SEO Specialist,7157,High School,2019-08-07,Leave of Absence,101.0,Non-Travel,Yes
+576,Emp576,LN576,60,Nonbinary,Divorced,Engineering,DevOps Engineer,15604,Associate's,2013-08-07,Active,141.0,Non-Travel,No
+577,Emp577,LN577,40,Female,Divorced,Operations,Operations Analyst,16471,Master's,2022-10-27,Terminated,69.0,Non-Travel,No
+578,Emp578,LN578,46,Male,Single,Operations,Operations Analyst,10983,PhD,2006-01-06,Active,12.0,Travel_Frequently,Yes
+579,Emp579,LN579,53,Male,Single,It,Network Engineer,5768,Associate's,2010-01-11,Active,22.0,Travel_Frequently,No
+580,Emp580,LN580,36,Nonbinary,Married,Engineering,DevOps Engineer,3418,High School,2011-05-10,Active,103.0,Travel_Rarely,No
+581,Emp581,LN581,43,Female,Single,Customer Success,Support Associate,6571,Associate's,2011-03-12,Leave of Absence,138.0,Travel_Rarely,No
+582,Emp582,LN582,53,Nonbinary,Single,Engineering,Software Engineer,7596,PhD,2007-08-03,Leave of Absence,112.0,Non-Travel,Yes
+583,Emp583,LN583,56,Nonbinary,Married,Sales,Sales Executive,5747,Bachelor's,2005-06-22,Terminated,97.0,Travel_Rarely,No
+584,Emp584,LN584,56,Male,Single,Human Resources,Recruiter,11307,PhD,2008-08-08,Terminated,82.0,Travel_Rarely,Yes
+585,Emp585,LN585,33,Female,Divorced,Customer Success,Customer Success Manager,9779,Associate's,2015-11-08,Leave of Absence,15.0,Travel_Rarely,No
+586,Emp586,LN586,40,Male,Single,Customer Success,Support Associate,18076,Master's,2007-07-31,Leave of Absence,86.0,Travel_Frequently,No
+587,Emp587,LN587,47,Male,Married,Engineering,Software Engineer,8752,High School,2019-01-02,Active,129.0,Non-Travel,No
+588,Emp588,LN588,29,Nonbinary,Single,Marketing,SEO Specialist,13285,High School,2005-07-18,Active,56.0,Travel_Frequently,Yes
+589,Emp589,LN589,32,Female,Divorced,Sales,Account Manager,13547,Associate's,2016-04-27,Active,20.0,Travel_Frequently,No
+590,Emp590,LN590,35,Female,Single,R&D,Lab Technician,18865,PhD,2008-01-03,Terminated,96.0,Travel_Rarely,No
+591,Emp591,LN591,51,Male,Married,Finance,Financial Analyst,7065,Bachelor's,2013-07-01,Active,94.0,Non-Travel,Yes
+592,Emp592,LN592,40,Nonbinary,Single,Finance,Financial Analyst,3338,Bachelor's,2005-06-16,Leave of Absence,71.0,Non-Travel,No
+593,Emp593,LN593,42,Female,Divorced,It,Network Engineer,9958,Bachelor's,2017-12-25,Terminated,127.0,Non-Travel,Yes
+594,Emp594,LN594,42,Nonbinary,Married,Human Resources,HR Manager,12482,Bachelor's,2021-02-22,Terminated,16.0,Travel_Rarely,No
+595,Emp595,LN595,24,Female,Divorced,Customer Success,Support Associate,13343,Associate's,2016-11-18,Active,60.0,Travel_Frequently,No
+596,Emp596,LN596,43,Nonbinary,Married,Finance,Accountant,6878,High School,2018-09-26,Active,147.0,Travel_Frequently,Yes
+597,Emp597,LN597,56,Nonbinary,Married,Operations,Operations Analyst,5077,Bachelor's,2019-09-05,Leave of Absence,27.0,Non-Travel,No
+598,Emp598,LN598,37,Nonbinary,Divorced,Operations,Operations Analyst,7306,Bachelor's,2020-11-12,Leave of Absence,112.0,Travel_Rarely,Yes
+599,Emp599,LN599,53,Male,Single,It,Systems Admin,6497,Associate's,2012-08-15,Terminated,141.0,Non-Travel,Yes
+600,Emp600,LN600,47,Male,Divorced,Finance,Finance Manager,10304,Bachelor's,2006-02-19,Leave of Absence,131.0,Travel_Frequently,No
+601,Emp601,LN601,23,Male,Single,R&D,Principal Researcher,12684,Master's,2005-08-02,Active,118.0,Non-Travel,Yes
+602,Emp602,LN602,24,Female,Divorced,R&D,Research Scientist,12019,Associate's,2020-11-09,Terminated,20.0,Travel_Rarely,No
+603,Emp603,LN603,57,Female,Married,Human Resources,HR Specialist,8033,High School,2011-06-16,Leave of Absence,110.0,Travel_Rarely,Yes
+604,Emp604,LN604,42,Nonbinary,Single,Sales,Account Manager,4827,Master's,2012-09-09,Active,102.0,Travel_Frequently,Yes
+605,Emp605,LN605,33,Male,Divorced,Engineering,Software Engineer,19090,PhD,2022-08-18,Active,113.0,Travel_Frequently,Yes
+606,Emp606,LN606,38,Female,Married,Finance,Financial Analyst,4915,PhD,2017-01-18,Terminated,54.0,Travel_Rarely,Yes
+607,Emp607,LN607,24,Nonbinary,Single,Human Resources,HR Manager,3302,High School,2014-08-02,Active,117.0,Travel_Rarely,Yes
+608,Emp608,LN608,20,Male,Married,Sales,Sales Representative,10202,Bachelor's,2012-11-16,Leave of Absence,7.0,Travel_Rarely,No
+609,Emp609,LN609,39,Female,Divorced,Engineering,Data Engineer,12528,PhD,2014-05-15,Leave of Absence,64.0,Travel_Frequently,Yes
+610,Emp610,LN610,54,Nonbinary,Married,Finance,Accountant,19504,Master's,2021-07-27,Active,71.0,Travel_Rarely,No
+611,Emp611,LN611,34,Nonbinary,Single,It,IT Support,10353,Master's,2013-08-04,Active,49.0,Non-Travel,No
+612,Emp612,LN612,26,Female,Single,It,Network Engineer,16435,Master's,2007-10-28,Active,3.0,Non-Travel,Yes
+613,Emp613,LN613,33,Nonbinary,Single,Operations,Operations Analyst,18241,Master's,2015-12-25,Active,73.0,Travel_Rarely,No
+614,Emp614,LN614,29,Nonbinary,Single,Engineering,Software Engineer,11100,Master's,2014-04-20,Terminated,9.0,Travel_Frequently,Yes
+615,Emp615,LN615,59,Nonbinary,Single,Human Resources,Recruiter,18682,High School,2021-01-02,Active,21.0,Travel_Frequently,No
+616,Emp616,LN616,41,Nonbinary,Single,Operations,Operations Analyst,4335,Bachelor's,2016-02-10,Leave of Absence,57.0,Travel_Frequently,Yes
+617,Emp617,LN617,36,Female,Divorced,Finance,Finance Manager,6066,High School,2007-03-02,Leave of Absence,46.0,Non-Travel,Yes
+618,Emp618,LN618,20,Nonbinary,Married,Human Resources,Recruiter,19938,Bachelor's,2007-05-13,Terminated,107.0,Travel_Frequently,No
+619,Emp619,LN619,47,Nonbinary,Single,Customer Success,Support Associate,3017,High School,2010-01-04,Active,8.0,Non-Travel,Yes
+620,Emp620,LN620,44,Female,Single,Sales,Sales Representative,10613,Bachelor's,2012-11-25,Active,119.0,Non-Travel,No
+621,Emp621,LN621,27,Nonbinary,Married,Customer Success,Support Associate,15893,High School,2018-06-01,Terminated,49.0,Non-Travel,Yes
+622,Emp622,LN622,43,Nonbinary,Divorced,R&D,Lab Technician,4704,Master's,2016-09-01,Terminated,85.0,Non-Travel,No
+623,Emp623,LN623,26,Female,Single,Operations,Logistics Coordinator,4768,Bachelor's,2013-05-20,Terminated,69.0,Non-Travel,No
+624,Emp624,LN624,60,Nonbinary,Divorced,Operations,Operations Analyst,13928,PhD,2022-03-27,Active,19.0,Non-Travel,Yes
+625,Emp625,LN625,59,Male,Single,R&D,Principal Researcher,10590,Bachelor's,2014-06-29,Terminated,44.0,Travel_Frequently,Yes
+626,Emp626,LN626,60,Female,Divorced,R&D,Research Scientist,6363,PhD,2016-09-25,Active,113.0,Non-Travel,Yes
+627,Emp627,LN627,59,Male,Married,It,IT Support,11878,Bachelor's,2017-08-18,Terminated,63.0,Non-Travel,Yes
+628,Emp628,LN628,22,Nonbinary,Divorced,It,Systems Admin,7997,Associate's,2016-04-18,Terminated,105.0,Non-Travel,No
+629,Emp629,LN629,40,Female,Single,Human Resources,Recruiter,14963,PhD,2014-09-11,Leave of Absence,2.0,Travel_Frequently,No
+630,Emp630,LN630,30,Nonbinary,Married,Finance,Accountant,11659,PhD,2020-06-05,Active,138.0,Travel_Frequently,Yes
+631,Emp631,LN631,55,Female,Married,Operations,Operations Analyst,10806,High School,2013-08-05,Active,101.0,Non-Travel,Yes
+632,Emp632,LN632,32,Nonbinary,Single,Sales,Sales Executive,10810,Master's,2018-03-15,Terminated,20.0,Travel_Frequently,No
+633,Emp633,LN633,20,Female,Married,R&D,Lab Technician,8952,Bachelor's,2014-12-04,Leave of Absence,38.0,Travel_Rarely,No
+634,Emp634,LN634,26,Female,Divorced,Finance,Finance Manager,11715,Associate's,2021-08-02,Leave of Absence,42.0,Travel_Frequently,Yes
+635,Emp635,LN635,45,Female,Married,Finance,Financial Analyst,8106,Bachelor's,2016-08-16,Terminated,97.0,Travel_Frequently,No
+636,Emp636,LN636,22,Female,Divorced,R&D,Lab Technician,6478,Master's,2008-05-20,Leave of Absence,89.0,Non-Travel,Yes
+637,Emp637,LN637,56,Female,Married,Engineering,Software Engineer,16352,Bachelor's,2007-07-08,Terminated,142.0,Non-Travel,No
+638,Emp638,LN638,37,Nonbinary,Married,Customer Success,Support Associate,19600,Bachelor's,2011-04-20,Leave of Absence,22.0,Travel_Rarely,No
+639,Emp639,LN639,49,Nonbinary,Married,It,Network Engineer,15141,Master's,2013-04-29,Terminated,14.0,Travel_Rarely,Yes
+640,Emp640,LN640,23,Male,Divorced,R&D,Principal Researcher,5909,High School,2009-01-24,Active,85.0,Travel_Rarely,Yes
+641,Emp641,LN641,38,Female,Single,Engineering,Software Engineer,8198,Master's,2008-05-21,Terminated,71.0,Non-Travel,No
+642,Emp642,LN642,26,Female,Married,Operations,Logistics Coordinator,17884,Bachelor's,2018-06-12,Active,145.0,Travel_Rarely,No
+643,Emp643,LN643,39,Nonbinary,Single,Human Resources,Recruiter,6848,PhD,2016-09-01,Terminated,39.0,Travel_Frequently,Yes
+644,Emp644,LN644,21,Nonbinary,Divorced,Engineering,DevOps Engineer,19647,Bachelor's,2016-12-25,Active,140.0,Non-Travel,No
+645,Emp645,LN645,20,Male,Married,Customer Success,Support Associate,8636,High School,2008-04-19,Active,108.0,Travel_Frequently,No
+646,Emp646,LN646,26,Male,Divorced,Sales,Sales Representative,12308,High School,2021-03-07,Leave of Absence,29.0,Travel_Frequently,Yes
+647,Emp647,LN647,41,Male,Married,Sales,Account Manager,13356,Associate's,2005-06-13,Active,114.0,Travel_Rarely,Yes
+648,Emp648,LN648,23,Nonbinary,Single,R&D,Principal Researcher,11150,Master's,2017-08-25,Leave of Absence,87.0,Travel_Rarely,No
+649,Emp649,LN649,29,Female,Divorced,Engineering,DevOps Engineer,15684,High School,2007-12-09,Leave of Absence,72.0,Travel_Rarely,No
+650,Emp650,LN650,32,Female,Married,Finance,Finance Manager,17141,Bachelor's,2008-06-03,Active,21.0,Travel_Rarely,No
+651,Emp651,LN651,56,Female,Divorced,Finance,Financial Analyst,12041,PhD,2020-01-14,Terminated,144.0,Travel_Rarely,Yes
+652,Emp652,LN652,56,Nonbinary,Divorced,Customer Success,Support Associate,18727,PhD,2017-07-16,Leave of Absence,73.0,Non-Travel,Yes
+653,Emp653,LN653,22,Male,Married,Engineering,Software Engineer,13855,Master's,2005-08-23,Active,37.0,Non-Travel,Yes
+654,Emp654,LN654,60,Female,Married,Human Resources,HR Manager,6455,PhD,2021-05-18,Leave of Absence,3.0,Non-Travel,No
+655,Emp655,LN655,36,Male,Divorced,Operations,Operations Analyst,9597,PhD,2020-01-18,Terminated,76.0,Travel_Frequently,No
+656,Emp656,LN656,39,Male,Single,Sales,Sales Executive,14052,Master's,2016-06-25,Active,109.0,Travel_Frequently,No
+657,Emp657,LN657,57,Nonbinary,Divorced,Sales,Sales Representative,13372,PhD,2007-10-16,Leave of Absence,8.0,Non-Travel,No
+658,Emp658,LN658,40,Female,Married,Customer Success,Customer Success Manager,12298,Master's,2009-07-17,Leave of Absence,29.0,Travel_Rarely,Yes
+659,Emp659,LN659,32,Nonbinary,Divorced,R&D,Lab Technician,15308,Master's,2014-04-01,Terminated,46.0,Travel_Rarely,No
+660,Emp660,LN660,53,Male,Divorced,Marketing,Brand Manager,17729,Bachelor's,2012-03-29,Terminated,131.0,Travel_Rarely,Yes
+661,Emp661,LN661,28,Nonbinary,Single,Engineering,Data Engineer,17477,High School,2005-02-17,Leave of Absence,83.0,Travel_Frequently,No
+662,Emp662,LN662,47,Nonbinary,Divorced,Sales,Account Manager,13365,Master's,2006-08-15,Active,110.0,Travel_Rarely,No
+663,Emp663,LN663,37,Nonbinary,Married,Customer Success,Customer Success Manager,3705,Master's,2010-01-15,Active,51.0,Non-Travel,No
+664,Emp664,LN664,35,Nonbinary,Married,Engineering,DevOps Engineer,16388,Associate's,2013-06-18,Leave of Absence,144.0,Travel_Rarely,Yes
+665,Emp665,LN665,42,Male,Divorced,Customer Success,Support Associate,7454,Master's,2010-07-15,Terminated,74.0,Travel_Frequently,Yes
+666,Emp666,LN666,42,Male,Single,R&D,Principal Researcher,15271,Master's,2017-10-24,Terminated,123.0,Travel_Rarely,No
+667,Emp667,LN667,32,Female,Married,Engineering,Software Engineer,16315,Associate's,2022-12-04,Active,12.0,Travel_Rarely,No
+668,Emp668,LN668,36,Nonbinary,Single,R&D,Research Scientist,19766,High School,2016-05-12,Active,116.0,Travel_Rarely,No
+669,Emp669,LN669,60,Nonbinary,Divorced,Finance,Finance Manager,14250,PhD,2017-12-12,Terminated,47.0,Travel_Frequently,No
+670,Emp670,LN670,38,Female,Married,It,Network Engineer,17050,Bachelor's,2011-02-19,Leave of Absence,45.0,Non-Travel,No
+671,Emp671,LN671,41,Female,Married,Marketing,SEO Specialist,14296,High School,2012-12-17,Active,26.0,Travel_Frequently,No
+672,Emp672,LN672,42,Female,Single,It,Systems Admin,7966,Bachelor's,2005-06-03,Terminated,143.0,Travel_Frequently,No
+673,Emp673,LN673,43,Nonbinary,Single,Operations,Operations Analyst,6013,Associate's,2016-09-09,Terminated,53.0,Travel_Frequently,Yes
+674,Emp674,LN674,54,Nonbinary,Divorced,Engineering,DevOps Engineer,6993,Bachelor's,2006-06-20,Leave of Absence,105.0,Travel_Frequently,Yes
+675,Emp675,LN675,24,Male,Single,Operations,Logistics Coordinator,4343,PhD,2019-06-12,Leave of Absence,145.0,Travel_Frequently,Yes
+676,Emp676,LN676,60,Nonbinary,Married,Sales,Sales Executive,14129,Master's,2005-06-15,Leave of Absence,93.0,Travel_Rarely,Yes
+677,Emp677,LN677,42,Nonbinary,Married,R&D,Principal Researcher,17035,PhD,2018-01-15,Active,145.0,Travel_Frequently,Yes
+678,Emp678,LN678,59,Male,Single,Customer Success,Customer Success Manager,4685,PhD,2021-10-14,Active,67.0,Non-Travel,Yes
+679,Emp679,LN679,21,Nonbinary,Single,Human Resources,HR Specialist,10394,Bachelor's,2011-09-18,Leave of Absence,24.0,Travel_Rarely,No
+680,Emp680,LN680,32,Nonbinary,Married,Human Resources,Recruiter,15360,Bachelor's,2013-11-08,Active,34.0,Non-Travel,No
+681,Emp681,LN681,54,Female,Divorced,Customer Success,Customer Success Manager,12090,Bachelor's,2009-07-02,Terminated,147.0,Travel_Rarely,No
+682,Emp682,LN682,23,Female,Single,Customer Success,Customer Success Manager,5053,PhD,2011-03-29,Active,82.0,Non-Travel,No
+683,Emp683,LN683,34,Female,Divorced,Marketing,Brand Manager,16956,Master's,2015-06-03,Active,122.0,Travel_Frequently,No
+684,Emp684,LN684,23,Female,Single,Operations,Logistics Coordinator,4994,Master's,2019-04-24,Leave of Absence,48.0,Non-Travel,Yes
+685,Emp685,LN685,22,Female,Married,Marketing,SEO Specialist,14253,High School,2005-08-11,Active,52.0,Travel_Frequently,No
+686,Emp686,LN686,41,Female,Single,Engineering,Software Engineer,4808,Associate's,2022-11-29,Leave of Absence,102.0,Travel_Rarely,Yes
+687,Emp687,LN687,32,Female,Divorced,Sales,Sales Executive,4494,Master's,2005-09-24,Terminated,114.0,Travel_Rarely,No
+688,Emp688,LN688,34,Nonbinary,Single,Customer Success,Support Associate,5520,Associate's,2018-05-27,Terminated,68.0,Travel_Rarely,No
+689,Emp689,LN689,59,Male,Married,Engineering,DevOps Engineer,11331,High School,2013-10-12,Leave of Absence,95.0,Travel_Frequently,Yes
+690,Emp690,LN690,30,Female,Single,Customer Success,Support Associate,16912,Bachelor's,2022-02-13,Terminated,114.0,Non-Travel,No
+691,Emp691,LN691,39,Nonbinary,Divorced,Human Resources,Recruiter,12029,Master's,2018-10-12,Terminated,10.0,Travel_Rarely,Yes
+692,Emp692,LN692,33,Female,Divorced,Marketing,Marketing Analyst,18534,Associate's,2018-08-29,Active,103.0,Non-Travel,Yes
+693,Emp693,LN693,42,Male,Divorced,Sales,Account Manager,18854,Bachelor's,2007-08-13,Active,92.0,Non-Travel,No
+694,Emp694,LN694,31,Male,Single,Finance,Financial Analyst,11116,High School,2022-09-14,Terminated,136.0,Travel_Rarely,No
+695,Emp695,LN695,40,Male,Married,Operations,Operations Analyst,11764,Bachelor's,2020-02-22,Leave of Absence,94.0,Travel_Rarely,Yes
+696,Emp696,LN696,30,Female,Single,Customer Success,Support Associate,6963,Associate's,2009-01-28,Terminated,117.0,Travel_Frequently,No
+697,Emp697,LN697,56,Nonbinary,Single,It,IT Support,12793,Bachelor's,2010-02-11,Terminated,71.0,Non-Travel,Yes
+698,Emp698,LN698,52,Female,Single,Human Resources,HR Manager,10165,Associate's,2007-05-06,Leave of Absence,67.0,Travel_Rarely,Yes
+699,Emp699,LN699,60,Male,Single,Finance,Accountant,4690,Associate's,2007-08-08,Active,123.0,Non-Travel,Yes
+700,Emp700,LN700,33,Nonbinary,Married,Finance,Accountant,6379,Bachelor's,2013-02-01,Leave of Absence,52.0,Non-Travel,Yes
+701,Emp701,LN701,31,Female,Divorced,Engineering,Software Engineer,10836,High School,2013-05-26,Active,129.0,Non-Travel,Yes
+702,Emp702,LN702,33,Male,Single,Engineering,Software Engineer,6700,Master's,2009-09-24,Terminated,108.0,Travel_Rarely,Yes
+703,Emp703,LN703,57,Nonbinary,Single,Operations,Operations Analyst,12447,Associate's,2022-10-30,Active,119.0,Travel_Rarely,No
+704,Emp704,LN704,22,Nonbinary,Married,It,Systems Admin,14997,High School,2019-08-17,Leave of Absence,92.0,Non-Travel,Yes
+705,Emp705,LN705,52,Nonbinary,Single,It,IT Support,6619,Bachelor's,2021-04-24,Leave of Absence,131.0,Travel_Rarely,Yes
+706,Emp706,LN706,30,Nonbinary,Married,Engineering,Software Engineer,18277,High School,2017-10-02,Leave of Absence,76.0,Travel_Frequently,Yes
+707,Emp707,LN707,22,Male,Divorced,It,IT Support,9917,Master's,2022-06-17,Terminated,139.0,Travel_Frequently,Yes
+708,Emp708,LN708,24,Male,Single,R&D,Principal Researcher,16396,PhD,2021-05-02,Active,63.0,Travel_Frequently,No
+709,Emp709,LN709,25,Nonbinary,Married,Finance,Financial Analyst,8383,High School,2019-09-17,Terminated,131.0,Travel_Rarely,No
+710,Emp710,LN710,49,Male,Divorced,Human Resources,Recruiter,9832,Associate's,2009-03-15,Terminated,21.0,Travel_Frequently,Yes
+711,Emp711,LN711,38,Nonbinary,Divorced,Customer Success,Support Associate,11344,Master's,2021-05-31,Leave of Absence,27.0,Travel_Rarely,No
+712,Emp712,LN712,35,Female,Single,Engineering,DevOps Engineer,3166,Bachelor's,2014-07-23,Active,65.0,Non-Travel,Yes
+713,Emp713,LN713,22,Nonbinary,Divorced,R&D,Research Scientist,6858,PhD,2011-06-21,Terminated,35.0,Non-Travel,No
+714,Emp714,LN714,58,Male,Married,Customer Success,Support Associate,4641,High School,2016-05-08,Leave of Absence,44.0,Travel_Rarely,No
+715,Emp715,LN715,47,Female,Single,Customer Success,Support Associate,7635,High School,2011-01-08,Terminated,32.0,Travel_Frequently,No
+716,Emp716,LN716,32,Female,Married,Customer Success,Customer Success Manager,12293,Bachelor's,2008-08-26,Active,144.0,Travel_Rarely,No
+717,Emp717,LN717,48,Female,Divorced,Engineering,Data Engineer,17580,High School,2022-11-30,Leave of Absence,97.0,Non-Travel,Yes
+718,Emp718,LN718,40,Nonbinary,Married,Marketing,Marketing Analyst,9733,Associate's,2017-06-16,Active,120.0,Non-Travel,No
+719,Emp719,LN719,40,Male,Married,It,IT Support,14914,Associate's,2021-10-23,Leave of Absence,139.0,Travel_Rarely,Yes
+720,Emp720,LN720,54,Male,Married,Finance,Finance Manager,13079,Master's,2005-03-21,Leave of Absence,91.0,Travel_Frequently,Yes
+721,Emp721,LN721,35,Nonbinary,Married,It,Network Engineer,13068,Master's,2018-11-28,Leave of Absence,103.0,Travel_Rarely,No
+722,Emp722,LN722,31,Male,Divorced,Human Resources,Recruiter,8807,PhD,2009-03-07,Terminated,66.0,Non-Travel,Yes
+723,Emp723,LN723,22,Female,Married,Operations,Operations Analyst,18162,Master's,2006-06-19,Terminated,29.0,Travel_Rarely,Yes
+724,Emp724,LN724,60,Nonbinary,Divorced,Human Resources,Recruiter,15304,PhD,2008-06-01,Terminated,136.0,Travel_Rarely,Yes
+725,Emp725,LN725,39,Female,Divorced,Operations,Operations Analyst,15867,Bachelor's,2018-07-27,Terminated,92.0,Travel_Rarely,Yes
+726,Emp726,LN726,54,Female,Single,Engineering,DevOps Engineer,8861,PhD,2012-07-09,Leave of Absence,1.0,Travel_Rarely,Yes
+727,Emp727,LN727,53,Female,Married,Engineering,Data Engineer,5006,Master's,2019-04-01,Terminated,78.0,Travel_Frequently,No
+728,Emp728,LN728,39,Female,Married,Finance,Finance Manager,4936,PhD,2020-04-06,Leave of Absence,63.0,Travel_Frequently,No
+729,Emp729,LN729,39,Male,Single,Human Resources,Recruiter,13228,PhD,2015-05-22,Terminated,66.0,Travel_Frequently,Yes
+730,Emp730,LN730,34,Nonbinary,Single,Sales,Account Manager,5435,Associate's,2020-12-20,Active,69.0,Travel_Frequently,No
+731,Emp731,LN731,49,Male,Divorced,It,Network Engineer,19022,Associate's,2021-09-15,Leave of Absence,89.0,Travel_Rarely,No
+732,Emp732,LN732,43,Nonbinary,Married,Human Resources,HR Manager,3663,High School,2013-11-10,Active,56.0,Travel_Rarely,Yes
+733,Emp733,LN733,59,Female,Divorced,It,Network Engineer,13041,High School,2014-09-18,Terminated,48.0,Non-Travel,Yes
+734,Emp734,LN734,35,Nonbinary,Single,Finance,Financial Analyst,5232,Master's,2014-10-19,Leave of Absence,75.0,Travel_Rarely,No
+735,Emp735,LN735,58,Male,Married,R&D,Principal Researcher,7664,Master's,2021-09-12,Active,126.0,Non-Travel,Yes
+736,Emp736,LN736,22,Nonbinary,Married,Operations,Operations Analyst,5048,Associate's,2007-12-19,Terminated,81.0,Non-Travel,No
+737,Emp737,LN737,21,Nonbinary,Single,Operations,Logistics Coordinator,8305,High School,2015-07-11,Terminated,31.0,Non-Travel,No
+738,Emp738,LN738,33,Nonbinary,Divorced,Marketing,SEO Specialist,8431,PhD,2018-08-03,Active,101.0,Travel_Rarely,No
+739,Emp739,LN739,43,Female,Divorced,Finance,Accountant,8262,Master's,2008-02-19,Leave of Absence,61.0,Travel_Rarely,No
+740,Emp740,LN740,36,Female,Single,Engineering,Data Engineer,19019,Bachelor's,2011-11-11,Terminated,103.0,Travel_Rarely,Yes
+741,Emp741,LN741,58,Nonbinary,Divorced,Customer Success,Support Associate,6758,Associate's,2011-08-15,Leave of Absence,32.0,Non-Travel,No
+742,Emp742,LN742,20,Female,Married,Operations,Operations Analyst,19074,High School,2006-05-08,Active,87.0,Travel_Rarely,Yes
+743,Emp743,LN743,33,Female,Divorced,Operations,Operations Analyst,19348,PhD,2010-09-21,Active,39.0,Travel_Frequently,Yes
+744,Emp744,LN744,25,Nonbinary,Divorced,Engineering,DevOps Engineer,6929,PhD,2011-07-16,Leave of Absence,132.0,Non-Travel,No
+745,Emp745,LN745,49,Male,Married,Marketing,Brand Manager,19563,Bachelor's,2006-07-23,Leave of Absence,25.0,Travel_Rarely,No
+746,Emp746,LN746,60,Male,Divorced,It,IT Support,7629,PhD,2019-05-06,Leave of Absence,65.0,Non-Travel,Yes
+747,Emp747,LN747,49,Nonbinary,Divorced,Sales,Sales Representative,18316,High School,2017-08-20,Leave of Absence,71.0,Non-Travel,Yes
+748,Emp748,LN748,56,Male,Divorced,Customer Success,Support Associate,13842,PhD,2010-04-20,Active,1.0,Travel_Rarely,No
+749,Emp749,LN749,30,Nonbinary,Divorced,Operations,Logistics Coordinator,13484,Associate's,2006-10-23,Terminated,127.0,Travel_Frequently,No
+750,Emp750,LN750,43,Female,Divorced,Finance,Accountant,4089,Associate's,2018-05-24,Active,96.0,Non-Travel,No
+751,Emp751,LN751,40,Male,Single,Sales,Sales Executive,8227,Bachelor's,2010-05-13,Active,30.0,Non-Travel,Yes
+752,Emp752,LN752,60,Female,Divorced,Marketing,Marketing Analyst,17988,Associate's,2022-03-17,Leave of Absence,102.0,Travel_Rarely,No
+753,Emp753,LN753,22,Female,Married,R&D,Principal Researcher,6791,High School,2010-03-15,Leave of Absence,109.0,Travel_Frequently,Yes
+754,Emp754,LN754,51,Female,Married,Sales,Sales Representative,18037,Master's,2019-11-15,Terminated,71.0,Travel_Frequently,No
+755,Emp755,LN755,38,Female,Divorced,Customer Success,Customer Success Manager,18338,PhD,2009-09-29,Terminated,121.0,Travel_Frequently,Yes
+756,Emp756,LN756,40,Female,Married,It,Network Engineer,7748,Associate's,2021-11-15,Active,30.0,Non-Travel,No
+757,Emp757,LN757,48,Male,Single,It,IT Support,19054,High School,2020-11-06,Terminated,7.0,Travel_Frequently,No
+758,Emp758,LN758,60,Male,Single,Marketing,Brand Manager,17781,Associate's,2022-04-08,Active,60.0,Travel_Rarely,No
+759,Emp759,LN759,36,Female,Divorced,It,Network Engineer,3691,PhD,2013-01-23,Terminated,37.0,Non-Travel,No
+760,Emp760,LN760,39,Male,Divorced,Engineering,DevOps Engineer,7045,Master's,2014-07-30,Terminated,80.0,Travel_Rarely,No
+761,Emp761,LN761,60,Male,Divorced,It,Systems Admin,9730,Bachelor's,2013-07-29,Terminated,42.0,Travel_Frequently,No
+762,Emp762,LN762,28,Male,Divorced,Customer Success,Support Associate,10365,Master's,2013-01-14,Active,88.0,Travel_Rarely,No
+763,Emp763,LN763,37,Nonbinary,Divorced,Engineering,Data Engineer,15122,Bachelor's,2012-06-12,Active,34.0,Travel_Frequently,No
+764,Emp764,LN764,54,Female,Married,Marketing,Brand Manager,11339,Associate's,2014-03-15,Active,89.0,Travel_Rarely,No
+765,Emp765,LN765,31,Nonbinary,Divorced,Finance,Accountant,11390,PhD,2020-09-22,Active,93.0,Travel_Rarely,Yes
+766,Emp766,LN766,54,Female,Married,Finance,Financial Analyst,13403,Master's,2017-05-12,Active,85.0,Travel_Frequently,Yes
+767,Emp767,LN767,60,Female,Married,Operations,Logistics Coordinator,14305,PhD,2019-05-17,Leave of Absence,34.0,Travel_Frequently,Yes
+768,Emp768,LN768,24,Female,Single,Marketing,SEO Specialist,18914,PhD,2008-04-27,Terminated,35.0,Non-Travel,Yes
+769,Emp769,LN769,47,Nonbinary,Divorced,Sales,Account Manager,4360,Associate's,2021-07-06,Active,100.0,Travel_Rarely,Yes
+770,Emp770,LN770,36,Female,Single,Finance,Accountant,10405,Associate's,2022-04-28,Terminated,140.0,Travel_Frequently,No
+771,Emp771,LN771,38,Nonbinary,Single,Operations,Logistics Coordinator,11912,High School,2014-12-08,Terminated,145.0,Travel_Frequently,No
+772,Emp772,LN772,35,Female,Divorced,It,Network Engineer,13723,Bachelor's,2018-07-21,Leave of Absence,80.0,Travel_Frequently,No
+773,Emp773,LN773,41,Male,Single,Sales,Account Manager,17651,PhD,2010-01-31,Active,135.0,Travel_Frequently,Yes
+774,Emp774,LN774,40,Female,Divorced,R&D,Lab Technician,4505,Bachelor's,2016-12-08,Leave of Absence,89.0,Travel_Frequently,No
+775,Emp775,LN775,22,Female,Married,R&D,Principal Researcher,18158,Bachelor's,2021-02-06,Active,57.0,Travel_Rarely,No
+776,Emp776,LN776,39,Male,Married,It,IT Support,13506,Master's,2007-05-04,Terminated,85.0,Non-Travel,Yes
+777,Emp777,LN777,34,Nonbinary,Married,Sales,Sales Representative,18603,PhD,2016-12-17,Terminated,87.0,Travel_Frequently,No
+778,Emp778,LN778,28,Nonbinary,Divorced,Sales,Sales Executive,6400,Associate's,2008-02-22,Leave of Absence,65.0,Travel_Rarely,Yes
+779,Emp779,LN779,39,Male,Married,Engineering,DevOps Engineer,19200,Master's,2010-09-10,Leave of Absence,5.0,Travel_Rarely,Yes
+780,Emp780,LN780,48,Nonbinary,Divorced,Human Resources,HR Manager,5455,Bachelor's,2009-05-25,Leave of Absence,98.0,Non-Travel,Yes
+781,Emp781,LN781,38,Female,Single,Engineering,Software Engineer,13667,High School,2007-03-07,Leave of Absence,143.0,Travel_Rarely,Yes
+782,Emp782,LN782,52,Female,Single,Finance,Finance Manager,18421,Master's,2015-02-22,Active,41.0,Travel_Rarely,Yes
+783,Emp783,LN783,55,Male,Single,Human Resources,Recruiter,6089,Bachelor's,2009-01-12,Terminated,111.0,Non-Travel,No
+784,Emp784,LN784,29,Male,Single,Human Resources,HR Specialist,19583,Master's,2009-01-28,Terminated,100.0,Travel_Frequently,Yes
+785,Emp785,LN785,31,Female,Single,Sales,Account Manager,12242,PhD,2020-06-26,Terminated,17.0,Travel_Frequently,No
+786,Emp786,LN786,26,Male,Divorced,It,IT Support,14044,High School,2019-11-13,Leave of Absence,18.0,Travel_Rarely,No
+787,Emp787,LN787,56,Nonbinary,Married,Marketing,Marketing Analyst,15464,Master's,2017-11-15,Terminated,98.0,Travel_Frequently,Yes
+788,Emp788,LN788,21,Nonbinary,Single,Sales,Account Manager,16472,Associate's,2017-06-07,Leave of Absence,122.0,Travel_Frequently,Yes
+789,Emp789,LN789,49,Male,Single,Human Resources,HR Specialist,10448,Associate's,2011-03-17,Terminated,140.0,Non-Travel,No
+790,Emp790,LN790,53,Female,Divorced,Engineering,DevOps Engineer,10719,Bachelor's,2005-01-02,Leave of Absence,56.0,Travel_Frequently,Yes
+791,Emp791,LN791,40,Female,Divorced,Sales,Sales Executive,13244,Bachelor's,2014-03-05,Terminated,129.0,Non-Travel,Yes
+792,Emp792,LN792,25,Nonbinary,Single,Human Resources,HR Manager,14690,Master's,2020-08-09,Terminated,76.0,Travel_Rarely,Yes
+793,Emp793,LN793,55,Female,Married,Customer Success,Support Associate,9671,Bachelor's,2006-05-21,Terminated,33.0,Non-Travel,No
+794,Emp794,LN794,35,Female,Single,Finance,Financial Analyst,17495,PhD,2021-10-21,Leave of Absence,90.0,Travel_Frequently,No
+795,Emp795,LN795,32,Female,Divorced,Customer Success,Customer Success Manager,14201,Master's,2017-10-06,Terminated,129.0,Travel_Frequently,No
+796,Emp796,LN796,46,Female,Married,It,Network Engineer,17301,Master's,2010-08-02,Active,19.0,Non-Travel,Yes
+797,Emp797,LN797,27,Female,Single,Marketing,Brand Manager,13971,Bachelor's,2011-02-10,Active,79.0,Non-Travel,Yes
+798,Emp798,LN798,22,Nonbinary,Married,Finance,Finance Manager,12256,PhD,2021-05-14,Active,129.0,Travel_Rarely,No
+799,Emp799,LN799,54,Female,Single,It,Network Engineer,12862,Bachelor's,2005-12-06,Active,24.0,Travel_Frequently,No
+800,Emp800,LN800,23,Male,Married,Operations,Operations Analyst,9608,High School,2014-07-27,Active,106.0,Travel_Frequently,No
+801,Emp801,LN801,42,Female,Divorced,R&D,Lab Technician,7297,High School,2006-04-23,Leave of Absence,128.0,Non-Travel,No
+802,Emp802,LN802,52,Female,Divorced,Human Resources,Recruiter,7596,Associate's,2010-08-04,Active,58.0,Travel_Frequently,Yes
+803,Emp803,LN803,59,Nonbinary,Married,It,Systems Admin,19297,Master's,2005-04-18,Terminated,37.0,Travel_Frequently,No
+804,Emp804,LN804,57,Male,Single,Human Resources,HR Specialist,3119,High School,2011-12-23,Leave of Absence,3.0,Non-Travel,Yes
+805,Emp805,LN805,51,Nonbinary,Single,Marketing,SEO Specialist,13615,PhD,2021-02-04,Leave of Absence,65.0,Non-Travel,No
+806,Emp806,LN806,46,Male,Married,Finance,Financial Analyst,17597,Associate's,2005-12-24,Active,85.0,Non-Travel,No
+807,Emp807,LN807,32,Female,Married,Sales,Sales Representative,15427,Bachelor's,2006-02-03,Terminated,80.0,Travel_Frequently,No
+808,Emp808,LN808,26,Male,Single,Human Resources,Recruiter,9219,Bachelor's,2017-10-12,Leave of Absence,53.0,Travel_Frequently,No
+809,Emp809,LN809,60,Nonbinary,Married,Sales,Sales Representative,6153,Master's,2005-04-09,Leave of Absence,1.0,Travel_Rarely,No
+810,Emp810,LN810,44,Female,Divorced,Sales,Sales Representative,19304,Bachelor's,2008-12-05,Active,138.0,Travel_Rarely,No
+811,Emp811,LN811,59,Nonbinary,Married,Sales,Sales Executive,16463,Master's,2006-03-07,Leave of Absence,110.0,Travel_Rarely,No
+812,Emp812,LN812,27,Male,Divorced,Engineering,Software Engineer,15134,Associate's,2011-08-30,Active,113.0,Travel_Frequently,No
+813,Emp813,LN813,50,Female,Single,Customer Success,Customer Success Manager,19729,Bachelor's,2014-09-24,Leave of Absence,100.0,Non-Travel,Yes
+814,Emp814,LN814,52,Female,Single,Engineering,DevOps Engineer,3632,Associate's,2007-03-30,Leave of Absence,26.0,Travel_Frequently,No
+815,Emp815,LN815,20,Nonbinary,Married,It,Systems Admin,15936,PhD,2020-05-09,Leave of Absence,58.0,Non-Travel,No
+816,Emp816,LN816,34,Male,Divorced,Human Resources,Recruiter,19749,Bachelor's,2021-05-08,Leave of Absence,24.0,Travel_Rarely,Yes
+817,Emp817,LN817,60,Male,Divorced,Finance,Accountant,3765,Bachelor's,2019-05-03,Active,95.0,Non-Travel,No
+818,Emp818,LN818,45,Male,Married,It,Network Engineer,10018,Master's,2017-01-13,Leave of Absence,50.0,Travel_Rarely,No
+819,Emp819,LN819,26,Male,Divorced,Operations,Operations Analyst,18465,PhD,2011-12-02,Terminated,90.0,Non-Travel,Yes
+820,Emp820,LN820,52,Male,Single,Marketing,SEO Specialist,11268,Master's,2016-12-02,Active,85.0,Travel_Frequently,No
+821,Emp821,LN821,39,Female,Divorced,Finance,Finance Manager,12338,High School,2009-06-18,Active,6.0,Non-Travel,No
+822,Emp822,LN822,43,Male,Divorced,Sales,Account Manager,9985,Master's,2017-10-09,Terminated,124.0,Non-Travel,No
+823,Emp823,LN823,46,Male,Divorced,R&D,Research Scientist,3557,Bachelor's,2013-08-31,Leave of Absence,8.0,Non-Travel,Yes
+824,Emp824,LN824,56,Female,Married,Marketing,SEO Specialist,13625,High School,2019-01-05,Terminated,137.0,Travel_Frequently,Yes
+825,Emp825,LN825,20,Male,Single,Operations,Logistics Coordinator,10399,Associate's,2012-10-06,Terminated,131.0,Travel_Rarely,No
+826,Emp826,LN826,42,Female,Divorced,Marketing,Marketing Analyst,7167,Associate's,2018-04-12,Terminated,71.0,Travel_Rarely,Yes
+827,Emp827,LN827,53,Female,Married,Customer Success,Customer Success Manager,5409,High School,2022-08-20,Terminated,55.0,Travel_Frequently,No
+828,Emp828,LN828,41,Nonbinary,Single,It,Systems Admin,4752,PhD,2021-09-02,Leave of Absence,124.0,Travel_Frequently,Yes
+829,Emp829,LN829,41,Nonbinary,Single,Operations,Operations Analyst,11862,Master's,2021-02-16,Leave of Absence,7.0,Non-Travel,Yes
+830,Emp830,LN830,24,Nonbinary,Divorced,It,Systems Admin,10769,Bachelor's,2018-04-13,Terminated,89.0,Travel_Frequently,No
+831,Emp831,LN831,46,Female,Married,Marketing,Marketing Analyst,14240,High School,2018-12-03,Leave of Absence,86.0,Travel_Rarely,No
+832,Emp832,LN832,38,Nonbinary,Single,Marketing,SEO Specialist,15346,Master's,2013-07-08,Active,11.0,Travel_Frequently,No
+833,Emp833,LN833,49,Female,Married,Finance,Accountant,6363,Bachelor's,2009-06-14,Leave of Absence,147.0,Non-Travel,Yes
+834,Emp834,LN834,39,Male,Married,Finance,Financial Analyst,16727,Master's,2011-07-04,Terminated,85.0,Travel_Frequently,No
+835,Emp835,LN835,35,Nonbinary,Single,Engineering,Data Engineer,3855,Associate's,2019-08-21,Active,129.0,Non-Travel,Yes
+836,Emp836,LN836,32,Nonbinary,Divorced,Marketing,Marketing Analyst,12423,High School,2005-01-07,Terminated,86.0,Travel_Frequently,No
+837,Emp837,LN837,51,Female,Married,Engineering,Software Engineer,5239,High School,2006-04-18,Active,89.0,Non-Travel,No
+838,Emp838,LN838,24,Nonbinary,Single,It,IT Support,5715,PhD,2009-06-20,Leave of Absence,104.0,Non-Travel,Yes
+839,Emp839,LN839,47,Female,Single,Human Resources,HR Specialist,17609,High School,2005-09-27,Leave of Absence,73.0,Non-Travel,No
+840,Emp840,LN840,23,Male,Married,It,Network Engineer,17934,High School,2011-10-21,Leave of Absence,32.0,Travel_Rarely,No
+841,Emp841,LN841,46,Nonbinary,Single,Sales,Sales Executive,17776,High School,2017-03-04,Active,18.0,Travel_Frequently,Yes
+842,Emp842,LN842,31,Nonbinary,Divorced,Sales,Sales Representative,4716,Associate's,2012-04-23,Active,40.0,Non-Travel,No
+843,Emp843,LN843,27,Female,Divorced,Human Resources,HR Specialist,10385,High School,2018-06-17,Active,58.0,Non-Travel,Yes
+844,Emp844,LN844,37,Nonbinary,Married,Customer Success,Support Associate,11746,High School,2022-08-22,Active,99.0,Travel_Frequently,Yes
+845,Emp845,LN845,50,Male,Married,Operations,Operations Analyst,14507,Bachelor's,2018-08-09,Terminated,40.0,Travel_Frequently,Yes
+846,Emp846,LN846,28,Male,Married,Engineering,DevOps Engineer,7138,PhD,2011-06-05,Active,130.0,Travel_Frequently,No
+847,Emp847,LN847,47,Male,Single,Marketing,Brand Manager,9694,PhD,2006-10-07,Leave of Absence,71.0,Non-Travel,No
+848,Emp848,LN848,32,Female,Single,Finance,Accountant,9225,Master's,2010-05-22,Terminated,98.0,Non-Travel,No
+849,Emp849,LN849,45,Male,Divorced,R&D,Research Scientist,9880,Bachelor's,2013-01-21,Terminated,88.0,Travel_Frequently,No
+850,Emp850,LN850,47,Nonbinary,Divorced,R&D,Research Scientist,9581,High School,2017-02-21,Active,147.0,Travel_Rarely,Yes
+851,Emp851,LN851,29,Nonbinary,Divorced,Sales,Account Manager,19442,Bachelor's,2008-10-25,Terminated,33.0,Travel_Frequently,No
+852,Emp852,LN852,53,Nonbinary,Single,Engineering,DevOps Engineer,4535,PhD,2022-09-29,Active,83.0,Non-Travel,No
+853,Emp853,LN853,56,Female,Married,R&D,Research Scientist,11403,Associate's,2016-09-15,Terminated,128.0,Non-Travel,Yes
+854,Emp854,LN854,30,Nonbinary,Single,Customer Success,Support Associate,16018,Master's,2014-03-27,Active,99.0,Travel_Frequently,No
+855,Emp855,LN855,46,Male,Married,Human Resources,Recruiter,17985,Associate's,2014-11-28,Leave of Absence,138.0,Travel_Rarely,No
+856,Emp856,LN856,38,Female,Married,Engineering,DevOps Engineer,15201,Master's,2015-07-19,Leave of Absence,54.0,Non-Travel,Yes
+857,Emp857,LN857,35,Nonbinary,Single,Operations,Logistics Coordinator,3560,Bachelor's,2018-11-04,Terminated,63.0,Non-Travel,Yes
+858,Emp858,LN858,50,Nonbinary,Single,Finance,Finance Manager,11684,Associate's,2010-03-20,Terminated,135.0,Travel_Frequently,Yes
+859,Emp859,LN859,50,Female,Married,Customer Success,Support Associate,15086,High School,2016-07-16,Terminated,130.0,Non-Travel,No
+860,Emp860,LN860,50,Female,Married,Operations,Operations Analyst,10495,High School,2005-06-04,Active,111.0,Non-Travel,No
+861,Emp861,LN861,49,Nonbinary,Divorced,Sales,Sales Executive,3329,High School,2010-11-19,Terminated,58.0,Travel_Frequently,Yes
+862,Emp862,LN862,22,Female,Divorced,Marketing,Marketing Analyst,15495,PhD,2021-06-25,Active,90.0,Travel_Frequently,Yes
+863,Emp863,LN863,29,Female,Single,Human Resources,Recruiter,6180,High School,2019-05-12,Leave of Absence,34.0,Non-Travel,No
+864,Emp864,LN864,46,Female,Single,Engineering,DevOps Engineer,19120,Associate's,2009-08-04,Terminated,143.0,Travel_Rarely,Yes
+865,Emp865,LN865,32,Male,Single,Customer Success,Support Associate,15467,Bachelor's,2007-07-19,Terminated,70.0,Non-Travel,No
+866,Emp866,LN866,21,Nonbinary,Married,R&D,Principal Researcher,13824,Bachelor's,2005-11-23,Leave of Absence,83.0,Non-Travel,No
+867,Emp867,LN867,28,Male,Divorced,R&D,Lab Technician,14359,High School,2018-02-15,Terminated,108.0,Travel_Rarely,No
+868,Emp868,LN868,36,Male,Married,It,Systems Admin,8392,High School,2020-10-02,Active,141.0,Travel_Frequently,No
+869,Emp869,LN869,51,Male,Divorced,Human Resources,HR Manager,16310,Associate's,2018-11-10,Leave of Absence,132.0,Travel_Frequently,Yes
+870,Emp870,LN870,53,Female,Married,Engineering,Software Engineer,11103,Master's,2008-06-15,Active,115.0,Non-Travel,No
+871,Emp871,LN871,20,Female,Divorced,R&D,Lab Technician,11029,Bachelor's,2013-02-23,Leave of Absence,46.0,Travel_Frequently,No
+872,Emp872,LN872,21,Nonbinary,Divorced,Marketing,Marketing Analyst,11151,Associate's,2016-08-05,Terminated,78.0,Non-Travel,Yes
+873,Emp873,LN873,49,Male,Married,Operations,Operations Analyst,3157,Bachelor's,2015-01-24,Active,31.0,Travel_Rarely,No
+874,Emp874,LN874,51,Female,Divorced,Sales,Sales Representative,12259,Associate's,2017-02-01,Active,115.0,Non-Travel,Yes
+875,Emp875,LN875,44,Male,Divorced,R&D,Principal Researcher,18019,PhD,2014-02-15,Active,79.0,Travel_Frequently,No
+876,Emp876,LN876,43,Female,Single,It,Network Engineer,16350,PhD,2018-02-13,Terminated,118.0,Non-Travel,Yes
+877,Emp877,LN877,51,Nonbinary,Single,Operations,Operations Analyst,3764,PhD,2011-01-13,Terminated,121.0,Travel_Frequently,Yes
+878,Emp878,LN878,23,Nonbinary,Married,Marketing,Brand Manager,5295,PhD,2007-06-04,Active,129.0,Non-Travel,No
+879,Emp879,LN879,53,Nonbinary,Divorced,Customer Success,Support Associate,6239,Associate's,2020-12-25,Active,18.0,Travel_Rarely,Yes
+880,Emp880,LN880,41,Female,Single,R&D,Lab Technician,8971,Bachelor's,2013-03-31,Active,46.0,Travel_Frequently,No
+881,Emp881,LN881,21,Male,Divorced,Customer Success,Support Associate,7368,Associate's,2008-11-03,Leave of Absence,107.0,Non-Travel,Yes
+882,Emp882,LN882,55,Male,Single,R&D,Lab Technician,19604,Bachelor's,2012-03-31,Active,6.0,Travel_Frequently,Yes
+883,Emp883,LN883,45,Nonbinary,Single,It,Systems Admin,12890,PhD,2016-01-13,Terminated,114.0,Travel_Rarely,No
+884,Emp884,LN884,49,Female,Married,Sales,Sales Representative,5835,High School,2022-07-09,Terminated,123.0,Travel_Frequently,Yes
+885,Emp885,LN885,59,Male,Single,Human Resources,HR Specialist,11681,High School,2005-07-13,Active,82.0,Travel_Frequently,Yes
+886,Emp886,LN886,50,Female,Divorced,Engineering,Software Engineer,9072,Bachelor's,2008-05-26,Leave of Absence,3.0,Non-Travel,No
+887,Emp887,LN887,53,Nonbinary,Divorced,Engineering,DevOps Engineer,5149,High School,2017-05-11,Active,130.0,Travel_Frequently,No
+888,Emp888,LN888,23,Nonbinary,Single,Customer Success,Support Associate,19328,Bachelor's,2008-04-25,Leave of Absence,60.0,Non-Travel,Yes
+889,Emp889,LN889,32,Nonbinary,Divorced,Finance,Financial Analyst,15295,Associate's,2020-06-02,Active,138.0,Travel_Rarely,No
+890,Emp890,LN890,21,Male,Married,Engineering,DevOps Engineer,10100,Bachelor's,2016-02-20,Leave of Absence,1.0,Travel_Frequently,No
+891,Emp891,LN891,50,Nonbinary,Married,Finance,Accountant,13692,High School,2019-10-29,Terminated,70.0,Non-Travel,Yes
+892,Emp892,LN892,21,Nonbinary,Single,Operations,Operations Analyst,11338,Bachelor's,2008-05-11,Leave of Absence,82.0,Travel_Rarely,No
+893,Emp893,LN893,39,Male,Married,Marketing,SEO Specialist,17519,Associate's,2005-12-16,Leave of Absence,12.0,Travel_Rarely,Yes
+894,Emp894,LN894,20,Female,Single,Marketing,Marketing Analyst,10277,High School,2020-11-05,Terminated,62.0,Non-Travel,No
+895,Emp895,LN895,48,Nonbinary,Married,R&D,Research Scientist,6869,PhD,2017-04-24,Leave of Absence,15.0,Travel_Frequently,Yes
+896,Emp896,LN896,26,Nonbinary,Single,Sales,Sales Representative,11908,PhD,2010-10-11,Active,37.0,Travel_Frequently,Yes
+897,Emp897,LN897,34,Female,Single,R&D,Principal Researcher,5125,Associate's,2021-11-30,Active,57.0,Travel_Frequently,No
+898,Emp898,LN898,45,Female,Single,Customer Success,Customer Success Manager,7389,PhD,2008-08-04,Active,145.0,Non-Travel,No
+899,Emp899,LN899,44,Nonbinary,Single,R&D,Research Scientist,16327,Associate's,2012-05-26,Terminated,78.0,Travel_Rarely,Yes
+900,Emp900,LN900,58,Male,Divorced,Finance,Financial Analyst,11800,Associate's,2021-05-05,Active,89.0,Non-Travel,No
+901,Emp901,LN901,55,Nonbinary,Single,Sales,Account Manager,19365,Bachelor's,2007-09-11,Terminated,62.0,Non-Travel,No
+902,Emp902,LN902,26,Female,Married,Customer Success,Support Associate,6167,Bachelor's,2020-11-18,Leave of Absence,132.0,Travel_Frequently,No
+903,Emp903,LN903,38,Nonbinary,Single,Marketing,SEO Specialist,9840,Bachelor's,2008-11-02,Terminated,54.0,Non-Travel,No
+904,Emp904,LN904,34,Male,Single,It,Systems Admin,12831,High School,2006-01-31,Terminated,111.0,Travel_Rarely,Yes
+905,Emp905,LN905,21,Male,Single,Engineering,Software Engineer,11330,Master's,2016-02-11,Terminated,71.0,Travel_Rarely,Yes
+906,Emp906,LN906,57,Female,Married,Operations,Operations Analyst,6266,Bachelor's,2017-05-18,Leave of Absence,21.0,Travel_Rarely,No
+907,Emp907,LN907,43,Female,Married,Customer Success,Customer Success Manager,10471,High School,2020-08-05,Leave of Absence,141.0,Travel_Rarely,No
+908,Emp908,LN908,38,Female,Single,Marketing,Marketing Analyst,4227,Master's,2016-02-09,Terminated,69.0,Travel_Rarely,Yes
+909,Emp909,LN909,47,Male,Divorced,R&D,Research Scientist,3363,Bachelor's,2012-03-11,Leave of Absence,67.0,Travel_Rarely,Yes
+910,Emp910,LN910,24,Nonbinary,Divorced,Marketing,Brand Manager,14858,Associate's,2020-08-13,Leave of Absence,46.0,Non-Travel,No
+911,Emp911,LN911,34,Nonbinary,Single,Finance,Accountant,4505,Master's,2015-03-09,Terminated,141.0,Travel_Rarely,Yes
+912,Emp912,LN912,59,Nonbinary,Married,Operations,Logistics Coordinator,14095,PhD,2022-05-05,Leave of Absence,12.0,Non-Travel,Yes
+913,Emp913,LN913,33,Nonbinary,Married,Marketing,Brand Manager,7229,Associate's,2015-12-25,Leave of Absence,43.0,Travel_Frequently,No
+914,Emp914,LN914,56,Female,Divorced,Marketing,Marketing Analyst,10785,Associate's,2015-08-08,Leave of Absence,133.0,Travel_Frequently,Yes
+915,Emp915,LN915,54,Male,Divorced,It,Network Engineer,8025,Associate's,2016-03-06,Active,121.0,Non-Travel,No
+916,Emp916,LN916,55,Male,Single,R&D,Research Scientist,6773,PhD,2015-06-28,Leave of Absence,138.0,Travel_Frequently,Yes
+917,Emp917,LN917,50,Nonbinary,Married,Human Resources,Recruiter,12572,Master's,2016-01-29,Terminated,128.0,Travel_Frequently,No
+918,Emp918,LN918,26,Male,Single,R&D,Lab Technician,8547,Master's,2022-11-07,Leave of Absence,83.0,Travel_Rarely,Yes
+919,Emp919,LN919,43,Nonbinary,Divorced,It,Network Engineer,16178,Associate's,2021-07-01,Active,2.0,Non-Travel,No
+920,Emp920,LN920,31,Nonbinary,Single,Engineering,Software Engineer,16467,Master's,2005-06-21,Leave of Absence,111.0,Travel_Rarely,No
+921,Emp921,LN921,32,Female,Married,R&D,Lab Technician,12993,PhD,2015-12-15,Terminated,79.0,Travel_Frequently,Yes
+922,Emp922,LN922,26,Female,Married,Engineering,DevOps Engineer,16584,Associate's,2011-04-23,Active,96.0,Non-Travel,Yes
+923,Emp923,LN923,34,Female,Single,Human Resources,Recruiter,5801,Bachelor's,2014-11-03,Terminated,99.0,Travel_Rarely,No
+924,Emp924,LN924,59,Nonbinary,Married,Engineering,Data Engineer,4730,Master's,2017-02-20,Active,96.0,Travel_Rarely,No
+925,Emp925,LN925,48,Male,Divorced,Sales,Account Manager,7155,PhD,2006-11-28,Active,54.0,Non-Travel,Yes
+926,Emp926,LN926,24,Nonbinary,Divorced,Sales,Sales Executive,4788,Bachelor's,2022-02-25,Terminated,76.0,Non-Travel,No
+927,Emp927,LN927,22,Nonbinary,Married,Operations,Operations Analyst,12140,PhD,2017-02-09,Active,79.0,Travel_Rarely,No
+928,Emp928,LN928,28,Nonbinary,Single,Engineering,DevOps Engineer,4015,PhD,2018-02-09,Leave of Absence,116.0,Travel_Frequently,Yes
+929,Emp929,LN929,41,Male,Married,R&D,Principal Researcher,19005,High School,2021-01-23,Terminated,109.0,Travel_Rarely,No
+930,Emp930,LN930,38,Male,Divorced,Marketing,SEO Specialist,9015,High School,2008-09-11,Leave of Absence,18.0,Travel_Frequently,No
+931,Emp931,LN931,41,Female,Married,Engineering,Software Engineer,3973,Master's,2007-10-04,Leave of Absence,66.0,Travel_Frequently,Yes
+932,Emp932,LN932,36,Female,Married,Human Resources,HR Manager,4631,Bachelor's,2006-01-29,Leave of Absence,39.0,Travel_Rarely,Yes
+933,Emp933,LN933,29,Nonbinary,Married,Engineering,DevOps Engineer,9106,Master's,2007-11-16,Active,55.0,Travel_Frequently,No
+934,Emp934,LN934,54,Nonbinary,Divorced,R&D,Principal Researcher,13346,Master's,2012-06-24,Leave of Absence,112.0,Non-Travel,Yes
+935,Emp935,LN935,40,Nonbinary,Married,Customer Success,Support Associate,12882,Associate's,2012-05-07,Terminated,73.0,Travel_Frequently,Yes
+936,Emp936,LN936,33,Nonbinary,Single,It,Systems Admin,7048,PhD,2008-06-05,Leave of Absence,64.0,Travel_Rarely,No
+937,Emp937,LN937,59,Male,Single,It,Network Engineer,9116,Master's,2014-12-23,Active,17.0,Travel_Frequently,No
+938,Emp938,LN938,41,Nonbinary,Single,Customer Success,Customer Success Manager,16381,Bachelor's,2016-11-15,Active,46.0,Travel_Frequently,No
+939,Emp939,LN939,54,Male,Married,Finance,Finance Manager,8238,High School,2018-04-22,Leave of Absence,67.0,Travel_Rarely,Yes
+940,Emp940,LN940,58,Nonbinary,Divorced,Human Resources,HR Specialist,18080,Bachelor's,2010-10-25,Leave of Absence,8.0,Travel_Rarely,Yes
+941,Emp941,LN941,35,Nonbinary,Divorced,Operations,Operations Analyst,10450,Associate's,2017-02-18,Leave of Absence,100.0,Travel_Frequently,No
+942,Emp942,LN942,55,Male,Married,Sales,Account Manager,9692,PhD,2018-01-27,Leave of Absence,15.0,Travel_Rarely,Yes
+943,Emp943,LN943,34,Female,Single,Marketing,Marketing Analyst,11543,High School,2005-05-18,Active,123.0,Travel_Frequently,Yes
+944,Emp944,LN944,50,Male,Divorced,Operations,Operations Analyst,6364,PhD,2009-06-20,Leave of Absence,136.0,Non-Travel,Yes
+945,Emp945,LN945,27,Female,Married,Human Resources,HR Specialist,13172,Associate's,2010-06-19,Terminated,42.0,Non-Travel,No
+946,Emp946,LN946,24,Nonbinary,Divorced,Operations,Operations Analyst,11586,High School,2006-03-22,Terminated,92.0,Non-Travel,Yes
+947,Emp947,LN947,53,Nonbinary,Divorced,Engineering,Data Engineer,19607,Associate's,2020-12-24,Active,129.0,Non-Travel,No
+948,Emp948,LN948,32,Male,Married,R&D,Lab Technician,3379,Master's,2008-07-18,Leave of Absence,25.0,Non-Travel,No
+949,Emp949,LN949,36,Male,Married,It,IT Support,13509,Associate's,2021-09-24,Active,67.0,Travel_Frequently,Yes
+950,Emp950,LN950,36,Female,Married,Customer Success,Customer Success Manager,11649,Bachelor's,2018-06-26,Active,129.0,Travel_Rarely,Yes
+951,Emp951,LN951,52,Female,Married,Sales,Sales Representative,4376,Bachelor's,2012-12-27,Leave of Absence,85.0,Travel_Frequently,Yes
+952,Emp952,LN952,57,Female,Single,Operations,Operations Analyst,8444,Associate's,2010-01-20,Leave of Absence,75.0,Non-Travel,Yes
+953,Emp953,LN953,20,Female,Divorced,It,IT Support,9056,Associate's,2009-07-23,Leave of Absence,139.0,Travel_Rarely,Yes
+954,Emp954,LN954,27,Female,Married,Finance,Accountant,5126,Bachelor's,2017-03-26,Leave of Absence,77.0,Non-Travel,No
+955,Emp955,LN955,20,Male,Married,Finance,Accountant,11383,Master's,2022-07-27,Leave of Absence,70.0,Travel_Rarely,Yes
+956,Emp956,LN956,58,Male,Divorced,R&D,Research Scientist,6085,PhD,2016-02-05,Leave of Absence,140.0,Travel_Rarely,No
+957,Emp957,LN957,44,Nonbinary,Divorced,Marketing,Marketing Analyst,8777,Master's,2009-07-18,Leave of Absence,145.0,Non-Travel,Yes
+958,Emp958,LN958,56,Nonbinary,Divorced,R&D,Research Scientist,9291,Associate's,2006-01-19,Active,108.0,Travel_Rarely,No
+959,Emp959,LN959,21,Nonbinary,Married,Engineering,Data Engineer,18979,Associate's,2017-06-23,Active,21.0,Non-Travel,Yes
+960,Emp960,LN960,52,Nonbinary,Married,Marketing,Brand Manager,15185,Associate's,2019-07-18,Active,46.0,Travel_Frequently,Yes
+961,Emp961,LN961,35,Male,Married,Engineering,Data Engineer,6746,High School,2019-12-05,Active,104.0,Non-Travel,No
+962,Emp962,LN962,32,Female,Single,Operations,Logistics Coordinator,16300,Master's,2007-05-29,Leave of Absence,21.0,Non-Travel,Yes
+963,Emp963,LN963,54,Male,Single,Marketing,Marketing Analyst,11901,Associate's,2012-07-15,Leave of Absence,120.0,Non-Travel,No
+964,Emp964,LN964,50,Nonbinary,Married,Human Resources,Recruiter,19643,Associate's,2009-04-17,Terminated,121.0,Travel_Rarely,No
+965,Emp965,LN965,52,Male,Single,Human Resources,Recruiter,18358,Associate's,2011-05-17,Terminated,58.0,Non-Travel,No
+966,Emp966,LN966,27,Male,Married,R&D,Research Scientist,5717,Bachelor's,2018-01-07,Active,47.0,Travel_Rarely,No
+967,Emp967,LN967,22,Male,Married,Human Resources,Recruiter,19003,PhD,2010-11-30,Leave of Absence,19.0,Travel_Frequently,Yes
+968,Emp968,LN968,36,Female,Single,It,Network Engineer,11394,Associate's,2021-07-18,Leave of Absence,119.0,Non-Travel,Yes
+969,Emp969,LN969,50,Male,Single,Finance,Finance Manager,6225,High School,2020-10-20,Terminated,139.0,Non-Travel,Yes
+970,Emp970,LN970,40,Male,Married,Marketing,Marketing Analyst,17450,Master's,2009-11-08,Terminated,35.0,Travel_Rarely,No
+971,Emp971,LN971,29,Male,Married,It,Systems Admin,8817,Master's,2022-04-27,Leave of Absence,36.0,Non-Travel,Yes
+972,Emp972,LN972,32,Male,Divorced,Engineering,DevOps Engineer,11239,High School,2013-06-29,Leave of Absence,2.0,Non-Travel,Yes
+973,Emp973,LN973,43,Male,Divorced,Finance,Accountant,10206,High School,2010-02-21,Leave of Absence,58.0,Travel_Frequently,No
+974,Emp974,LN974,51,Female,Married,Human Resources,Recruiter,3568,Associate's,2005-04-26,Terminated,8.0,Non-Travel,No
+975,Emp975,LN975,57,Female,Married,Human Resources,Recruiter,13555,Associate's,2017-01-17,Leave of Absence,62.0,Travel_Frequently,Yes
+976,Emp976,LN976,38,Male,Single,Customer Success,Support Associate,18548,Associate's,2005-04-10,Terminated,21.0,Travel_Frequently,No
+977,Emp977,LN977,38,Male,Single,Customer Success,Support Associate,13665,High School,2009-01-09,Leave of Absence,126.0,Non-Travel,Yes
+978,Emp978,LN978,60,Male,Married,Operations,Logistics Coordinator,13139,Associate's,2005-12-19,Leave of Absence,115.0,Travel_Rarely,No
+979,Emp979,LN979,30,Male,Married,Human Resources,HR Manager,13637,High School,2020-09-20,Leave of Absence,38.0,Travel_Rarely,No
+980,Emp980,LN980,30,Male,Married,Marketing,Brand Manager,8905,Bachelor's,2009-01-21,Leave of Absence,7.0,Non-Travel,Yes
+981,Emp981,LN981,30,Female,Divorced,R&D,Principal Researcher,16484,High School,2011-06-12,Terminated,6.0,Non-Travel,No
+982,Emp982,LN982,49,Male,Divorced,It,Systems Admin,11867,Associate's,2022-02-26,Terminated,28.0,Non-Travel,Yes
+983,Emp983,LN983,45,Male,Married,R&D,Principal Researcher,10226,Associate's,2008-02-24,Active,77.0,Travel_Rarely,No
+984,Emp984,LN984,58,Nonbinary,Married,Sales,Sales Representative,6933,PhD,2014-08-17,Active,106.0,Travel_Frequently,No
+985,Emp985,LN985,56,Male,Single,Finance,Accountant,9379,Master's,2013-11-27,Leave of Absence,39.0,Travel_Rarely,Yes
+986,Emp986,LN986,45,Nonbinary,Married,Engineering,Data Engineer,5508,PhD,2017-05-26,Terminated,5.0,Travel_Rarely,Yes
+987,Emp987,LN987,47,Female,Divorced,Customer Success,Customer Success Manager,6281,PhD,2006-05-14,Leave of Absence,95.0,Travel_Frequently,No
+988,Emp988,LN988,32,Male,Divorced,It,Systems Admin,4284,Bachelor's,2009-06-03,Leave of Absence,106.0,Travel_Frequently,No
+989,Emp989,LN989,40,Nonbinary,Single,Customer Success,Support Associate,16413,PhD,2014-07-07,Terminated,23.0,Non-Travel,No
+990,Emp990,LN990,52,Nonbinary,Single,Human Resources,Recruiter,14632,Master's,2007-07-28,Active,5.0,Travel_Rarely,No
+991,Emp991,LN991,49,Nonbinary,Married,Engineering,Data Engineer,5782,Master's,2021-07-22,Leave of Absence,45.0,Non-Travel,No
+992,Emp992,LN992,32,Female,Married,Customer Success,Support Associate,14024,High School,2022-10-11,Active,81.0,Non-Travel,Yes
+993,Emp993,LN993,44,Male,Divorced,It,IT Support,19605,Master's,2021-12-27,Terminated,62.0,Non-Travel,No
+994,Emp994,LN994,46,Male,Single,Customer Success,Customer Success Manager,10514,High School,2020-06-07,Leave of Absence,44.0,Travel_Frequently,Yes
+995,Emp995,LN995,23,Female,Divorced,Finance,Finance Manager,17739,High School,2012-12-31,Terminated,23.0,Travel_Rarely,Yes
+996,Emp996,LN996,30,Nonbinary,Single,R&D,Lab Technician,5542,High School,2013-09-18,Terminated,116.0,Travel_Rarely,No
+997,Emp997,LN997,36,Nonbinary,Single,R&D,Research Scientist,9992,Master's,2010-07-21,Terminated,133.0,Travel_Frequently,No
+998,Emp998,LN998,20,Male,Married,It,Network Engineer,5018,High School,2016-03-16,Leave of Absence,143.0,Travel_Frequently,Yes
+999,Emp999,LN999,44,Male,Single,Marketing,Brand Manager,13510,PhD,2012-07-16,Leave of Absence,69.0,Travel_Rarely,Yes
+1000,Emp1000,LN1000,34,Female,Single,Engineering,Software Engineer,19029,PhD,2017-03-14,Active,142.0,Travel_Frequently,Yes
+1001,Emp1001,LN1001,26,Female,Single,Human Resources,HR Specialist,18042,Master's,2014-05-26,Leave of Absence,65.0,Travel_Rarely,Yes
+1002,Emp1002,LN1002,36,Nonbinary,Single,R&D,Research Scientist,6031,High School,2018-02-02,Leave of Absence,132.0,Non-Travel,Yes
+1003,Emp1003,LN1003,21,Nonbinary,Married,Human Resources,HR Manager,7166,Master's,2006-02-08,Leave of Absence,132.0,Travel_Rarely,Yes
+1004,Emp1004,LN1004,21,Nonbinary,Married,Sales,Sales Representative,4561,Bachelor's,2012-12-23,Leave of Absence,27.0,Travel_Rarely,Yes
+1005,Emp1005,LN1005,39,Male,Single,Marketing,Marketing Analyst,12484,Associate's,2005-11-28,Active,89.0,Travel_Rarely,Yes
+1006,Emp1006,LN1006,32,Nonbinary,Single,Finance,Financial Analyst,3713,PhD,2017-03-21,Active,131.0,Non-Travel,Yes
+1007,Emp1007,LN1007,59,Nonbinary,Divorced,R&D,Principal Researcher,17612,High School,2015-03-16,Active,15.0,Travel_Rarely,No
+1008,Emp1008,LN1008,28,Male,Single,Human Resources,HR Specialist,5529,High School,2005-05-26,Leave of Absence,21.0,Non-Travel,Yes
+1009,Emp1009,LN1009,40,Female,Single,Human Resources,Recruiter,10554,Bachelor's,2010-08-19,Terminated,75.0,Non-Travel,Yes
+1010,Emp1010,LN1010,46,Male,Divorced,Human Resources,HR Specialist,17466,High School,2013-06-10,Terminated,119.0,Travel_Rarely,Yes
+1011,Emp1011,LN1011,43,Female,Single,Human Resources,Recruiter,6527,Associate's,2019-05-13,Active,135.0,Travel_Rarely,No
+1012,Emp1012,LN1012,24,Nonbinary,Married,Human Resources,HR Specialist,16489,Bachelor's,2012-06-19,Active,89.0,Travel_Frequently,No
+1013,Emp1013,LN1013,55,Male,Divorced,Engineering,Data Engineer,3465,PhD,2021-06-19,Active,41.0,Travel_Rarely,No
+1014,Emp1014,LN1014,30,Female,Single,It,Network Engineer,12127,High School,2009-09-17,Active,21.0,Travel_Rarely,No
+1015,Emp1015,LN1015,48,Female,Single,Engineering,DevOps Engineer,19777,Bachelor's,2018-05-17,Active,105.0,Travel_Frequently,Yes
+1016,Emp1016,LN1016,55,Male,Divorced,Sales,Sales Representative,16045,Bachelor's,2022-01-09,Active,113.0,Travel_Frequently,No
+1017,Emp1017,LN1017,50,Male,Single,Human Resources,Recruiter,13695,High School,2011-02-20,Active,143.0,Travel_Frequently,No
+1018,Emp1018,LN1018,45,Female,Divorced,Finance,Accountant,8181,Bachelor's,2008-10-22,Active,79.0,Travel_Frequently,Yes
+1019,Emp1019,LN1019,29,Nonbinary,Married,Operations,Operations Analyst,13539,High School,2021-04-10,Active,112.0,Non-Travel,Yes
+1020,Emp1020,LN1020,50,Nonbinary,Divorced,Operations,Logistics Coordinator,13409,High School,2016-05-29,Terminated,43.0,Travel_Frequently,Yes
+1021,Emp1021,LN1021,41,Nonbinary,Married,Operations,Logistics Coordinator,16859,High School,2013-04-07,Active,126.0,Non-Travel,No
+1022,Emp1022,LN1022,25,Nonbinary,Single,Customer Success,Customer Success Manager,12578,Bachelor's,2010-04-30,Terminated,82.0,Travel_Rarely,No
+1023,Emp1023,LN1023,48,Female,Married,Operations,Operations Analyst,6981,PhD,2013-04-17,Terminated,33.0,Travel_Rarely,Yes
+1024,Emp1024,LN1024,59,Nonbinary,Divorced,Engineering,Software Engineer,13288,PhD,2006-09-14,Terminated,7.0,Travel_Frequently,No
+1025,Emp1025,LN1025,37,Female,Divorced,Operations,Logistics Coordinator,12937,Master's,2015-12-17,Active,22.0,Travel_Frequently,No
+1026,Emp1026,LN1026,37,Nonbinary,Divorced,Operations,Operations Analyst,3955,High School,2017-01-07,Leave of Absence,103.0,Non-Travel,Yes
+1027,Emp1027,LN1027,42,Female,Married,Customer Success,Customer Success Manager,15549,High School,2017-04-11,Leave of Absence,35.0,Non-Travel,Yes
+1028,Emp1028,LN1028,60,Nonbinary,Single,Marketing,Marketing Analyst,19388,Master's,2009-08-28,Terminated,38.0,Travel_Frequently,Yes
+1029,Emp1029,LN1029,54,Male,Single,Human Resources,HR Specialist,4065,Bachelor's,2009-03-24,Leave of Absence,59.0,Non-Travel,Yes
+1030,Emp1030,LN1030,29,Female,Single,Sales,Account Manager,9117,Associate's,2005-04-14,Terminated,17.0,Travel_Frequently,No
+1031,Emp1031,LN1031,54,Female,Divorced,Customer Success,Customer Success Manager,4281,PhD,2011-01-07,Active,62.0,Travel_Frequently,Yes
+1032,Emp1032,LN1032,23,Nonbinary,Single,Human Resources,HR Manager,15063,PhD,2015-05-12,Active,141.0,Travel_Frequently,No
+1033,Emp1033,LN1033,57,Female,Single,Human Resources,HR Specialist,5405,Associate's,2011-03-03,Active,22.0,Non-Travel,No
+1034,Emp1034,LN1034,27,Female,Married,Finance,Accountant,3602,Bachelor's,2019-09-29,Leave of Absence,68.0,Non-Travel,No
+1035,Emp1035,LN1035,50,Female,Married,Engineering,Data Engineer,13509,PhD,2015-11-23,Active,123.0,Travel_Rarely,Yes
+1036,Emp1036,LN1036,31,Nonbinary,Married,Sales,Sales Representative,11608,High School,2016-12-22,Active,67.0,Travel_Frequently,No
+1037,Emp1037,LN1037,28,Female,Single,Finance,Accountant,7720,PhD,2010-05-06,Terminated,15.0,Non-Travel,No
+1038,Emp1038,LN1038,44,Nonbinary,Married,Marketing,Brand Manager,9952,Master's,2011-12-27,Active,96.0,Travel_Rarely,Yes
+1039,Emp1039,LN1039,33,Nonbinary,Divorced,Finance,Finance Manager,17170,High School,2005-06-26,Terminated,86.0,Non-Travel,Yes
+1040,Emp1040,LN1040,58,Male,Divorced,Engineering,Software Engineer,7879,PhD,2008-08-09,Active,44.0,Travel_Frequently,Yes
+1041,Emp1041,LN1041,38,Female,Single,Marketing,SEO Specialist,7398,Associate's,2006-08-11,Leave of Absence,95.0,Travel_Rarely,Yes
+1042,Emp1042,LN1042,44,Nonbinary,Single,R&D,Principal Researcher,11708,High School,2005-08-26,Leave of Absence,87.0,Travel_Frequently,Yes
+1043,Emp1043,LN1043,30,Male,Married,Human Resources,Recruiter,6083,Bachelor's,2016-08-02,Active,117.0,Non-Travel,No
+1044,Emp1044,LN1044,25,Nonbinary,Divorced,Finance,Accountant,13349,Associate's,2020-03-20,Terminated,13.0,Travel_Rarely,No
+1045,Emp1045,LN1045,28,Male,Divorced,R&D,Principal Researcher,4178,PhD,2005-11-01,Terminated,101.0,Non-Travel,Yes
+1046,Emp1046,LN1046,44,Male,Divorced,R&D,Research Scientist,15024,PhD,2009-06-05,Terminated,9.0,Travel_Rarely,No
+1047,Emp1047,LN1047,50,Female,Divorced,Sales,Sales Representative,4716,Bachelor's,2009-11-10,Terminated,50.0,Travel_Rarely,Yes
+1048,Emp1048,LN1048,32,Male,Single,Marketing,Marketing Analyst,4242,PhD,2008-08-04,Active,90.0,Travel_Rarely,Yes
+1049,Emp1049,LN1049,46,Male,Divorced,Marketing,SEO Specialist,12584,Associate's,2011-07-31,Terminated,31.0,Non-Travel,Yes
+1050,Emp1050,LN1050,50,Nonbinary,Single,It,IT Support,18082,Bachelor's,2008-02-07,Active,77.0,Travel_Frequently,Yes
+1051,Emp1051,LN1051,46,Female,Married,Sales,Sales Representative,11122,Bachelor's,2010-04-01,Terminated,111.0,Non-Travel,No
+1052,Emp1052,LN1052,24,Male,Single,Finance,Finance Manager,9445,High School,2012-12-18,Leave of Absence,26.0,Travel_Frequently,No
+1053,Emp1053,LN1053,44,Male,Single,Engineering,Data Engineer,16188,Bachelor's,2007-07-28,Terminated,129.0,Non-Travel,Yes
+1054,Emp1054,LN1054,35,Female,Married,Marketing,Brand Manager,11636,Associate's,2019-05-03,Leave of Absence,85.0,Travel_Rarely,Yes
+1055,Emp1055,LN1055,36,Nonbinary,Married,Customer Success,Customer Success Manager,11754,High School,2020-02-25,Terminated,36.0,Travel_Rarely,Yes
+1056,Emp1056,LN1056,29,Female,Divorced,Operations,Operations Analyst,12750,High School,2013-08-26,Terminated,89.0,Travel_Frequently,No
+1057,Emp1057,LN1057,56,Nonbinary,Single,Operations,Logistics Coordinator,3800,Master's,2018-06-19,Active,10.0,Non-Travel,Yes
+1058,Emp1058,LN1058,25,Male,Divorced,Human Resources,Recruiter,12090,Master's,2022-07-14,Active,3.0,Travel_Rarely,Yes
+1059,Emp1059,LN1059,29,Nonbinary,Married,Finance,Financial Analyst,9839,Master's,2008-01-21,Active,93.0,Non-Travel,Yes
+1060,Emp1060,LN1060,53,Nonbinary,Married,Marketing,SEO Specialist,4139,PhD,2005-08-18,Active,109.0,Non-Travel,Yes
+1061,Emp1061,LN1061,29,Male,Married,Engineering,DevOps Engineer,17368,High School,2006-09-29,Leave of Absence,4.0,Travel_Frequently,No
+1062,Emp1062,LN1062,57,Nonbinary,Divorced,Sales,Account Manager,8521,Associate's,2016-07-14,Active,62.0,Non-Travel,Yes
+1063,Emp1063,LN1063,35,Nonbinary,Divorced,Human Resources,HR Manager,10004,Associate's,2018-11-24,Terminated,120.0,Travel_Frequently,No
+1064,Emp1064,LN1064,34,Female,Married,Customer Success,Customer Success Manager,9108,Master's,2011-09-18,Terminated,121.0,Travel_Rarely,No
+1065,Emp1065,LN1065,28,Female,Married,Finance,Finance Manager,9677,Master's,2022-07-03,Leave of Absence,114.0,Non-Travel,No
+1066,Emp1066,LN1066,50,Nonbinary,Divorced,Operations,Logistics Coordinator,8882,Master's,2011-04-25,Terminated,128.0,Non-Travel,No
+1067,Emp1067,LN1067,26,Nonbinary,Married,It,Network Engineer,13791,Master's,2020-06-26,Leave of Absence,9.0,Non-Travel,Yes
+1068,Emp1068,LN1068,51,Male,Divorced,Marketing,Marketing Analyst,19962,High School,2006-07-30,Terminated,139.0,Travel_Frequently,No
+1069,Emp1069,LN1069,46,Male,Divorced,Customer Success,Customer Success Manager,14451,Bachelor's,2011-02-28,Terminated,89.0,Travel_Frequently,Yes
+1070,Emp1070,LN1070,47,Male,Single,Human Resources,HR Manager,12022,Master's,2010-06-01,Terminated,5.0,Non-Travel,No
+1071,Emp1071,LN1071,54,Female,Married,Finance,Accountant,3023,High School,2015-03-22,Terminated,9.0,Non-Travel,No
+1072,Emp1072,LN1072,31,Nonbinary,Married,Operations,Operations Analyst,11230,High School,2015-09-28,Active,135.0,Travel_Rarely,Yes
+1073,Emp1073,LN1073,29,Male,Married,Sales,Sales Representative,18100,High School,2011-07-22,Terminated,136.0,Non-Travel,No
+1074,Emp1074,LN1074,27,Female,Divorced,Marketing,Marketing Analyst,10401,Associate's,2015-09-01,Active,83.0,Travel_Rarely,No
+1075,Emp1075,LN1075,55,Male,Married,Finance,Financial Analyst,9453,High School,2014-12-16,Leave of Absence,54.0,Non-Travel,Yes
+1076,Emp1076,LN1076,24,Nonbinary,Married,Sales,Sales Representative,12801,High School,2008-06-01,Terminated,80.0,Non-Travel,No
+1077,Emp1077,LN1077,50,Female,Single,It,Network Engineer,9548,Master's,2007-10-04,Leave of Absence,35.0,Non-Travel,No
+1078,Emp1078,LN1078,28,Male,Married,It,IT Support,5278,Bachelor's,2008-02-04,Terminated,95.0,Travel_Frequently,No
+1079,Emp1079,LN1079,54,Female,Single,Finance,Financial Analyst,8633,High School,2016-04-08,Terminated,38.0,Travel_Frequently,No
+1080,Emp1080,LN1080,56,Male,Single,Marketing,SEO Specialist,3436,Master's,2010-06-04,Terminated,14.0,Travel_Frequently,Yes
+1081,Emp1081,LN1081,48,Nonbinary,Married,Customer Success,Support Associate,9806,PhD,2018-05-16,Leave of Absence,41.0,Non-Travel,No
+1082,Emp1082,LN1082,45,Male,Divorced,Operations,Operations Analyst,5182,Bachelor's,2019-03-09,Active,3.0,Travel_Rarely,Yes
+1083,Emp1083,LN1083,60,Female,Divorced,Human Resources,HR Manager,11674,Master's,2021-01-22,Leave of Absence,22.0,Travel_Rarely,No
+1084,Emp1084,LN1084,33,Male,Divorced,Engineering,Data Engineer,15705,Associate's,2017-06-20,Leave of Absence,21.0,Travel_Frequently,Yes
+1085,Emp1085,LN1085,39,Male,Single,R&D,Research Scientist,11626,Master's,2012-08-08,Terminated,53.0,Non-Travel,No
+1086,Emp1086,LN1086,43,Nonbinary,Married,Finance,Finance Manager,9097,Master's,2005-06-12,Terminated,115.0,Travel_Frequently,Yes
+1087,Emp1087,LN1087,20,Male,Married,Operations,Operations Analyst,3869,Master's,2006-10-01,Leave of Absence,116.0,Travel_Frequently,Yes
+1088,Emp1088,LN1088,59,Nonbinary,Divorced,R&D,Principal Researcher,5983,Associate's,2006-10-18,Leave of Absence,40.0,Travel_Frequently,No
+1089,Emp1089,LN1089,23,Female,Married,It,Network Engineer,13240,PhD,2009-08-17,Leave of Absence,121.0,Travel_Rarely,Yes
+1090,Emp1090,LN1090,33,Male,Divorced,Human Resources,Recruiter,9364,Bachelor's,2019-11-28,Active,23.0,Non-Travel,No
+1091,Emp1091,LN1091,24,Female,Married,Operations,Operations Analyst,6753,High School,2006-03-16,Terminated,27.0,Non-Travel,No
+1092,Emp1092,LN1092,28,Female,Divorced,Sales,Sales Executive,14272,PhD,2018-08-13,Terminated,115.0,Travel_Rarely,Yes
+1093,Emp1093,LN1093,36,Male,Married,Finance,Financial Analyst,5859,Associate's,2016-08-10,Terminated,20.0,Travel_Frequently,Yes
+1094,Emp1094,LN1094,60,Male,Married,Customer Success,Support Associate,14332,Associate's,2008-11-23,Terminated,34.0,Travel_Rarely,Yes
+1095,Emp1095,LN1095,59,Male,Married,Marketing,Brand Manager,16683,Master's,2021-10-19,Leave of Absence,97.0,Non-Travel,Yes
+1096,Emp1096,LN1096,57,Male,Divorced,It,Systems Admin,10476,High School,2006-09-21,Leave of Absence,91.0,Travel_Frequently,No
+1097,Emp1097,LN1097,20,Nonbinary,Single,Engineering,Software Engineer,6599,Associate's,2014-04-19,Leave of Absence,115.0,Travel_Rarely,No
+1098,Emp1098,LN1098,56,Male,Divorced,Sales,Sales Representative,19773,Associate's,2019-02-21,Active,69.0,Travel_Frequently,No
+1099,Emp1099,LN1099,41,Male,Married,Finance,Accountant,15841,PhD,2013-09-16,Leave of Absence,105.0,Non-Travel,No
+1100,Emp1100,LN1100,43,Female,Divorced,Operations,Operations Analyst,15269,High School,2007-11-08,Terminated,81.0,Travel_Rarely,Yes
+1101,Emp1101,LN1101,30,Female,Divorced,Operations,Logistics Coordinator,17514,Master's,2011-12-21,Active,110.0,Travel_Frequently,Yes
+1102,Emp1102,LN1102,58,Male,Divorced,Sales,Sales Representative,5778,Master's,2009-12-31,Leave of Absence,124.0,Travel_Frequently,No
+1103,Emp1103,LN1103,25,Female,Divorced,R&D,Research Scientist,17236,PhD,2012-11-16,Leave of Absence,47.0,Non-Travel,Yes
+1104,Emp1104,LN1104,44,Male,Divorced,Sales,Sales Representative,7398,Associate's,2013-12-17,Leave of Absence,51.0,Non-Travel,No
+1105,Emp1105,LN1105,46,Nonbinary,Married,Customer Success,Customer Success Manager,8796,Bachelor's,2012-06-05,Terminated,14.0,Non-Travel,Yes
+1106,Emp1106,LN1106,50,Nonbinary,Married,Engineering,DevOps Engineer,14657,High School,2005-04-01,Terminated,132.0,Travel_Rarely,Yes
+1107,Emp1107,LN1107,42,Nonbinary,Divorced,Sales,Sales Representative,4907,Master's,2009-09-22,Leave of Absence,46.0,Travel_Rarely,No
+1108,Emp1108,LN1108,51,Male,Divorced,It,Systems Admin,5593,PhD,2008-12-31,Terminated,96.0,Travel_Frequently,No
+1109,Emp1109,LN1109,51,Male,Divorced,Human Resources,Recruiter,10169,PhD,2005-11-05,Leave of Absence,62.0,Travel_Frequently,Yes
+1110,Emp1110,LN1110,35,Male,Single,Sales,Sales Executive,7252,Associate's,2012-11-15,Active,6.0,Non-Travel,Yes
+1111,Emp1111,LN1111,44,Female,Single,It,Network Engineer,18607,Bachelor's,2012-11-18,Active,33.0,Non-Travel,No
+1112,Emp1112,LN1112,21,Nonbinary,Divorced,R&D,Lab Technician,13003,High School,2005-06-11,Active,28.0,Travel_Rarely,Yes
+1113,Emp1113,LN1113,47,Male,Married,Sales,Sales Representative,6769,PhD,2021-05-04,Leave of Absence,82.0,Travel_Rarely,No
+1114,Emp1114,LN1114,39,Nonbinary,Married,R&D,Research Scientist,17514,Associate's,2011-09-29,Active,145.0,Non-Travel,Yes
+1115,Emp1115,LN1115,50,Nonbinary,Divorced,Finance,Financial Analyst,15768,Bachelor's,2006-05-05,Leave of Absence,94.0,Travel_Rarely,Yes
+1116,Emp1116,LN1116,24,Nonbinary,Divorced,Sales,Sales Representative,7645,Associate's,2014-11-20,Leave of Absence,63.0,Travel_Rarely,Yes
+1117,Emp1117,LN1117,24,Male,Divorced,Engineering,DevOps Engineer,16328,Bachelor's,2007-03-30,Active,96.0,Travel_Frequently,Yes
+1118,Emp1118,LN1118,22,Female,Married,R&D,Research Scientist,13392,Bachelor's,2007-03-29,Terminated,18.0,Non-Travel,No
+1119,Emp1119,LN1119,34,Male,Single,Operations,Logistics Coordinator,11403,Associate's,2013-01-20,Active,116.0,Travel_Rarely,Yes
+1120,Emp1120,LN1120,21,Male,Divorced,Marketing,Brand Manager,13705,PhD,2005-02-13,Active,16.0,Non-Travel,No
+1121,Emp1121,LN1121,53,Male,Divorced,Operations,Operations Analyst,18816,Bachelor's,2016-12-16,Leave of Absence,84.0,Non-Travel,Yes
+1122,Emp1122,LN1122,22,Male,Married,Customer Success,Support Associate,6492,Associate's,2010-12-24,Active,128.0,Travel_Rarely,Yes
+1123,Emp1123,LN1123,44,Female,Divorced,Human Resources,Recruiter,3297,PhD,2015-07-19,Terminated,25.0,Travel_Frequently,Yes
+1124,Emp1124,LN1124,23,Female,Single,It,Systems Admin,3193,Bachelor's,2011-04-24,Terminated,33.0,Non-Travel,Yes
+1125,Emp1125,LN1125,60,Male,Married,Operations,Operations Analyst,7503,Master's,2010-11-17,Leave of Absence,100.0,Non-Travel,No
+1126,Emp1126,LN1126,47,Nonbinary,Single,Engineering,Software Engineer,18568,High School,2022-09-02,Leave of Absence,44.0,Travel_Rarely,No
+1127,Emp1127,LN1127,49,Male,Single,Sales,Sales Executive,3593,Associate's,2011-10-21,Leave of Absence,52.0,Non-Travel,No
+1128,Emp1128,LN1128,33,Nonbinary,Divorced,Customer Success,Customer Success Manager,3989,Bachelor's,2014-08-19,Leave of Absence,28.0,Travel_Rarely,Yes
+1129,Emp1129,LN1129,46,Female,Single,Engineering,Software Engineer,15769,Master's,2022-04-02,Active,67.0,Travel_Rarely,Yes
+1130,Emp1130,LN1130,20,Female,Single,Customer Success,Support Associate,10466,Bachelor's,2009-12-14,Leave of Absence,20.0,Travel_Rarely,No
+1131,Emp1131,LN1131,56,Male,Single,Human Resources,HR Manager,4745,Associate's,2018-03-01,Active,46.0,Non-Travel,No
+1132,Emp1132,LN1132,52,Nonbinary,Divorced,Engineering,Data Engineer,3559,Master's,2006-06-05,Terminated,17.0,Travel_Rarely,No
+1133,Emp1133,LN1133,55,Nonbinary,Married,Engineering,Data Engineer,11218,PhD,2017-12-02,Terminated,55.0,Travel_Frequently,Yes
+1134,Emp1134,LN1134,48,Nonbinary,Single,Engineering,Data Engineer,15921,Bachelor's,2007-03-24,Terminated,55.0,Travel_Frequently,Yes
+1135,Emp1135,LN1135,33,Female,Divorced,Customer Success,Customer Success Manager,11773,Bachelor's,2018-05-16,Terminated,54.0,Non-Travel,No
+1136,Emp1136,LN1136,45,Male,Divorced,It,Network Engineer,13516,PhD,2017-01-02,Terminated,102.0,Travel_Rarely,Yes
+1137,Emp1137,LN1137,41,Female,Single,Engineering,DevOps Engineer,3322,High School,2008-08-23,Terminated,70.0,Non-Travel,Yes
+1138,Emp1138,LN1138,26,Male,Divorced,Human Resources,Recruiter,7713,Master's,2007-01-27,Terminated,86.0,Travel_Rarely,No
+1139,Emp1139,LN1139,35,Female,Married,Human Resources,HR Specialist,9610,Bachelor's,2010-06-26,Leave of Absence,15.0,Travel_Frequently,Yes
+1140,Emp1140,LN1140,39,Female,Single,Sales,Sales Representative,13652,Bachelor's,2018-07-20,Active,83.0,Travel_Rarely,No
+1141,Emp1141,LN1141,50,Female,Single,Marketing,SEO Specialist,19917,Associate's,2018-04-13,Leave of Absence,117.0,Travel_Rarely,No
+1142,Emp1142,LN1142,58,Nonbinary,Married,Human Resources,HR Specialist,4466,Bachelor's,2014-09-28,Active,77.0,Travel_Frequently,No
+1143,Emp1143,LN1143,36,Nonbinary,Divorced,Engineering,Software Engineer,7087,Associate's,2016-08-07,Leave of Absence,106.0,Travel_Frequently,No
+1144,Emp1144,LN1144,37,Nonbinary,Married,Marketing,Marketing Analyst,16827,PhD,2012-12-20,Leave of Absence,84.0,Travel_Rarely,No
+1145,Emp1145,LN1145,60,Male,Single,R&D,Lab Technician,9017,Bachelor's,2017-03-09,Leave of Absence,136.0,Travel_Frequently,No
+1146,Emp1146,LN1146,54,Female,Married,Customer Success,Support Associate,15987,Bachelor's,2014-10-12,Active,109.0,Travel_Rarely,Yes
+1147,Emp1147,LN1147,56,Male,Married,Marketing,SEO Specialist,16732,Associate's,2022-02-11,Leave of Absence,141.0,Non-Travel,No
+1148,Emp1148,LN1148,33,Female,Single,Operations,Operations Analyst,11592,PhD,2016-12-12,Terminated,42.0,Travel_Rarely,No
+1149,Emp1149,LN1149,20,Male,Divorced,Sales,Sales Representative,11838,Bachelor's,2010-11-21,Active,67.0,Travel_Rarely,No
+1150,Emp1150,LN1150,48,Female,Married,Operations,Logistics Coordinator,6203,Associate's,2017-11-21,Leave of Absence,24.0,Travel_Rarely,No
+1151,Emp1151,LN1151,48,Female,Married,Engineering,Software Engineer,6994,Bachelor's,2017-01-11,Leave of Absence,10.0,Non-Travel,No
+1152,Emp1152,LN1152,57,Nonbinary,Divorced,Human Resources,HR Manager,13941,Associate's,2007-11-11,Active,106.0,Travel_Frequently,No
+1153,Emp1153,LN1153,57,Female,Married,Operations,Operations Analyst,5628,High School,2011-05-13,Leave of Absence,45.0,Travel_Rarely,No
+1154,Emp1154,LN1154,43,Nonbinary,Single,Human Resources,Recruiter,8938,High School,2006-07-12,Terminated,7.0,Travel_Frequently,Yes
+1155,Emp1155,LN1155,46,Nonbinary,Married,Engineering,Data Engineer,12390,Associate's,2021-11-20,Terminated,55.0,Non-Travel,No
+1156,Emp1156,LN1156,39,Male,Divorced,Sales,Account Manager,18887,PhD,2010-06-15,Active,136.0,Travel_Rarely,Yes
+1157,Emp1157,LN1157,34,Female,Married,Finance,Financial Analyst,10686,Bachelor's,2011-08-14,Active,34.0,Non-Travel,Yes
+1158,Emp1158,LN1158,55,Nonbinary,Single,Engineering,Data Engineer,13797,High School,2016-07-23,Leave of Absence,81.0,Travel_Rarely,Yes
+1159,Emp1159,LN1159,22,Nonbinary,Married,Operations,Logistics Coordinator,11915,High School,2020-03-21,Terminated,127.0,Travel_Frequently,Yes
+1160,Emp1160,LN1160,33,Male,Single,It,IT Support,4613,Bachelor's,2019-08-06,Leave of Absence,74.0,Non-Travel,No
+1161,Emp1161,LN1161,40,Female,Married,Operations,Operations Analyst,5079,PhD,2017-08-03,Active,103.0,Travel_Frequently,No
+1162,Emp1162,LN1162,38,Nonbinary,Single,Customer Success,Customer Success Manager,6972,High School,2015-12-25,Terminated,128.0,Travel_Frequently,Yes
+1163,Emp1163,LN1163,29,Nonbinary,Single,Marketing,Marketing Analyst,6592,High School,2020-11-25,Terminated,132.0,Non-Travel,No
+1164,Emp1164,LN1164,29,Female,Divorced,Customer Success,Customer Success Manager,5164,High School,2022-06-05,Active,90.0,Non-Travel,Yes
+1165,Emp1165,LN1165,52,Female,Divorced,Engineering,Data Engineer,10363,Bachelor's,2014-05-05,Active,59.0,Non-Travel,No
+1166,Emp1166,LN1166,28,Nonbinary,Divorced,R&D,Lab Technician,9536,Master's,2011-02-03,Active,15.0,Travel_Frequently,Yes
+1167,Emp1167,LN1167,58,Female,Divorced,R&D,Principal Researcher,13063,PhD,2012-11-28,Active,1.0,Non-Travel,Yes
+1168,Emp1168,LN1168,32,Female,Single,Finance,Finance Manager,8857,PhD,2010-12-22,Leave of Absence,18.0,Non-Travel,Yes
+1169,Emp1169,LN1169,38,Female,Divorced,Finance,Accountant,7585,Bachelor's,2020-11-22,Leave of Absence,131.0,Non-Travel,No
+1170,Emp1170,LN1170,31,Nonbinary,Single,Operations,Operations Analyst,3631,High School,2019-12-20,Leave of Absence,3.0,Travel_Frequently,No
+1171,Emp1171,LN1171,23,Male,Married,Human Resources,Recruiter,9372,Associate's,2016-10-24,Leave of Absence,143.0,Travel_Rarely,Yes
+1172,Emp1172,LN1172,34,Male,Married,Engineering,Software Engineer,4753,Master's,2011-11-26,Active,97.0,Travel_Rarely,No
+1173,Emp1173,LN1173,21,Nonbinary,Divorced,Marketing,Marketing Analyst,14659,Master's,2018-06-08,Active,46.0,Travel_Rarely,Yes
+1174,Emp1174,LN1174,39,Nonbinary,Single,Finance,Finance Manager,18644,Bachelor's,2013-01-18,Active,102.0,Non-Travel,No
+1175,Emp1175,LN1175,53,Nonbinary,Married,Marketing,Brand Manager,14608,Bachelor's,2009-04-16,Terminated,66.0,Travel_Rarely,No
+1176,Emp1176,LN1176,28,Female,Divorced,Finance,Finance Manager,9924,PhD,2014-01-14,Terminated,63.0,Non-Travel,Yes
+1177,Emp1177,LN1177,41,Female,Single,Engineering,DevOps Engineer,10908,Associate's,2015-04-16,Terminated,42.0,Travel_Frequently,Yes
+1178,Emp1178,LN1178,41,Female,Single,Marketing,SEO Specialist,16971,PhD,2005-05-31,Terminated,1.0,Travel_Frequently,Yes
+1179,Emp1179,LN1179,33,Male,Single,Finance,Financial Analyst,11608,High School,2014-05-31,Active,104.0,Travel_Rarely,No
+1180,Emp1180,LN1180,47,Female,Married,Marketing,Marketing Analyst,11559,High School,2021-10-06,Terminated,88.0,Travel_Frequently,No
+1181,Emp1181,LN1181,31,Male,Single,Marketing,SEO Specialist,9050,Associate's,2012-10-06,Active,40.0,Travel_Rarely,No
+1182,Emp1182,LN1182,42,Nonbinary,Married,Engineering,DevOps Engineer,19537,Bachelor's,2022-04-04,Leave of Absence,67.0,Travel_Frequently,Yes
+1183,Emp1183,LN1183,54,Male,Married,Finance,Finance Manager,19124,Bachelor's,2022-11-26,Leave of Absence,147.0,Travel_Frequently,No
+1184,Emp1184,LN1184,48,Nonbinary,Married,Human Resources,HR Manager,18744,High School,2022-10-28,Terminated,136.0,Travel_Rarely,No
+1185,Emp1185,LN1185,41,Male,Married,Engineering,Data Engineer,13634,Bachelor's,2010-04-14,Leave of Absence,135.0,Non-Travel,Yes
+1186,Emp1186,LN1186,49,Male,Divorced,Operations,Operations Analyst,4928,High School,2006-11-21,Terminated,45.0,Non-Travel,Yes
+1187,Emp1187,LN1187,26,Female,Married,R&D,Lab Technician,6874,Associate's,2011-01-30,Terminated,52.0,Non-Travel,No
+1188,Emp1188,LN1188,46,Male,Married,Operations,Logistics Coordinator,6387,Master's,2008-04-03,Terminated,115.0,Travel_Frequently,No
+1189,Emp1189,LN1189,55,Male,Married,Finance,Financial Analyst,5413,Associate's,2012-01-25,Active,107.0,Non-Travel,Yes
+1190,Emp1190,LN1190,56,Female,Divorced,Engineering,DevOps Engineer,18566,Bachelor's,2014-06-06,Leave of Absence,45.0,Travel_Rarely,Yes
+1191,Emp1191,LN1191,47,Nonbinary,Divorced,Human Resources,Recruiter,15493,Bachelor's,2014-01-06,Active,103.0,Travel_Frequently,Yes
+1192,Emp1192,LN1192,53,Female,Single,Finance,Financial Analyst,10309,Associate's,2013-08-14,Active,62.0,Travel_Rarely,No
+1193,Emp1193,LN1193,60,Nonbinary,Married,It,Systems Admin,3927,Associate's,2019-10-24,Active,97.0,Travel_Rarely,No
+1194,Emp1194,LN1194,27,Nonbinary,Single,Engineering,Data Engineer,18951,High School,2019-06-25,Terminated,54.0,Travel_Frequently,Yes
+1195,Emp1195,LN1195,58,Female,Divorced,R&D,Lab Technician,13884,Bachelor's,2022-08-03,Active,113.0,Travel_Rarely,Yes
+1196,Emp1196,LN1196,34,Female,Married,It,Network Engineer,17092,PhD,2011-12-08,Terminated,128.0,Non-Travel,Yes
+1197,Emp1197,LN1197,27,Male,Single,R&D,Research Scientist,15139,High School,2007-03-10,Leave of Absence,5.0,Non-Travel,No
+1198,Emp1198,LN1198,49,Nonbinary,Divorced,Operations,Logistics Coordinator,19286,Associate's,2022-06-27,Terminated,40.0,Travel_Frequently,No
+1199,Emp1199,LN1199,36,Nonbinary,Divorced,Operations,Logistics Coordinator,13204,Associate's,2017-06-09,Terminated,31.0,Non-Travel,Yes
+1200,Emp1200,LN1200,41,Nonbinary,Married,Operations,Logistics Coordinator,3324,Associate's,2017-11-18,Leave of Absence,43.0,Travel_Frequently,No
+1201,Emp1201,LN1201,56,Nonbinary,Married,Operations,Operations Analyst,11929,PhD,2021-06-20,Terminated,114.0,Travel_Rarely,No
+1202,Emp1202,LN1202,23,Male,Married,Human Resources,HR Specialist,16460,Associate's,2013-05-11,Leave of Absence,83.0,Travel_Frequently,No
+1203,Emp1203,LN1203,58,Nonbinary,Divorced,Marketing,SEO Specialist,17865,PhD,2007-08-06,Leave of Absence,46.0,Travel_Frequently,Yes
+1204,Emp1204,LN1204,54,Nonbinary,Married,Marketing,SEO Specialist,18276,PhD,2013-11-01,Terminated,117.0,Travel_Frequently,No
+1205,Emp1205,LN1205,28,Female,Married,Sales,Sales Representative,11132,Bachelor's,2009-12-29,Active,19.0,Travel_Rarely,Yes
+1206,Emp1206,LN1206,53,Male,Single,Customer Success,Support Associate,18000,Bachelor's,2005-05-27,Terminated,139.0,Non-Travel,Yes
+1207,Emp1207,LN1207,47,Male,Single,R&D,Lab Technician,14231,PhD,2015-01-07,Leave of Absence,143.0,Travel_Frequently,Yes
+1208,Emp1208,LN1208,53,Male,Divorced,R&D,Lab Technician,16058,Associate's,2012-12-13,Terminated,9.0,Non-Travel,No
+1209,Emp1209,LN1209,42,Nonbinary,Single,R&D,Lab Technician,3721,Associate's,2013-08-12,Leave of Absence,77.0,Travel_Frequently,No
+1210,Emp1210,LN1210,49,Nonbinary,Divorced,Customer Success,Support Associate,18645,High School,2018-04-05,Active,57.0,Travel_Rarely,Yes
+1211,Emp1211,LN1211,39,Male,Married,Marketing,SEO Specialist,14105,Associate's,2019-09-24,Active,20.0,Travel_Rarely,No
+1212,Emp1212,LN1212,53,Nonbinary,Married,R&D,Principal Researcher,12998,Bachelor's,2008-05-23,Terminated,140.0,Non-Travel,No
+1213,Emp1213,LN1213,52,Nonbinary,Married,Engineering,Software Engineer,4622,High School,2009-12-28,Active,77.0,Travel_Rarely,Yes
+1214,Emp1214,LN1214,24,Nonbinary,Married,Sales,Sales Executive,3692,Bachelor's,2013-09-14,Active,41.0,Travel_Rarely,Yes
+1215,Emp1215,LN1215,46,Male,Married,Sales,Account Manager,10131,PhD,2007-06-26,Leave of Absence,52.0,Travel_Rarely,Yes
+1216,Emp1216,LN1216,39,Female,Married,Sales,Sales Representative,13626,PhD,2005-07-09,Terminated,26.0,Non-Travel,Yes
+1217,Emp1217,LN1217,27,Male,Married,Operations,Logistics Coordinator,6236,PhD,2022-05-20,Terminated,24.0,Non-Travel,Yes
+1218,Emp1218,LN1218,40,Female,Married,R&D,Principal Researcher,12396,PhD,2017-03-29,Leave of Absence,123.0,Travel_Frequently,Yes
+1219,Emp1219,LN1219,29,Male,Divorced,R&D,Research Scientist,18207,Associate's,2006-03-16,Terminated,33.0,Travel_Frequently,Yes
+1220,Emp1220,LN1220,44,Nonbinary,Married,Human Resources,HR Manager,6809,Master's,2021-01-31,Terminated,100.0,Travel_Rarely,Yes
+1221,Emp1221,LN1221,40,Nonbinary,Married,Sales,Sales Executive,13450,Master's,2015-11-20,Active,63.0,Travel_Frequently,Yes
+1222,Emp1222,LN1222,23,Male,Married,Finance,Accountant,14700,PhD,2012-12-21,Active,105.0,Travel_Rarely,No
+1223,Emp1223,LN1223,33,Nonbinary,Married,Marketing,Brand Manager,9877,High School,2020-08-19,Active,93.0,Non-Travel,Yes
+1224,Emp1224,LN1224,42,Female,Married,Sales,Account Manager,8727,Master's,2019-11-11,Leave of Absence,58.0,Non-Travel,No
+1225,Emp1225,LN1225,40,Nonbinary,Single,Human Resources,HR Specialist,9775,Master's,2013-12-06,Active,131.0,Travel_Frequently,Yes
+1226,Emp1226,LN1226,48,Nonbinary,Divorced,Customer Success,Customer Success Manager,13796,Bachelor's,2018-06-23,Active,80.0,Travel_Frequently,No
+1227,Emp1227,LN1227,52,Female,Divorced,Operations,Operations Analyst,10690,Bachelor's,2018-10-14,Terminated,41.0,Travel_Frequently,Yes
+1228,Emp1228,LN1228,59,Male,Single,Customer Success,Customer Success Manager,4888,Associate's,2005-10-01,Terminated,103.0,Non-Travel,No
+1229,Emp1229,LN1229,27,Nonbinary,Single,It,Systems Admin,7987,Master's,2008-11-20,Terminated,80.0,Travel_Rarely,No
+1230,Emp1230,LN1230,36,Female,Single,Engineering,DevOps Engineer,10254,High School,2011-02-11,Leave of Absence,49.0,Travel_Frequently,Yes
+1231,Emp1231,LN1231,33,Nonbinary,Single,R&D,Lab Technician,3087,Bachelor's,2021-06-24,Leave of Absence,120.0,Non-Travel,No
+1232,Emp1232,LN1232,35,Male,Single,Customer Success,Support Associate,3577,Bachelor's,2020-04-28,Active,122.0,Travel_Frequently,No
+1233,Emp1233,LN1233,35,Female,Single,R&D,Lab Technician,8420,High School,2012-07-10,Leave of Absence,42.0,Non-Travel,No
+1234,Emp1234,LN1234,49,Nonbinary,Divorced,Operations,Operations Analyst,19454,PhD,2014-10-01,Terminated,73.0,Travel_Rarely,Yes
+1235,Emp1235,LN1235,34,Nonbinary,Married,R&D,Lab Technician,7126,Master's,2007-09-13,Terminated,118.0,Travel_Rarely,Yes
+1236,Emp1236,LN1236,32,Male,Single,Engineering,Data Engineer,5057,PhD,2009-06-27,Leave of Absence,24.0,Non-Travel,Yes
+1237,Emp1237,LN1237,38,Female,Single,Customer Success,Customer Success Manager,13734,High School,2017-01-11,Leave of Absence,60.0,Non-Travel,Yes
+1238,Emp1238,LN1238,59,Nonbinary,Married,Sales,Account Manager,18434,Master's,2017-06-14,Terminated,32.0,Travel_Rarely,No
+1239,Emp1239,LN1239,36,Nonbinary,Married,Operations,Operations Analyst,9150,PhD,2006-03-16,Active,105.0,Travel_Frequently,Yes
+1240,Emp1240,LN1240,35,Female,Married,It,IT Support,7990,PhD,2009-09-08,Leave of Absence,138.0,Non-Travel,Yes
+1241,Emp1241,LN1241,44,Nonbinary,Single,Sales,Sales Executive,3546,Master's,2014-07-12,Terminated,115.0,Travel_Rarely,Yes
+1242,Emp1242,LN1242,25,Male,Divorced,Human Resources,Recruiter,8405,PhD,2008-12-28,Leave of Absence,110.0,Non-Travel,No
+1243,Emp1243,LN1243,53,Male,Single,Human Resources,HR Specialist,9277,Bachelor's,2022-09-17,Leave of Absence,121.0,Travel_Rarely,Yes
+1244,Emp1244,LN1244,46,Nonbinary,Married,Operations,Logistics Coordinator,6941,Master's,2014-02-25,Terminated,106.0,Non-Travel,Yes
+1245,Emp1245,LN1245,33,Male,Single,Marketing,Marketing Analyst,11086,PhD,2020-12-28,Active,47.0,Travel_Rarely,Yes
+1246,Emp1246,LN1246,52,Male,Single,Operations,Logistics Coordinator,14475,PhD,2006-09-19,Active,50.0,Travel_Rarely,Yes
+1247,Emp1247,LN1247,34,Female,Married,Marketing,Brand Manager,17399,Bachelor's,2007-04-13,Leave of Absence,76.0,Non-Travel,No
+1248,Emp1248,LN1248,30,Nonbinary,Married,R&D,Lab Technician,7074,PhD,2012-11-14,Leave of Absence,47.0,Travel_Rarely,No
+1249,Emp1249,LN1249,42,Nonbinary,Married,Sales,Account Manager,9305,High School,2009-11-01,Terminated,23.0,Non-Travel,No
+1250,Emp1250,LN1250,47,Female,Married,Marketing,SEO Specialist,18572,Bachelor's,2011-01-18,Leave of Absence,145.0,Non-Travel,No
+1251,Emp1251,LN1251,38,Male,Married,Sales,Sales Representative,16000,Bachelor's,2014-05-21,Terminated,19.0,Non-Travel,No
+1252,Emp1252,LN1252,24,Male,Single,Operations,Operations Analyst,7602,Bachelor's,2019-07-11,Active,142.0,Travel_Rarely,No
+1253,Emp1253,LN1253,21,Nonbinary,Married,Human Resources,HR Manager,4493,PhD,2010-09-09,Active,144.0,Non-Travel,Yes
+1254,Emp1254,LN1254,57,Male,Single,Marketing,Brand Manager,4117,Master's,2021-08-26,Terminated,65.0,Travel_Frequently,No
+1255,Emp1255,LN1255,34,Nonbinary,Single,Finance,Accountant,10913,High School,2014-12-19,Active,95.0,Non-Travel,No
+1256,Emp1256,LN1256,23,Nonbinary,Divorced,Finance,Accountant,10440,PhD,2013-09-26,Leave of Absence,110.0,Travel_Frequently,Yes
+1257,Emp1257,LN1257,48,Male,Married,Engineering,DevOps Engineer,9236,Master's,2022-03-22,Active,73.0,Travel_Rarely,Yes
+1258,Emp1258,LN1258,48,Male,Divorced,R&D,Principal Researcher,10733,Bachelor's,2015-09-05,Active,142.0,Travel_Frequently,No
+1259,Emp1259,LN1259,26,Female,Married,Operations,Operations Analyst,13182,High School,2008-03-17,Terminated,71.0,Travel_Frequently,No
+1260,Emp1260,LN1260,33,Nonbinary,Divorced,Sales,Sales Representative,3825,Bachelor's,2008-11-03,Terminated,97.0,Travel_Rarely,No
+1261,Emp1261,LN1261,23,Male,Divorced,Operations,Operations Analyst,7618,Bachelor's,2006-12-16,Terminated,121.0,Non-Travel,No
+1262,Emp1262,LN1262,25,Female,Married,Customer Success,Customer Success Manager,6687,Master's,2007-01-19,Active,39.0,Travel_Frequently,No
+1263,Emp1263,LN1263,31,Male,Married,Customer Success,Support Associate,15298,Master's,2013-02-27,Active,80.0,Travel_Rarely,No
+1264,Emp1264,LN1264,58,Female,Married,Sales,Sales Representative,14253,PhD,2011-08-11,Leave of Absence,90.0,Travel_Rarely,No
+1265,Emp1265,LN1265,22,Male,Divorced,Engineering,Data Engineer,13818,High School,2021-02-12,Terminated,20.0,Non-Travel,No
+1266,Emp1266,LN1266,23,Female,Divorced,Customer Success,Support Associate,13043,Bachelor's,2022-12-31,Active,7.0,Travel_Frequently,Yes
+1267,Emp1267,LN1267,21,Male,Married,Marketing,SEO Specialist,7647,PhD,2022-02-23,Active,102.0,Travel_Rarely,Yes
+1268,Emp1268,LN1268,30,Female,Single,Finance,Financial Analyst,6002,High School,2008-08-04,Leave of Absence,11.0,Travel_Rarely,No
+1269,Emp1269,LN1269,51,Nonbinary,Married,Finance,Financial Analyst,6229,High School,2012-07-24,Active,39.0,Travel_Rarely,No
+1270,Emp1270,LN1270,59,Male,Single,Customer Success,Customer Success Manager,18865,PhD,2016-10-06,Leave of Absence,5.0,Travel_Rarely,Yes
+1271,Emp1271,LN1271,54,Male,Single,Finance,Financial Analyst,15476,PhD,2005-02-25,Terminated,128.0,Travel_Frequently,Yes
+1272,Emp1272,LN1272,39,Male,Divorced,Customer Success,Customer Success Manager,6379,Master's,2006-07-05,Active,134.0,Travel_Rarely,Yes
+1273,Emp1273,LN1273,56,Female,Married,R&D,Research Scientist,6171,Master's,2013-10-14,Leave of Absence,124.0,Non-Travel,No
+1274,Emp1274,LN1274,27,Nonbinary,Married,Marketing,SEO Specialist,9643,Associate's,2010-02-24,Leave of Absence,68.0,Travel_Frequently,No
+1275,Emp1275,LN1275,28,Male,Divorced,Finance,Financial Analyst,11657,Bachelor's,2008-12-09,Active,57.0,Travel_Frequently,No
+1276,Emp1276,LN1276,41,Male,Married,Marketing,Brand Manager,14047,Master's,2012-08-25,Terminated,15.0,Travel_Rarely,Yes
+1277,Emp1277,LN1277,56,Female,Single,Operations,Operations Analyst,11689,Master's,2009-09-23,Active,60.0,Travel_Rarely,Yes
+1278,Emp1278,LN1278,33,Nonbinary,Divorced,Finance,Financial Analyst,14874,High School,2017-06-19,Leave of Absence,100.0,Travel_Frequently,No
+1279,Emp1279,LN1279,36,Nonbinary,Divorced,Sales,Sales Representative,14008,Master's,2007-12-21,Leave of Absence,46.0,Travel_Rarely,Yes
+1280,Emp1280,LN1280,43,Nonbinary,Divorced,Finance,Finance Manager,4627,Bachelor's,2022-05-10,Leave of Absence,49.0,Non-Travel,No
+1281,Emp1281,LN1281,30,Male,Divorced,Sales,Sales Representative,12605,Bachelor's,2015-11-23,Leave of Absence,77.0,Travel_Frequently,Yes
+1282,Emp1282,LN1282,41,Nonbinary,Divorced,Finance,Accountant,6351,Associate's,2014-02-14,Terminated,88.0,Travel_Frequently,Yes
+1283,Emp1283,LN1283,42,Female,Married,Finance,Financial Analyst,5034,High School,2011-10-27,Active,116.0,Travel_Rarely,Yes
+1284,Emp1284,LN1284,25,Male,Married,Human Resources,HR Manager,14978,Associate's,2016-03-27,Active,44.0,Non-Travel,No
+1285,Emp1285,LN1285,60,Female,Single,Customer Success,Support Associate,8434,Bachelor's,2008-05-03,Terminated,64.0,Travel_Rarely,No
+1286,Emp1286,LN1286,28,Female,Divorced,R&D,Research Scientist,4428,Master's,2012-01-27,Leave of Absence,36.0,Non-Travel,Yes
+1287,Emp1287,LN1287,51,Nonbinary,Divorced,R&D,Lab Technician,11969,Bachelor's,2018-08-05,Terminated,18.0,Travel_Rarely,Yes
+1288,Emp1288,LN1288,44,Female,Single,Operations,Logistics Coordinator,10482,High School,2012-12-06,Terminated,80.0,Travel_Rarely,No
+1289,Emp1289,LN1289,45,Nonbinary,Married,Finance,Financial Analyst,8639,High School,2015-08-16,Terminated,26.0,Travel_Rarely,No
+1290,Emp1290,LN1290,20,Female,Single,Sales,Account Manager,15254,PhD,2014-09-28,Leave of Absence,49.0,Travel_Rarely,Yes
+1291,Emp1291,LN1291,22,Nonbinary,Divorced,Finance,Finance Manager,16609,Master's,2009-01-21,Leave of Absence,94.0,Travel_Rarely,No
+1292,Emp1292,LN1292,34,Male,Divorced,R&D,Principal Researcher,12107,High School,2010-12-29,Terminated,89.0,Travel_Frequently,Yes
+1293,Emp1293,LN1293,26,Male,Single,Human Resources,HR Manager,18392,High School,2017-06-16,Terminated,33.0,Non-Travel,No
+1294,Emp1294,LN1294,55,Nonbinary,Married,It,IT Support,7895,Master's,2019-09-13,Leave of Absence,66.0,Travel_Rarely,Yes
+1295,Emp1295,LN1295,50,Female,Single,Human Resources,HR Manager,13795,Bachelor's,2012-07-10,Terminated,87.0,Travel_Rarely,No
+1296,Emp1296,LN1296,22,Nonbinary,Single,Engineering,Software Engineer,5631,Bachelor's,2017-08-08,Terminated,138.0,Travel_Rarely,Yes
+1297,Emp1297,LN1297,46,Female,Single,R&D,Research Scientist,7001,Bachelor's,2009-01-04,Terminated,134.0,Non-Travel,Yes
+1298,Emp1298,LN1298,26,Nonbinary,Married,Human Resources,HR Specialist,11864,Associate's,2012-03-28,Active,77.0,Travel_Frequently,No
+1299,Emp1299,LN1299,20,Nonbinary,Single,Finance,Finance Manager,13630,PhD,2007-01-11,Leave of Absence,45.0,Travel_Frequently,No
+1300,Emp1300,LN1300,41,Female,Divorced,Sales,Sales Representative,19851,Master's,2015-08-30,Active,10.0,Travel_Rarely,Yes
+1301,Emp1301,LN1301,56,Female,Divorced,R&D,Lab Technician,10730,Associate's,2008-09-22,Terminated,112.0,Non-Travel,No
+1302,Emp1302,LN1302,22,Nonbinary,Divorced,Customer Success,Customer Success Manager,17684,High School,2020-05-28,Active,54.0,Travel_Frequently,Yes
+1303,Emp1303,LN1303,21,Female,Married,R&D,Lab Technician,7938,Bachelor's,2022-07-09,Active,48.0,Travel_Rarely,No
+1304,Emp1304,LN1304,43,Female,Single,Marketing,SEO Specialist,13859,Associate's,2015-02-28,Active,110.0,Travel_Rarely,No
+1305,Emp1305,LN1305,33,Male,Divorced,R&D,Research Scientist,9285,Master's,2019-06-16,Leave of Absence,52.0,Non-Travel,No
+1306,Emp1306,LN1306,20,Nonbinary,Divorced,Sales,Sales Executive,5410,Master's,2006-11-27,Active,97.0,Non-Travel,Yes
+1307,Emp1307,LN1307,34,Female,Single,Operations,Logistics Coordinator,18524,High School,2017-05-20,Terminated,29.0,Travel_Frequently,No
+1308,Emp1308,LN1308,20,Nonbinary,Married,Marketing,Brand Manager,3998,Associate's,2005-03-25,Leave of Absence,146.0,Travel_Rarely,Yes
+1309,Emp1309,LN1309,27,Nonbinary,Single,Finance,Finance Manager,10383,Master's,2011-06-26,Active,9.0,Non-Travel,No
+1310,Emp1310,LN1310,35,Male,Married,Operations,Logistics Coordinator,19013,Bachelor's,2017-07-25,Active,100.0,Travel_Frequently,Yes
+1311,Emp1311,LN1311,34,Female,Divorced,R&D,Research Scientist,9189,PhD,2020-04-06,Terminated,31.0,Travel_Frequently,Yes
+1312,Emp1312,LN1312,45,Female,Single,Marketing,Brand Manager,5081,PhD,2006-08-19,Terminated,109.0,Travel_Rarely,No
+1313,Emp1313,LN1313,36,Male,Divorced,Finance,Accountant,19184,PhD,2022-07-23,Leave of Absence,64.0,Travel_Frequently,No
+1314,Emp1314,LN1314,31,Female,Married,Human Resources,Recruiter,8958,Master's,2012-12-06,Leave of Absence,55.0,Travel_Rarely,No
+1315,Emp1315,LN1315,42,Female,Married,R&D,Principal Researcher,8412,High School,2013-10-29,Terminated,81.0,Travel_Rarely,No
+1316,Emp1316,LN1316,44,Male,Divorced,Sales,Sales Executive,12403,Master's,2019-02-09,Terminated,37.0,Non-Travel,Yes
+1317,Emp1317,LN1317,59,Nonbinary,Divorced,Sales,Sales Executive,6472,High School,2008-02-03,Terminated,31.0,Travel_Rarely,No
+1318,Emp1318,LN1318,31,Male,Divorced,Engineering,Software Engineer,11707,Master's,2005-10-05,Terminated,144.0,Travel_Frequently,No
+1319,Emp1319,LN1319,42,Nonbinary,Divorced,Sales,Account Manager,4030,Associate's,2011-09-19,Active,25.0,Travel_Rarely,No
+1320,Emp1320,LN1320,43,Male,Married,Customer Success,Customer Success Manager,6149,Master's,2005-11-27,Leave of Absence,17.0,Travel_Rarely,No
+1321,Emp1321,LN1321,42,Female,Divorced,Finance,Financial Analyst,19767,Associate's,2006-01-27,Active,58.0,Travel_Frequently,Yes
+1322,Emp1322,LN1322,43,Female,Married,It,Network Engineer,8557,High School,2013-05-09,Active,39.0,Travel_Frequently,Yes
+1323,Emp1323,LN1323,38,Male,Divorced,Human Resources,HR Specialist,11141,PhD,2019-12-17,Leave of Absence,79.0,Non-Travel,Yes
+1324,Emp1324,LN1324,35,Male,Divorced,Operations,Operations Analyst,6982,High School,2013-12-07,Leave of Absence,88.0,Travel_Frequently,Yes
+1325,Emp1325,LN1325,46,Nonbinary,Divorced,Human Resources,HR Manager,4020,High School,2011-01-07,Active,109.0,Travel_Frequently,Yes
+1326,Emp1326,LN1326,38,Male,Married,Finance,Financial Analyst,12089,High School,2010-08-18,Terminated,121.0,Non-Travel,No
+1327,Emp1327,LN1327,39,Nonbinary,Married,Marketing,SEO Specialist,10957,Bachelor's,2021-09-19,Terminated,63.0,Travel_Rarely,Yes
+1328,Emp1328,LN1328,30,Female,Single,Engineering,Data Engineer,7369,Bachelor's,2010-12-02,Active,128.0,Travel_Frequently,No
+1329,Emp1329,LN1329,44,Female,Divorced,Finance,Finance Manager,3023,High School,2011-12-09,Terminated,101.0,Travel_Rarely,Yes
+1330,Emp1330,LN1330,27,Male,Divorced,Customer Success,Customer Success Manager,8847,PhD,2014-12-19,Active,137.0,Non-Travel,Yes
+1331,Emp1331,LN1331,28,Nonbinary,Single,Marketing,Brand Manager,6900,High School,2021-12-29,Active,30.0,Non-Travel,Yes
+1332,Emp1332,LN1332,47,Nonbinary,Divorced,Operations,Logistics Coordinator,3645,Master's,2021-05-02,Terminated,46.0,Travel_Rarely,Yes
+1333,Emp1333,LN1333,29,Male,Divorced,Human Resources,HR Specialist,6956,Associate's,2008-07-12,Leave of Absence,123.0,Travel_Frequently,Yes
+1334,Emp1334,LN1334,51,Nonbinary,Single,Engineering,Data Engineer,14122,Associate's,2012-01-18,Active,107.0,Travel_Frequently,No
+1335,Emp1335,LN1335,50,Nonbinary,Married,Customer Success,Customer Success Manager,13122,Master's,2008-07-06,Active,32.0,Non-Travel,No
+1336,Emp1336,LN1336,54,Nonbinary,Divorced,Marketing,SEO Specialist,19993,Master's,2016-11-20,Leave of Absence,30.0,Non-Travel,No
+1337,Emp1337,LN1337,58,Male,Married,Sales,Sales Executive,13883,Bachelor's,2006-10-03,Active,113.0,Non-Travel,Yes
+1338,Emp1338,LN1338,53,Male,Married,Engineering,Software Engineer,7596,Bachelor's,2008-07-14,Active,37.0,Non-Travel,No
+1339,Emp1339,LN1339,22,Male,Married,Operations,Operations Analyst,18864,PhD,2005-07-10,Terminated,19.0,Non-Travel,No
+1340,Emp1340,LN1340,26,Male,Divorced,Engineering,Data Engineer,17148,PhD,2009-09-09,Leave of Absence,146.0,Travel_Rarely,No
+1341,Emp1341,LN1341,29,Female,Single,Marketing,Marketing Analyst,18690,Associate's,2006-10-03,Terminated,22.0,Travel_Frequently,Yes
+1342,Emp1342,LN1342,35,Nonbinary,Single,Marketing,Marketing Analyst,10019,High School,2010-02-04,Leave of Absence,50.0,Travel_Rarely,Yes
+1343,Emp1343,LN1343,25,Male,Single,Customer Success,Support Associate,19941,PhD,2013-03-02,Active,67.0,Non-Travel,Yes
+1344,Emp1344,LN1344,50,Male,Married,Sales,Sales Executive,3735,Bachelor's,2015-03-27,Active,12.0,Travel_Frequently,No
+1345,Emp1345,LN1345,27,Male,Divorced,R&D,Principal Researcher,16330,PhD,2012-10-02,Leave of Absence,111.0,Non-Travel,Yes
+1346,Emp1346,LN1346,56,Female,Married,Sales,Account Manager,5477,Associate's,2013-01-31,Terminated,18.0,Non-Travel,No
+1347,Emp1347,LN1347,51,Female,Divorced,Engineering,Data Engineer,3226,Bachelor's,2010-02-08,Terminated,67.0,Travel_Frequently,Yes
+1348,Emp1348,LN1348,55,Female,Single,Customer Success,Customer Success Manager,18658,Bachelor's,2010-03-02,Terminated,87.0,Travel_Frequently,Yes
+1349,Emp1349,LN1349,37,Nonbinary,Divorced,Engineering,Software Engineer,9501,High School,2015-04-26,Active,86.0,Non-Travel,No
+1350,Emp1350,LN1350,32,Male,Single,Marketing,Marketing Analyst,16136,Bachelor's,2009-11-08,Active,41.0,Travel_Rarely,No
+1351,Emp1351,LN1351,52,Male,Married,Finance,Financial Analyst,11511,Master's,2006-06-01,Leave of Absence,48.0,Travel_Rarely,Yes
+1352,Emp1352,LN1352,42,Male,Divorced,Sales,Sales Representative,5538,PhD,2022-01-25,Leave of Absence,38.0,Non-Travel,No
+1353,Emp1353,LN1353,32,Male,Married,Finance,Finance Manager,13248,Master's,2022-01-20,Active,144.0,Travel_Rarely,Yes
+1354,Emp1354,LN1354,20,Female,Married,Finance,Accountant,19420,Master's,2006-03-03,Leave of Absence,2.0,Non-Travel,No
+1355,Emp1355,LN1355,51,Nonbinary,Divorced,Engineering,Software Engineer,18387,Master's,2015-02-16,Active,13.0,Travel_Frequently,Yes
+1356,Emp1356,LN1356,54,Male,Single,Operations,Operations Analyst,5630,PhD,2015-12-30,Leave of Absence,55.0,Travel_Frequently,Yes
+1357,Emp1357,LN1357,37,Male,Single,Operations,Logistics Coordinator,3445,Associate's,2014-11-28,Terminated,65.0,Travel_Rarely,Yes
+1358,Emp1358,LN1358,43,Female,Single,Finance,Finance Manager,16257,High School,2006-02-13,Terminated,91.0,Non-Travel,Yes
+1359,Emp1359,LN1359,34,Nonbinary,Single,R&D,Research Scientist,5688,High School,2018-11-16,Terminated,25.0,Travel_Rarely,Yes
+1360,Emp1360,LN1360,25,Nonbinary,Single,It,Systems Admin,15647,Bachelor's,2011-06-17,Leave of Absence,10.0,Non-Travel,Yes
+1361,Emp1361,LN1361,42,Female,Divorced,Sales,Sales Representative,16971,PhD,2010-11-23,Leave of Absence,111.0,Travel_Frequently,No
+1362,Emp1362,LN1362,50,Nonbinary,Divorced,It,IT Support,4451,Bachelor's,2015-12-26,Terminated,6.0,Travel_Rarely,No
+1363,Emp1363,LN1363,52,Nonbinary,Single,Customer Success,Support Associate,4851,Bachelor's,2017-04-26,Active,87.0,Non-Travel,No
+1364,Emp1364,LN1364,34,Male,Single,Customer Success,Support Associate,14809,High School,2015-09-24,Leave of Absence,99.0,Non-Travel,No
+1365,Emp1365,LN1365,55,Female,Single,R&D,Research Scientist,3636,Master's,2012-04-17,Active,134.0,Non-Travel,No
+1366,Emp1366,LN1366,26,Male,Married,Marketing,Marketing Analyst,13984,Associate's,2005-05-06,Leave of Absence,93.0,Travel_Frequently,No
+1367,Emp1367,LN1367,42,Male,Single,Sales,Sales Executive,6993,Associate's,2019-03-08,Active,6.0,Non-Travel,No
+1368,Emp1368,LN1368,33,Female,Divorced,Marketing,Marketing Analyst,16280,Bachelor's,2022-04-27,Leave of Absence,33.0,Non-Travel,Yes
+1369,Emp1369,LN1369,26,Nonbinary,Single,Finance,Finance Manager,7088,High School,2020-12-22,Active,70.0,Non-Travel,Yes
+1370,Emp1370,LN1370,27,Female,Single,It,IT Support,9209,Bachelor's,2018-07-31,Terminated,76.0,Non-Travel,Yes
+1371,Emp1371,LN1371,29,Female,Single,Finance,Accountant,17445,High School,2017-09-19,Terminated,52.0,Travel_Rarely,No
+1372,Emp1372,LN1372,58,Female,Divorced,Human Resources,HR Manager,8908,High School,2010-04-05,Terminated,48.0,Travel_Rarely,No
+1373,Emp1373,LN1373,22,Male,Divorced,Operations,Operations Analyst,19420,Master's,2010-05-16,Terminated,41.0,Travel_Rarely,No
+1374,Emp1374,LN1374,45,Female,Single,Marketing,SEO Specialist,17245,PhD,2021-10-18,Leave of Absence,111.0,Travel_Rarely,Yes
+1375,Emp1375,LN1375,21,Nonbinary,Single,Operations,Operations Analyst,11269,Associate's,2018-12-27,Terminated,19.0,Travel_Rarely,Yes
+1376,Emp1376,LN1376,24,Female,Single,Customer Success,Customer Success Manager,5284,High School,2017-01-10,Active,93.0,Non-Travel,Yes
+1377,Emp1377,LN1377,59,Nonbinary,Single,Engineering,DevOps Engineer,19698,Master's,2022-11-24,Terminated,143.0,Travel_Rarely,No
+1378,Emp1378,LN1378,51,Female,Married,Engineering,Software Engineer,9203,Bachelor's,2019-06-24,Leave of Absence,49.0,Non-Travel,Yes
+1379,Emp1379,LN1379,51,Male,Married,R&D,Research Scientist,15648,PhD,2019-12-15,Leave of Absence,85.0,Travel_Rarely,No
+1380,Emp1380,LN1380,44,Female,Married,Marketing,SEO Specialist,13878,High School,2019-04-11,Active,25.0,Travel_Rarely,Yes
+1381,Emp1381,LN1381,29,Nonbinary,Single,Customer Success,Customer Success Manager,15611,Associate's,2014-03-22,Leave of Absence,108.0,Non-Travel,No
+1382,Emp1382,LN1382,27,Female,Divorced,Finance,Finance Manager,13029,PhD,2011-03-26,Active,47.0,Travel_Rarely,Yes
+1383,Emp1383,LN1383,36,Nonbinary,Married,R&D,Research Scientist,13733,PhD,2018-09-02,Leave of Absence,129.0,Travel_Rarely,Yes
+1384,Emp1384,LN1384,59,Male,Single,Human Resources,HR Manager,15128,High School,2021-06-07,Terminated,5.0,Travel_Frequently,No
+1385,Emp1385,LN1385,27,Nonbinary,Divorced,Operations,Logistics Coordinator,14091,Bachelor's,2015-05-27,Active,143.0,Travel_Frequently,Yes
+1386,Emp1386,LN1386,41,Male,Married,Operations,Logistics Coordinator,7584,Master's,2019-08-03,Active,98.0,Non-Travel,Yes
+1387,Emp1387,LN1387,40,Female,Married,Sales,Sales Executive,5569,PhD,2017-10-07,Active,69.0,Travel_Rarely,No
+1388,Emp1388,LN1388,20,Male,Married,Finance,Financial Analyst,8487,PhD,2021-07-17,Leave of Absence,10.0,Travel_Frequently,No
+1389,Emp1389,LN1389,22,Female,Single,Sales,Sales Executive,16689,High School,2019-10-08,Leave of Absence,89.0,Non-Travel,No
+1390,Emp1390,LN1390,24,Nonbinary,Married,Customer Success,Support Associate,5559,Bachelor's,2021-11-07,Active,81.0,Travel_Frequently,Yes
+1391,Emp1391,LN1391,57,Male,Single,Human Resources,Recruiter,14217,PhD,2014-04-09,Active,20.0,Travel_Rarely,No
+1392,Emp1392,LN1392,55,Male,Single,R&D,Research Scientist,12998,High School,2006-05-07,Leave of Absence,90.0,Non-Travel,No
+1393,Emp1393,LN1393,53,Nonbinary,Married,Engineering,Data Engineer,9939,PhD,2016-12-25,Leave of Absence,31.0,Travel_Frequently,Yes
+1394,Emp1394,LN1394,38,Male,Divorced,Operations,Logistics Coordinator,11451,PhD,2019-01-03,Leave of Absence,117.0,Travel_Frequently,Yes
+1395,Emp1395,LN1395,27,Nonbinary,Divorced,Human Resources,Recruiter,18792,Bachelor's,2015-10-14,Terminated,45.0,Non-Travel,Yes
+1396,Emp1396,LN1396,33,Nonbinary,Single,Customer Success,Customer Success Manager,12568,Master's,2012-10-17,Active,63.0,Travel_Rarely,No
+1397,Emp1397,LN1397,30,Nonbinary,Divorced,Human Resources,HR Manager,9840,Bachelor's,2013-07-20,Leave of Absence,119.0,Travel_Rarely,Yes
+1398,Emp1398,LN1398,56,Male,Divorced,Finance,Finance Manager,12812,Associate's,2011-09-06,Terminated,112.0,Non-Travel,No
+1399,Emp1399,LN1399,25,Nonbinary,Married,Finance,Finance Manager,15512,High School,2010-06-21,Terminated,99.0,Travel_Frequently,Yes
+1400,Emp1400,LN1400,24,Female,Single,Marketing,SEO Specialist,3752,Master's,2014-08-31,Terminated,93.0,Travel_Rarely,No
+1401,Emp1401,LN1401,50,Male,Divorced,Operations,Logistics Coordinator,19322,Bachelor's,2022-06-28,Terminated,65.0,Non-Travel,No
+1402,Emp1402,LN1402,40,Male,Married,Sales,Sales Executive,10797,Associate's,2010-03-14,Active,66.0,Travel_Rarely,No
+1403,Emp1403,LN1403,35,Male,Divorced,Finance,Financial Analyst,13732,Associate's,2022-03-17,Terminated,32.0,Non-Travel,Yes
+1404,Emp1404,LN1404,48,Female,Single,Operations,Operations Analyst,15756,Bachelor's,2012-03-03,Active,45.0,Non-Travel,Yes
+1405,Emp1405,LN1405,34,Female,Single,R&D,Research Scientist,8957,PhD,2018-08-23,Active,59.0,Travel_Rarely,Yes
+1406,Emp1406,LN1406,47,Nonbinary,Single,Operations,Logistics Coordinator,10729,High School,2005-02-16,Leave of Absence,64.0,Travel_Rarely,No
+1407,Emp1407,LN1407,38,Male,Single,Sales,Sales Executive,4740,High School,2020-12-01,Leave of Absence,91.0,Non-Travel,Yes
+1408,Emp1408,LN1408,36,Nonbinary,Divorced,Customer Success,Customer Success Manager,17334,PhD,2022-01-08,Terminated,86.0,Travel_Rarely,No
+1409,Emp1409,LN1409,51,Female,Married,Engineering,Software Engineer,11218,PhD,2018-02-05,Leave of Absence,84.0,Travel_Rarely,No
+1410,Emp1410,LN1410,38,Male,Married,It,Network Engineer,13998,Associate's,2021-04-29,Terminated,26.0,Non-Travel,No
+1411,Emp1411,LN1411,22,Female,Married,Engineering,Software Engineer,15877,Master's,2013-10-07,Active,18.0,Travel_Rarely,Yes
+1412,Emp1412,LN1412,58,Female,Divorced,It,Systems Admin,8998,High School,2022-02-12,Leave of Absence,42.0,Travel_Frequently,Yes
+1413,Emp1413,LN1413,44,Male,Single,Sales,Account Manager,5207,Bachelor's,2013-07-24,Terminated,17.0,Travel_Rarely,Yes
+1414,Emp1414,LN1414,40,Male,Single,Operations,Logistics Coordinator,18769,Associate's,2007-11-10,Active,114.0,Travel_Frequently,No
+1415,Emp1415,LN1415,22,Nonbinary,Married,Customer Success,Customer Success Manager,8843,High School,2007-12-10,Terminated,145.0,Non-Travel,No
+1416,Emp1416,LN1416,45,Nonbinary,Divorced,Human Resources,HR Specialist,13744,High School,2010-11-15,Terminated,85.0,Non-Travel,Yes
+1417,Emp1417,LN1417,43,Nonbinary,Single,Engineering,DevOps Engineer,11378,High School,2010-07-12,Terminated,20.0,Travel_Rarely,No
+1418,Emp1418,LN1418,26,Female,Divorced,Marketing,SEO Specialist,10925,High School,2013-12-17,Leave of Absence,67.0,Travel_Frequently,Yes
+1419,Emp1419,LN1419,21,Female,Divorced,Finance,Accountant,5199,Bachelor's,2015-12-22,Terminated,54.0,Non-Travel,Yes
+1420,Emp1420,LN1420,44,Female,Divorced,Customer Success,Customer Success Manager,6822,High School,2017-04-22,Leave of Absence,14.0,Non-Travel,No
+1421,Emp1421,LN1421,56,Male,Divorced,Marketing,SEO Specialist,11961,High School,2010-01-06,Terminated,135.0,Non-Travel,Yes
+1422,Emp1422,LN1422,52,Male,Married,Finance,Accountant,10675,Bachelor's,2009-04-29,Active,12.0,Travel_Rarely,Yes
+1423,Emp1423,LN1423,35,Male,Married,Sales,Sales Executive,15087,Master's,2009-06-11,Active,43.0,Non-Travel,Yes
+1424,Emp1424,LN1424,43,Female,Married,R&D,Lab Technician,13737,High School,2015-09-06,Active,31.0,Non-Travel,Yes
+1425,Emp1425,LN1425,39,Male,Single,Finance,Finance Manager,5512,Master's,2009-10-27,Active,28.0,Travel_Rarely,No
+1426,Emp1426,LN1426,36,Nonbinary,Divorced,Finance,Accountant,4644,Associate's,2008-12-27,Terminated,86.0,Non-Travel,No
+1427,Emp1427,LN1427,51,Male,Single,Operations,Operations Analyst,15546,Associate's,2016-03-18,Terminated,76.0,Non-Travel,No
+1428,Emp1428,LN1428,35,Female,Divorced,Marketing,Brand Manager,4920,Master's,2020-06-07,Terminated,101.0,Travel_Frequently,No
+1429,Emp1429,LN1429,30,Nonbinary,Divorced,Customer Success,Customer Success Manager,4371,PhD,2015-08-06,Terminated,120.0,Travel_Frequently,Yes
+1430,Emp1430,LN1430,55,Male,Divorced,It,IT Support,7629,Bachelor's,2006-12-20,Leave of Absence,131.0,Non-Travel,No
+1431,Emp1431,LN1431,48,Male,Single,It,Systems Admin,14279,Master's,2020-01-19,Leave of Absence,24.0,Travel_Frequently,No
+1432,Emp1432,LN1432,29,Female,Divorced,Marketing,SEO Specialist,5423,Master's,2016-06-12,Terminated,99.0,Non-Travel,No
+1433,Emp1433,LN1433,36,Nonbinary,Divorced,Finance,Finance Manager,19047,Associate's,2013-04-13,Leave of Absence,105.0,Travel_Rarely,No
+1434,Emp1434,LN1434,35,Male,Married,Engineering,DevOps Engineer,9801,High School,2011-12-14,Terminated,136.0,Non-Travel,Yes
+1435,Emp1435,LN1435,55,Male,Divorced,Human Resources,Recruiter,17485,Master's,2018-01-01,Active,42.0,Travel_Frequently,Yes
+1436,Emp1436,LN1436,38,Female,Divorced,Marketing,Marketing Analyst,10278,Associate's,2013-05-02,Terminated,91.0,Travel_Rarely,No
+1437,Emp1437,LN1437,51,Female,Single,Customer Success,Support Associate,7526,High School,2017-03-19,Leave of Absence,34.0,Travel_Frequently,Yes
+1438,Emp1438,LN1438,31,Nonbinary,Single,Customer Success,Support Associate,10050,PhD,2009-05-05,Active,45.0,Travel_Rarely,No
+1439,Emp1439,LN1439,45,Female,Single,Finance,Financial Analyst,16890,High School,2021-09-18,Active,72.0,Travel_Rarely,Yes
+1440,Emp1440,LN1440,34,Male,Married,Customer Success,Support Associate,19878,Associate's,2008-08-08,Active,59.0,Travel_Frequently,Yes
+1441,Emp1441,LN1441,31,Female,Married,Sales,Account Manager,3589,PhD,2010-12-19,Terminated,26.0,Travel_Rarely,Yes
+1442,Emp1442,LN1442,34,Male,Divorced,Engineering,Data Engineer,4815,High School,2017-08-16,Active,87.0,Non-Travel,No
+1443,Emp1443,LN1443,55,Nonbinary,Divorced,Sales,Account Manager,15859,Associate's,2005-01-18,Active,107.0,Travel_Rarely,No
+1444,Emp1444,LN1444,44,Female,Divorced,Human Resources,Recruiter,14355,Bachelor's,2008-09-04,Terminated,81.0,Non-Travel,Yes
+1445,Emp1445,LN1445,30,Male,Single,Customer Success,Customer Success Manager,10566,Associate's,2014-08-12,Active,104.0,Travel_Rarely,No
+1446,Emp1446,LN1446,57,Female,Divorced,Finance,Accountant,14472,High School,2008-07-07,Leave of Absence,134.0,Non-Travel,Yes
+1447,Emp1447,LN1447,39,Female,Married,Engineering,Data Engineer,18715,High School,2021-10-28,Terminated,86.0,Travel_Rarely,No
+1448,Emp1448,LN1448,26,Female,Single,Marketing,Brand Manager,13314,High School,2006-02-09,Terminated,121.0,Non-Travel,Yes
+1449,Emp1449,LN1449,33,Male,Single,Marketing,Brand Manager,10838,Master's,2011-08-22,Active,64.0,Non-Travel,No
+1450,Emp1450,LN1450,44,Nonbinary,Married,Customer Success,Support Associate,3067,PhD,2021-07-06,Active,127.0,Non-Travel,No
+1451,Emp1451,LN1451,29,Nonbinary,Married,Finance,Financial Analyst,17980,Bachelor's,2008-06-28,Terminated,4.0,Travel_Frequently,No
+1452,Emp1452,LN1452,32,Female,Married,R&D,Research Scientist,17354,High School,2022-06-03,Terminated,99.0,Travel_Frequently,Yes
+1453,Emp1453,LN1453,49,Female,Divorced,Human Resources,Recruiter,10970,High School,2018-09-11,Active,65.0,Non-Travel,Yes
+1454,Emp1454,LN1454,58,Female,Married,Operations,Logistics Coordinator,8095,Bachelor's,2021-11-16,Leave of Absence,23.0,Travel_Frequently,Yes
+1455,Emp1455,LN1455,58,Male,Single,Operations,Operations Analyst,15441,Master's,2017-02-12,Terminated,140.0,Travel_Rarely,No
+1456,Emp1456,LN1456,38,Male,Married,Engineering,Data Engineer,15493,High School,2020-07-30,Terminated,111.0,Travel_Rarely,No
+1457,Emp1457,LN1457,38,Nonbinary,Single,Engineering,Data Engineer,8607,High School,2021-04-06,Leave of Absence,116.0,Travel_Rarely,Yes
+1458,Emp1458,LN1458,33,Female,Married,Finance,Financial Analyst,11965,Master's,2013-03-15,Leave of Absence,121.0,Non-Travel,Yes
+1459,Emp1459,LN1459,41,Nonbinary,Divorced,Marketing,Marketing Analyst,10901,Associate's,2006-02-02,Leave of Absence,12.0,Non-Travel,No
+1460,Emp1460,LN1460,50,Nonbinary,Married,Marketing,Marketing Analyst,8555,PhD,2020-11-03,Active,24.0,Non-Travel,Yes
+1461,Emp1461,LN1461,38,Nonbinary,Married,Engineering,Data Engineer,4969,Master's,2008-06-18,Leave of Absence,22.0,Non-Travel,Yes
+1462,Emp1462,LN1462,51,Male,Married,Sales,Account Manager,8004,Bachelor's,2018-09-30,Active,16.0,Non-Travel,Yes
+1463,Emp1463,LN1463,47,Male,Single,Human Resources,HR Specialist,10468,Bachelor's,2009-04-22,Leave of Absence,25.0,Travel_Rarely,No
+1464,Emp1464,LN1464,48,Nonbinary,Married,R&D,Lab Technician,4898,PhD,2017-01-18,Terminated,25.0,Travel_Frequently,Yes
+1465,Emp1465,LN1465,44,Nonbinary,Single,Finance,Financial Analyst,7013,Bachelor's,2020-12-03,Active,20.0,Travel_Frequently,No
+1466,Emp1466,LN1466,40,Male,Divorced,It,IT Support,17260,Associate's,2008-11-27,Leave of Absence,43.0,Travel_Rarely,No
+1467,Emp1467,LN1467,39,Male,Single,Operations,Logistics Coordinator,17613,PhD,2016-06-22,Terminated,48.0,Travel_Frequently,Yes
+1468,Emp1468,LN1468,46,Male,Single,Operations,Logistics Coordinator,18226,PhD,2011-08-27,Active,43.0,Travel_Frequently,Yes
+1469,Emp1469,LN1469,51,Female,Married,Operations,Operations Analyst,13238,Associate's,2014-04-18,Leave of Absence,65.0,Non-Travel,Yes
+1470,Emp1470,LN1470,35,Male,Divorced,Sales,Sales Representative,16501,Associate's,2010-11-25,Active,77.0,Travel_Rarely,Yes
