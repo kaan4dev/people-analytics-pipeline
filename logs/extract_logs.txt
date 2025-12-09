@@ -1,0 +1,13 @@
+(venv) kaancakir@Kaans-MacBook-Air people-analytics-pipeline % python etl/extract/extract.py
+Starting extract process...
+
+Data extracted from attendance_system: data/raw/attendance/2025-12-09/attendance_system_batch_cea8c77b.csv
+Manifest updated: data/raw/attendance/2025-12-09/manifest.txt
+Data extracted from engagement_system: data/raw/engagement/2025-12-09/engagement_system_batch_002ad711.csv
+Manifest updated: data/raw/engagement/2025-12-09/manifest.txt
+Data extracted from performance_system: data/raw/performance/2025-12-09/performance_system_batch_36845a42.csv
+Manifest updated: data/raw/performance/2025-12-09/manifest.txt
+Data extracted from hr_core_system: data/raw/ibm_hr/2025-12-09/hr_core_system_batch_e0152ece.csv
+Manifest updated: data/raw/ibm_hr/2025-12-09/manifest.txt
+
+Extract process done.
