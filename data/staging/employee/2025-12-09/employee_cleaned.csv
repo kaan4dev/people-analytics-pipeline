@@ -1,4 +1,4 @@
-employeeid,firstname,lastname,age,gender,maritalstatus,department,jobrole,monthlyincome,educationlevel,hiredate,employmentstatus,managerid,businesstravel,overtime
+employee_id,firstname,lastname,age,gender,maritalstatus,department,jobrole,monthlyincome,educationlevel,hiredate,employmentstatus,managerid,businesstravel,overtime
 1,Emp1,LN1,21,Male,Single,It,IT Support,6274,High School,2006-08-13,Terminated,,Travel_Frequently,Yes
 2,Emp2,LN2,23,Female,Single,Engineering,Data Engineer,12147,Master's,2006-12-06,Terminated,,Travel_Rarely,Yes
 3,Emp3,LN3,59,Male,Married,Marketing,Marketing Analyst,9454,PhD,2008-05-26,Active,,Travel_Frequently,Yes
