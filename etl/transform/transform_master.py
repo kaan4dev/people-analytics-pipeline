@@ -20,7 +20,7 @@ def ensure_dir(path: str):
     os.makedirs(path, exist_ok=True)
 
 def run_master_transform():
-    print("\n===== Running Master Transform =====\n")
+    print("\nRunning Master Transform\n")
 
     emp_folder = get_latest_staging_folder("data/staging/employee")
     att_folder = get_latest_staging_folder("data/staging/attendance")
@@ -94,7 +94,7 @@ def run_master_transform():
     master.to_csv(output_path, index=False)
 
     print(f"Master dataset saved to: {output_path}")
-    print("\n===== Master Transformation Complete =====\n")
+    print("\nMaster Transformation Complete\n")
 
 
 if __name__ == "__main__":
